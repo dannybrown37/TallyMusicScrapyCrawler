@@ -1,0 +1,14 @@
+[
+{"website": "https://junctionatmonroe.com/event.asp?E=686", "date_time": "Thu Aug 9 7pm", "ticket_prices": [], "cover": "No cover charge", "venue": "The Junction at Monroe", "headliner": "Karaoke Night"},
+{"website": "https://junctionatmonroe.com/event.asp?E=679", "date_time": "Sat Aug 25 8pm", "ticket_prices": ["$10.00", "$15.00"], "cover": null, "venue": "The Junction at Monroe", "headliner": "Two Foot Level"},
+{"website": "https://junctionatmonroe.com/event.asp?E=680", "date_time": "Fri Aug 31 8pm", "ticket_prices": ["$10.00", "$15.00"], "cover": null, "venue": "The Junction at Monroe", "headliner": "Revival featuring Avis Berry"},
+{"website": "https://junctionatmonroe.com/event.asp?E=633", "date_time": "Fri Aug 17 8pm", "ticket_prices": ["$15.00", "$20.00"], "cover": null, "venue": "The Junction at Monroe", "headliner": "Stevie Ray Vaughan Tribute"},
+{"website": "https://junctionatmonroe.com/event.asp?E=682", "date_time": "Sat Aug 11 8pm", "ticket_prices": ["$10.00", "$15.00"], "cover": null, "venue": "The Junction at Monroe", "headliner": "An Intimate Evening of Acoustic Blues"},
+{"website": "https://junctionatmonroe.com/event.asp?E=662", "date_time": "Sun Aug 12 6pm", "ticket_prices": [], "cover": "$5 cover", "venue": "The Junction at Monroe", "headliner": "Eat, Drink, & Meet Mary"},
+{"website": "https://junctionatmonroe.com/event.asp?E=687", "date_time": "Thu Aug 9 7pm", "ticket_prices": [], "cover": "Tickets available ", "venue": "The Junction at Monroe", "headliner": "Paint Nite"},
+{"website": "https://junctionatmonroe.com/event.asp?E=681", "date_time": "Fri Sep 7 8pm", "ticket_prices": ["$10.00", "$15.00"], "cover": null, "venue": "The Junction at Monroe", "headliner": "Alex Lopez Xpress"},
+{"website": "https://junctionatmonroe.com/event.asp?E=634", "date_time": "Fri Aug 24 8pm", "ticket_prices": ["$10.00", "$15.00"], "cover": null, "venue": "The Junction at Monroe", "headliner": "ACME Rhythm & Blues Anniversary Party"},
+{"website": "https://junctionatmonroe.com/event.asp?E=635", "date_time": "Sun Aug 26 8pm", "ticket_prices": [], "cover": "No cover charge", "venue": "The Junction at Monroe", "headliner": "Bill Pandolfi's 65th Birthday Celebration"},
+{"website": "https://junctionatmonroe.com/event.asp?E=688", "date_time": "Fri Sep 21 8pm", "ticket_prices": ["$15.00", "$25.00"], "cover": null, "venue": "The Junction at Monroe", "headliner": "Emi Sunshine"},
+{"website": "https://junctionatmonroe.com/event.asp?E=689", "date_time": "Fri Sep 28 8pm", "ticket_prices": ["$10.00", "$15.00"], "cover": null, "venue": "The Junction at Monroe", "headliner": "Highway 85"}
+]
