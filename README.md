@@ -1,2 +1,2 @@
 # TallyMusicScrapyCrawler
-Get the concerts. 
+Get the concerts. All of them.
