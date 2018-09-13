@@ -5,15 +5,21 @@ from scrapy.selector import HtmlXPathSelector
 
 class FsubotSpider(scrapy.Spider):
     name = 'fsubot'
-    start_urls = ['https://calendar.fsu.edu/calendar/month/2018/7/30?event_types%5B%5D=89374%2F']
+    start_urls = ['https://calendar.fsu.edu/main/calendar?event_types%5B%5D=89123']
     custom_settings = {
         'FEED_URI': 'output/fsuoutput.json'
     }
 
 
-    def parse(self, response):
+    def parse(self, response): # div.event_item a.box_left
+        # delete old data file if it exists
+        try:
+            os.remove("../output/fsuoutput.json")
+        except OSError:
+            pass
+
         # follow links to concert pages
-        for href in response.css("div.event_item a.box_left::attr(href)"):
+        for href in response.css(".heading .summary a::attr(href)"):
             yield response.follow(href, self.parse_concert)
 
 

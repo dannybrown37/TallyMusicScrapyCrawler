@@ -14,7 +14,7 @@ BOT_NAME = 'thescraper'
 SPIDER_MODULES = ['thescraper.spiders']
 NEWSPIDER_MODULE = 'thescraper.spiders'
 
-# Export as CSV feed
+# Export as JSON feed
 FEED_FORMAT = "json"
 FEED_URI = "output.json"
 
