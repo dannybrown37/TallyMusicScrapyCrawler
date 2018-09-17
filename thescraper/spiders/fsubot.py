@@ -1,5 +1,6 @@
 0# -*- coding: utf-8 -*-
 import scrapy
+import os
 from scrapy.selector import HtmlXPathSelector
 
 
@@ -12,11 +13,6 @@ class FsubotSpider(scrapy.Spider):
 
 
     def parse(self, response): # div.event_item a.box_left
-        # delete old data file if it exists
-        try:
-            os.remove("../output/fsuoutput.json")
-        except OSError:
-            pass
 
         # follow links to concert pages
         for href in response.css(".heading .summary a::attr(href)"):
