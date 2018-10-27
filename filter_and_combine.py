@@ -460,10 +460,14 @@ def combine_json_files():
         for item in sub_data:
             master.append(item)
 
-
     date = datetime.datetime.now()
+    date = str(date.date())
+
+    # Sort the list of dicts by date
+    master.sort(key=lambda item:item['date'], reverse=False)
+
     # Output formatted data into new JSON file
-    with open('concerts-' + str(date.date()) + '.json', 'w') as f:
+    with open('parsed_output/concerts-%s.json' % date, 'w') as f:
         json.dump(master, f, indent=2)
 
 ###############################################################################

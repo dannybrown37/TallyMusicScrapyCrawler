@@ -14,16 +14,23 @@ class BluetavernbotSpider(scrapy.Spider):
 
     def parse(self, response):
         now = date.today()
-        later = date.today() + relativedelta(months=+3)
+        later = date.today() + relativedelta(months=+1)
 
+        """
         for y in range(now.year, later.year+1):
             for m in range(now.month, later.month+1):
-                for d in range(1, 32):
-                    yield response.follow(
-                        "http://www.zebrawebworks.com/zebra/bluetavern/day.cfm?&year="
-                        + str(y) + "&month=" + str(m) + "&day=" + str(d),
-                        self.parse_concert
-                    )
+                for d in range(now.day, later.day+1):
+        """
+        while now <= later:
+            y = now.year
+            m = now.month
+            d = now.day
+            yield response.follow(
+                "http://www.zebrawebworks.com/zebra/bluetavern/day.cfm?&year="
+                + str(y) + "&month=" + str(m) + "&day=" + str(d),
+                self.parse_concert
+            )
+            now += relativedelta(days=+1)
 
         #http://www.zebrawebworks.com/zebra/bluetavern/day.cfm?&year=2018&month=6&day=1
 
