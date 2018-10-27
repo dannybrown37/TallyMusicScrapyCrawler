@@ -16,11 +16,6 @@ class BluetavernbotSpider(scrapy.Spider):
         now = date.today()
         later = date.today() + relativedelta(months=+1)
 
-        """
-        for y in range(now.year, later.year+1):
-            for m in range(now.month, later.month+1):
-                for d in range(now.day, later.day+1):
-        """
         while now <= later:
             y = now.year
             m = now.month

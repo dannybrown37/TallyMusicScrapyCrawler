@@ -63,6 +63,18 @@
     "slug": "john-r-butler-7-pm-pat-puckett-10-pm-2018-10-27"
   }, 
   {
+    "website": "http://www.saint-john.org", 
+    "venue_address": "211 North Monroe Street, Tallahassee, FL 32301", 
+    "price": "Free", 
+    "venue": "St. John's Episcopal Church", 
+    "venue_website": "http://www.saint-john.org", 
+    "time": "8:00 pm", 
+    "date": "2018-10-28", 
+    "headliner": "Compline at St. John's", 
+    "slug": "compline-at-st-john-s-2018-10-28", 
+    "venue_slug": "st-john-s-episcopal-church"
+  }, 
+  {
     "website": "https://www.tallahasseearts.org/event/florida-society-youth-orchestra-program-fsyo/", 
     "venue_address": "2801 Thomasville Rd, Tallahassee, FL 32308", 
     "price": "$75.00 One-Time Registration (Non-Refundable)", 
@@ -134,17 +146,6 @@
     "slug": "u-m-xe8abh-s-mavericks-2018-10-30"
   }, 
   {
-    "website": "https://www.tallahasseearts.org/event/guest-artist-recital-robert-spring-clarinet/", 
-    "venue_address": "Housewright Building at FSU, Tallahassee, FL 32304", 
-    "venue": "Dohnanyi Recital Hall", 
-    "venue_website": "http://www.music.fsu.edu/facilities", 
-    "time": "7:30 pm (Wed)", 
-    "date": "2018-10-31", 
-    "headliner": "Guest Artist Recital - Robert Spring, clarinet", 
-    "slug": "guest-artist-recital-robert-spring-clarinet-2018-10-31", 
-    "venue_slug": "dohnanyi-recital-hall"
-  }, 
-  {
     "website": "http://jimcrozier.com/lab/", 
     "venue_address": "325 N Bronough Street, Tallahassee, FL 32301", 
     "price": "no cover/tipping encouraged", 
@@ -157,6 +158,17 @@
     "venue_slug": "bird-s-aphrodisiac-oyster-shack"
   }, 
   {
+    "website": "https://www.tallahasseearts.org/event/guest-artist-recital-robert-spring-clarinet/", 
+    "venue_address": "Housewright Building at FSU, Tallahassee, FL 32304", 
+    "venue": "Dohnanyi Recital Hall", 
+    "venue_website": "http://www.music.fsu.edu/facilities", 
+    "time": "7:30 pm (Wed)", 
+    "date": "2018-10-31", 
+    "headliner": "Guest Artist Recital - Robert Spring, clarinet", 
+    "slug": "guest-artist-recital-robert-spring-clarinet-2018-10-31", 
+    "venue_slug": "dohnanyi-recital-hall"
+  }, 
+  {
     "website": "http://www.zebrawebworks.com/zebra/bluetavern/day.cfm?&year=2018&month=10&day=31", 
     "genres": [
       "come in costume", 
@@ -167,6 +179,18 @@
     "date": "2018-10-31", 
     "headliner": "Halloween Party with the Common Taters", 
     "slug": "halloween-party-with-the-common-taters-2018-10-31"
+  }, 
+  {
+    "website": "http://www.stfranciswildlife.org/40thAnniversary.html", 
+    "venue_address": "1600 Miccosukee Rd, Tallahassee, FL 32308", 
+    "price": "Tickets (Until sold out): $50 each/2 for $90. After 10/25: $55 each/2 for $100.", 
+    "venue": "Goodwood Museum and Gardens", 
+    "venue_website": "http://www.goodwoodmuseum.org/index.php", 
+    "time": "5:30 pm", 
+    "date": "2018-11-01", 
+    "headliner": "St. Francis Wildlife - 40th Anniversary Celebration", 
+    "slug": "st-francis-wildlife-40th-anniversary-celebration-2018-11-01", 
+    "venue_slug": "goodwood-museum-and-gardens"
   }, 
   {
     "website": "http://tefconcerts.com", 
@@ -190,18 +214,6 @@
     "headliner": "Andy T Band featuring Alabama Mike", 
     "slug": "andy-t-band-featuring-alabama-mike-2018-11-01", 
     "venue_slug": "bradfordville-blues-club"
-  }, 
-  {
-    "website": "http://www.stfranciswildlife.org/40thAnniversary.html", 
-    "venue_address": "1600 Miccosukee Rd, Tallahassee, FL 32308", 
-    "price": "Tickets (Until sold out): $50 each/2 for $90. After 10/25: $55 each/2 for $100.", 
-    "venue": "Goodwood Museum and Gardens", 
-    "venue_website": "http://www.goodwoodmuseum.org/index.php", 
-    "time": "5:30 pm", 
-    "date": "2018-11-01", 
-    "headliner": "St. Francis Wildlife - 40th Anniversary Celebration", 
-    "slug": "st-francis-wildlife-40th-anniversary-celebration-2018-11-01", 
-    "venue_slug": "goodwood-museum-and-gardens"
   }, 
   {
     "website": "http://www.zebrawebworks.com/zebra/bluetavern/day.cfm?&year=2018&month=11&day=1", 
@@ -250,15 +262,16 @@
     "venue_slug": "hi-lo-house-concert"
   }, 
   {
-    "website": "https://www.tallahasseearts.org/event/first-friday-sip-and-stroll-in-downtown-thomasville-3/", 
+    "website": "http://thomasvillega.com/attractions/festivals/first-fridays", 
     "venue_address": "131 South Stevens Street, Thomasville, GA 31792", 
-    "venue": "The Ritz Amphitheater in Downtown Thomasville", 
+    "price": "Free admission", 
+    "venue": "The Ritz Amphitheater", 
     "venue_website": "http://www.thomasvillega.com/Content/Default/8/13/0/thomasville-visitor's-center/home.html", 
     "time": "6:00 pm", 
     "date": "2018-11-02", 
-    "headliner": "First Friday Sip and Stroll in Downtown Thomasville", 
-    "slug": "first-friday-sip-and-stroll-in-downtown-thomasville-2018-11-02", 
-    "venue_slug": "the-ritz-amphitheater-in-downtown-thomasville"
+    "headliner": "First Friday Sip and Stroll", 
+    "slug": "first-friday-sip-and-stroll-2018-11-02", 
+    "venue_slug": "the-ritz-amphitheater"
   }, 
   {
     "website": "https://www.tallahasseearts.org/event/brats-brews-german-beer-garden-artisan-market-in-conjunction-with-the-insiders-art-show/", 
@@ -329,18 +342,6 @@
     "venue_slug": "the-gallery-at-high-cotton"
   }, 
   {
-    "website": "https://frenchtownheritage.org", 
-    "venue_address": "524 North MLK Blvd, Tallahassee, FL 32301", 
-    "price": "Free Admission", 
-    "venue": "Frenchtown Market", 
-    "venue_website": "http://www.frenchtownheritage.org/", 
-    "time": "10:00 am", 
-    "date": "2018-11-03", 
-    "headliner": "2018 Frenchtown Heritage Fest Date Change to 11/03/18", 
-    "slug": "2018-frenchtown-heritage-fest-date-change-to-11-03-18-2018-11-03", 
-    "venue_slug": "frenchtown-market"
-  }, 
-  {
     "website": "https://www.tallahasseearts.org/event/outspoken-coming-together-for-lgbtq-and-social-justice/", 
     "venue_address": "915 Railroad Avenue, Tallahassee, FL ", 
     "price": "$5.00 suggested donation at the door", 
@@ -351,6 +352,18 @@
     "headliner": "outSpoken: Coming Together for LGBTQ+ and Social Justice", 
     "slug": "outspoken-coming-together-for-lgbtq-and-social-justice-2018-11-03", 
     "venue_slug": "all-saints-culture-club"
+  }, 
+  {
+    "website": "https://frenchtownheritage.org", 
+    "venue_address": "524 North MLK Blvd, Tallahassee, FL 32301", 
+    "price": "Free Admission", 
+    "venue": "Frenchtown Market", 
+    "venue_website": "http://www.frenchtownheritage.org/", 
+    "time": "10:00 am", 
+    "date": "2018-11-03", 
+    "headliner": "2018 Frenchtown Heritage Fest Date Change to 11/03/18", 
+    "slug": "2018-frenchtown-heritage-fest-date-change-to-11-03-18-2018-11-03", 
+    "venue_slug": "frenchtown-market"
   }, 
   {
     "website": "http://www.zebrawebworks.com/zebra/bluetavern/day.cfm?&year=2018&month=11&day=3", 
@@ -618,18 +631,6 @@
     "venue_slug": "corner-of-adams-street-and-college-avenue"
   }, 
   {
-    "website": "https://www.tallahasseearts.org/event/big-hearts-for-broadway/", 
-    "venue_address": "631 University Way, Tallahassee, FL 32304", 
-    "price": "FSU students: $1 or donation of crayons or colored pencils", 
-    "venue": "Augusta Conradi Studio Theatre- Williams Building FSU", 
-    "venue_website": "", 
-    "time": "7:30 pm (Fri)", 
-    "date": "2018-11-16", 
-    "headliner": "Big heARTS for Broadway", 
-    "slug": "big-hearts-for-broadway-2018-11-16", 
-    "venue_slug": "augusta-conradi-studio-theatre-williams-building-fsu"
-  }, 
-  {
     "website": "https://www.facebook.com/events/196249387675455/", 
     "venue_address": "6668 Thomasville Road, Tallahassee, FL 32312", 
     "price": "This event is free and open to the community", 
@@ -640,6 +641,18 @@
     "headliner": "Northtown Getdown at Bannerman Crossings", 
     "slug": "northtown-getdown-at-bannerman-crossings-2018-11-16", 
     "venue_slug": "bannerman-crossings"
+  }, 
+  {
+    "website": "https://www.tallahasseearts.org/event/big-hearts-for-broadway/", 
+    "venue_address": "631 University Way, Tallahassee, FL 32304", 
+    "price": "FSU students: $1 or donation of crayons or colored pencils", 
+    "venue": "Augusta Conradi Studio Theatre- Williams Building FSU", 
+    "venue_website": "", 
+    "time": "7:30 pm (Fri)", 
+    "date": "2018-11-16", 
+    "headliner": "Big heARTS for Broadway", 
+    "slug": "big-hearts-for-broadway-2018-11-16", 
+    "venue_slug": "augusta-conradi-studio-theatre-williams-building-fsu"
   }, 
   {
     "website": "http://www.zebrawebworks.com/zebra/bluetavern/day.cfm?&year=2018&month=11&day=16", 
@@ -919,18 +932,6 @@
     "age": "Doors: 7:00pm | Show: 8:00pm |\u00a0Ages 21+ Only"
   }, 
   {
-    "website": "https://www.facebook.com/events/247319482691670/", 
-    "venue_address": "1122 Thomasville Road, Unit 1, Tallahassee, FL 32303", 
-    "price": "$25 advance, $30 day of show, 21+", 
-    "venue": "Fifth and Thomas", 
-    "venue_website": "http://www.fifthandthomas.com/", 
-    "time": "7:00 pm (Sun)", 
-    "date": "2018-12-02", 
-    "headliner": "Marc Broussard with Kristopher James", 
-    "slug": "marc-broussard-with-kristopher-james-2018-12-02", 
-    "venue_slug": "fifth-and-thomas"
-  }, 
-  {
     "website": "https://www.tallahasseearts.org/event/tallahassee-breezes-holiday-concert-2/", 
     "venue_address": "4449 Meandering Way, Tallahassee, FL 32308", 
     "price": "Free Admission", 
@@ -941,6 +942,18 @@
     "headliner": "Tallahassee Breezes Holiday Concert", 
     "slug": "tallahassee-breezes-holiday-concert-2018-12-02", 
     "venue_slug": "maguire-center-at-westminster-oaks"
+  }, 
+  {
+    "website": "https://www.facebook.com/events/247319482691670/", 
+    "venue_address": "1122 Thomasville Road, Unit 1, Tallahassee, FL 32303", 
+    "price": "$25 advance, $30 day of show, 21+", 
+    "venue": "Fifth and Thomas", 
+    "venue_website": "http://www.fifthandthomas.com/", 
+    "time": "7:00 pm (Sun)", 
+    "date": "2018-12-02", 
+    "headliner": "Marc Broussard with Kristopher James", 
+    "slug": "marc-broussard-with-kristopher-james-2018-12-02", 
+    "venue_slug": "fifth-and-thomas"
   }, 
   {
     "website": "https://www.facebook.com/events/1189104217892118/", 
@@ -1474,18 +1487,6 @@
     "slug": "nate-bargatze-2019-03-29"
   }, 
   {
-    "website": "http://www.springtimetallahassee.com/", 
-    "venue_address": "209 E Park Ave, Tallahassee, FL 32301", 
-    "price": "FREE", 
-    "venue": "Springtime Tallahassee", 
-    "venue_website": "", 
-    "time": "6:00 pm", 
-    "date": "2019-03-29", 
-    "headliner": "Springtime Tallahassee Festival", 
-    "slug": "springtime-tallahassee-festival-2019-03-29", 
-    "venue_slug": "springtime-tallahassee"
-  }, 
-  {
     "website": "https://www.youngactorstheatre.com", 
     "venue_address": "Young Actors Theatre, 609 Glenview Drive, Tallahassee, FL 32303", 
     "price": "Performances are as follows: Friday, March 29 at 7:30pm; Saturday, March 30 at 7:30pm; Sunday, March 31 at 2:00pm and 7:00pm; Thursday, April 4 at 7:30pm; Friday, April 5 at 7:30pm; Saturday, April 6 at 7:30pm and Sunday, April 7 at 2:00pm and 7:00pm", 
@@ -1496,6 +1497,18 @@
     "headliner": "Little Shop of Horrors", 
     "slug": "little-shop-of-horrors-2019-03-29", 
     "venue_slug": "young-actors-theatre"
+  }, 
+  {
+    "website": "http://www.springtimetallahassee.com/", 
+    "venue_address": "209 E Park Ave, Tallahassee, FL 32301", 
+    "price": "FREE", 
+    "venue": "Springtime Tallahassee", 
+    "venue_website": "", 
+    "time": "6:00 pm", 
+    "date": "2019-03-29", 
+    "headliner": "Springtime Tallahassee Festival", 
+    "slug": "springtime-tallahassee-festival-2019-03-29", 
+    "venue_slug": "springtime-tallahassee"
   }, 
   {
     "website": "https://openingnights.fsu.edu/events/matt-haimovitz/", 
@@ -1646,17 +1659,5 @@
     "time": "7:30 PM", 
     "headliner": "Rosanne Cash", 
     "slug": "rosanne-cash-2019-04-27"
-  }, 
-  {
-    "website": "https://www.tallahasseearts.org/event/bach-parley-spring-concert-annual-reception/", 
-    "venue_address": "211 North Monroe Street, Tallahassee, FL 32301", 
-    "price": "A $10 donation is suggested, and free childcare will be offered.", 
-    "venue": "St. John's Episcopal Church", 
-    "venue_website": "http://www.saint-john.org", 
-    "time": "3:00 pm", 
-    "date": "2019-06-02", 
-    "headliner": "Bach Parley Spring Concert & Annual Reception", 
-    "slug": "bach-parley-spring-concert-and-annual-reception-2019-06-02", 
-    "venue_slug": "st-john-s-episcopal-church"
   }
 ]
