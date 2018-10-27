@@ -63,17 +63,6 @@
     "slug": "john-r-butler-7-pm-pat-puckett-10-pm-2018-10-27"
   }, 
   {
-    "website": "https://www.tallahasseearts.org/event/guest-artist-recital-mark-tollefsen-piano/", 
-    "venue_address": "600 W College Ave, Longmire Building, Tallahassee, FL 32304", 
-    "venue": "Longmire Recital Hall - Florida State University", 
-    "venue_website": "http://www.music.fsu.edu/Venues/Ruby-Diamond-Concert-Hall/Venue-Pictures/Longmire-Recital-Hall", 
-    "time": "7:30 pm (Mon)", 
-    "date": "2018-10-29", 
-    "headliner": "Guest Artist Recital - Mark Tollefsen, piano", 
-    "slug": "guest-artist-recital-mark-tollefsen-piano-2018-10-29", 
-    "venue_slug": "longmire-recital-hall-florida-state-university"
-  }, 
-  {
     "website": "https://www.tallahasseearts.org/event/florida-society-youth-orchestra-program-fsyo/", 
     "venue_address": "2801 Thomasville Rd, Tallahassee, FL 32308", 
     "price": "$75.00 One-Time Registration (Non-Refundable)", 
@@ -84,6 +73,17 @@
     "headliner": "Florida Society Youth Orchestra Program (FSYO)", 
     "slug": "florida-society-youth-orchestra-program-fsyo-2018-10-29", 
     "venue_slug": "freedom-church"
+  }, 
+  {
+    "website": "https://www.tallahasseearts.org/event/guest-artist-recital-mark-tollefsen-piano/", 
+    "venue_address": "600 W College Ave, Longmire Building, Tallahassee, FL 32304", 
+    "venue": "Longmire Recital Hall - Florida State University", 
+    "venue_website": "http://www.music.fsu.edu/Venues/Ruby-Diamond-Concert-Hall/Venue-Pictures/Longmire-Recital-Hall", 
+    "time": "7:30 pm (Mon)", 
+    "date": "2018-10-29", 
+    "headliner": "Guest Artist Recital - Mark Tollefsen, piano", 
+    "slug": "guest-artist-recital-mark-tollefsen-piano-2018-10-29", 
+    "venue_slug": "longmire-recital-hall-florida-state-university"
   }, 
   {
     "website": "http://www.zebrawebworks.com/zebra/bluetavern/day.cfm?&year=2018&month=10&day=29", 
@@ -109,30 +109,6 @@
     "time": "7:30 PM", 
     "headliner": "The HillBenders:", 
     "slug": "the-hillbenders-2018-10-30"
-  }, 
-  {
-    "website": "https://openingnights.fsu.edu/events/the-hillbenders/", 
-    "venue_address": "114 N Copeland St., Tallahassee, FL 32304", 
-    "price": "Tickets: $45", 
-    "venue": "Opperman Music Hall - Florida State University", 
-    "venue_website": "http://www.music.fsu.edu/Venues/Opperman-Music-Hall", 
-    "time": "7:30 pm (Tue)", 
-    "date": "2018-10-30", 
-    "headliner": "The HillBenders", 
-    "slug": "the-hillbenders-2018-10-30", 
-    "venue_slug": "opperman-music-hall-florida-state-university"
-  }, 
-  {
-    "website": "http://www.thomasvillega.com/", 
-    "venue_address": "144 E. Jackson St., Thomasville, GA 31792", 
-    "price": "Tickets are FREE and will be available in advance or at the door.", 
-    "venue": "Thomasville Visitors Center and Municipal Auditorium", 
-    "venue_website": "http://www.thomasvillega.com/Content/Default/8/13/0/thomasville-visitor's-center/home.html", 
-    "time": "7:30 pm (Tue)", 
-    "date": "2018-10-30", 
-    "headliner": "U.S. Navy Band Commodores Jazz Ensemble Concert", 
-    "slug": "u-s-navy-band-commodores-jazz-ensemble-concert-2018-10-30", 
-    "venue_slug": "thomasville-visitors-center-and-municipal-auditorium"
   }, 
   {
     "website": "http://www.uutallahassee.org/spiritual-practice-thursdays/", 
@@ -193,6 +169,18 @@
     "slug": "halloween-party-with-the-common-taters-2018-10-31"
   }, 
   {
+    "website": "http://tefconcerts.com", 
+    "venue_address": "600 East Washington Street, Thomasville, GA 31792", 
+    "price": "Tickets are $38 for adults, $15 for students. All seats are reserved.", 
+    "venue": "Thomasville Center for the Arts", 
+    "venue_website": "http://www.thomasvillearts.org", 
+    "time": "7:30 pm (Thu)", 
+    "date": "2018-11-01", 
+    "headliner": "TEF Presents Daniel Hope and Friends", 
+    "slug": "tef-presents-daniel-hope-and-friends-2018-11-01", 
+    "venue_slug": "thomasville-center-for-the-arts"
+  }, 
+  {
     "website": "http://www.bradfordvilleblues.com", 
     "venue_address": "7152 Moses Lane, Tallahassee, FL 32309", 
     "venue": "Bradfordville Blues Club", 
@@ -202,6 +190,18 @@
     "headliner": "Andy T Band featuring Alabama Mike", 
     "slug": "andy-t-band-featuring-alabama-mike-2018-11-01", 
     "venue_slug": "bradfordville-blues-club"
+  }, 
+  {
+    "website": "http://www.stfranciswildlife.org/40thAnniversary.html", 
+    "venue_address": "1600 Miccosukee Rd, Tallahassee, FL 32308", 
+    "price": "Tickets (Until sold out): $50 each/2 for $90. After 10/25: $55 each/2 for $100.", 
+    "venue": "Goodwood Museum and Gardens", 
+    "venue_website": "http://www.goodwoodmuseum.org/index.php", 
+    "time": "5:30 pm", 
+    "date": "2018-11-01", 
+    "headliner": "St. Francis Wildlife - 40th Anniversary Celebration", 
+    "slug": "st-francis-wildlife-40th-anniversary-celebration-2018-11-01", 
+    "venue_slug": "goodwood-museum-and-gardens"
   }, 
   {
     "website": "http://www.zebrawebworks.com/zebra/bluetavern/day.cfm?&year=2018&month=11&day=1", 
@@ -250,6 +250,29 @@
     "venue_slug": "hi-lo-house-concert"
   }, 
   {
+    "website": "https://www.tallahasseearts.org/event/first-friday-sip-and-stroll-in-downtown-thomasville-3/", 
+    "venue_address": "131 South Stevens Street, Thomasville, GA 31792", 
+    "venue": "The Ritz Amphitheater in Downtown Thomasville", 
+    "venue_website": "http://www.thomasvillega.com/Content/Default/8/13/0/thomasville-visitor's-center/home.html", 
+    "time": "6:00 pm", 
+    "date": "2018-11-02", 
+    "headliner": "First Friday Sip and Stroll in Downtown Thomasville", 
+    "slug": "first-friday-sip-and-stroll-in-downtown-thomasville-2018-11-02", 
+    "venue_slug": "the-ritz-amphitheater-in-downtown-thomasville"
+  }, 
+  {
+    "website": "https://www.tallahasseearts.org/event/brats-brews-german-beer-garden-artisan-market-in-conjunction-with-the-insiders-art-show/", 
+    "venue_address": "1400 N. Monroe St., Tallahassee, FL 32303", 
+    "price": "The Beer Garden will take place, from 5-9 p.m. and features lawn games, themed foods like bratwurst, Bavarian pretzels, and beer from local breweries. To access the beer garden, participants must make a $15 donation for 3 beers or a $25 donation for unlimited brews, and be 21 years of age or older. Enjoy pretzels, by For the Table Hospitality, and music by Dave Carty, provided by Home Instead Senior Care. Advanced tickets to the beer garden can be purchased online at", 
+    "venue": "Tallahassee Senior Center", 
+    "venue_website": "http://tallahasseeseniorfoundation.org/", 
+    "time": "3:00 pm", 
+    "date": "2018-11-02", 
+    "headliner": "Brats & Brews: German Beer Garden & Artisan Market in conjunction with the Insiders\u2019 Art Show", 
+    "slug": "brats-and-brews-german-beer-garden-and-artisan-market-in-conjunction-with-the-insiders-art-show-2018-11-02", 
+    "venue_slug": "tallahassee-senior-center"
+  }, 
+  {
     "website": "http://www.zebrawebworks.com/zebra/bluetavern/day.cfm?&year=2018&month=11&day=2", 
     "genres": [
       "jug band music"
@@ -282,18 +305,6 @@
     "age": "Doors: 7:00pm | Show: 8:00pm |\u00a0Ages 21+ Only"
   }, 
   {
-    "website": "https://www.tallahasseearts.org/event/the-gallery-at-high-cotton-presents-string-time-social/", 
-    "venue_address": "230 Water Street, Apalachicola, FL 32320", 
-    "price": "Free admission and open to the public. Donations will be accepted at door and given to help musicians cover travel expenses.", 
-    "venue": "The Gallery at High Cotton", 
-    "venue_website": "", 
-    "time": "7:00 pm (Sat)", 
-    "date": "2018-11-03", 
-    "headliner": "The Gallery At High Cotton Presents String Time Social with special guest Frank Douglas", 
-    "slug": "the-gallery-at-high-cotton-presents-string-time-social-with-special-guest-frank-douglas-2018-11-03", 
-    "venue_slug": "the-gallery-at-high-cotton"
-  }, 
-  {
     "website": "https://www.tallahasseearts.org/event/musical-journeys-a-violin-and-piano-duo-recital/", 
     "venue_address": "9243 Parkhill Rd, Tallahassee, FL 32317, Tallahassee, FL ", 
     "price": "Free Admission", 
@@ -304,6 +315,18 @@
     "headliner": "Musical Journeys: A Fundraiser Recital for Tallahassee Red Cross/Hurricane Relief", 
     "slug": "musical-journeys-a-fundraiser-recital-for-tallahassee-red-cross-hurricane-relief-2018-11-03", 
     "venue_slug": "chaires-united-methodist-church"
+  }, 
+  {
+    "website": "https://www.tallahasseearts.org/event/the-gallery-at-high-cotton-presents-string-time-social/", 
+    "venue_address": "230 Water Street, Apalachicola, FL 32320", 
+    "price": "Free admission and open to the public. Donations will be accepted at door and given to help musicians cover travel expenses.", 
+    "venue": "The Gallery at High Cotton", 
+    "venue_website": "", 
+    "time": "7:00 pm (Sat)", 
+    "date": "2018-11-03", 
+    "headliner": "The Gallery At High Cotton Presents String Time Social with special guest Frank Douglas", 
+    "slug": "the-gallery-at-high-cotton-presents-string-time-social-with-special-guest-frank-douglas-2018-11-03", 
+    "venue_slug": "the-gallery-at-high-cotton"
   }, 
   {
     "website": "https://frenchtownheritage.org", 
@@ -339,6 +362,18 @@
     "date": "2018-11-03", 
     "headliner": "ALL DAY 2ND ANNIVERSARY PARTY!", 
     "slug": "all-day-2nd-anniversary-party-2018-11-03"
+  }, 
+  {
+    "website": "https://www.tallahasseearts.org/event/university-chamber-winds-4/", 
+    "venue_address": "114 N Copeland St., Tallahassee, FL 32304", 
+    "price": "Nearby parking available.", 
+    "venue": "Opperman Music Hall - Florida State University", 
+    "venue_website": "http://www.music.fsu.edu/Venues/Opperman-Music-Hall", 
+    "time": "7:30 pm (Sun)", 
+    "date": "2018-11-04", 
+    "headliner": "University Chamber Winds", 
+    "slug": "university-chamber-winds-2018-11-04", 
+    "venue_slug": "opperman-music-hall-florida-state-university"
   }, 
   {
     "website": "http://www.zebrawebworks.com/zebra/bluetavern/day.cfm?&year=2018&month=11&day=5", 
@@ -864,18 +899,6 @@
     "age": "Ages 21+ Only"
   }, 
   {
-    "website": "https://www.tallahasseeseniorfoundation.org/deck-halls/", 
-    "venue_address": "1400 N. Monroe St., Tallahassee, FL 32303", 
-    "price": "Tickets $45, discounts available (buy 6 tickets for $240 ($30 discount), 8 tickets for $310 ($60 discount) and 10 tickets for $350 ($100 discount))\u00a0\u2013 a great way for the office or your group of friends to celebrate the holidays and benefit Senior Services!", 
-    "venue": "Tallahassee Senior Center", 
-    "venue_website": "http://tallahasseeseniorfoundation.org/", 
-    "time": "6:30 pm", 
-    "date": "2018-11-30", 
-    "headliner": "Deck the Halls", 
-    "slug": "deck-the-halls-2018-11-30", 
-    "venue_slug": "tallahassee-senior-center"
-  }, 
-  {
     "website": "http://www.fifthandthomas.com/event/pattersonhood/", 
     "price": "$28", 
     "venue": "Fifth and Thomas", 
@@ -974,18 +997,6 @@
     "time": "7:30 PM", 
     "headliner": "Soweto Gospel Choir", 
     "slug": "soweto-gospel-choir-2018-12-11"
-  }, 
-  {
-    "website": "http://tefconcerts.com", 
-    "venue_address": "600 East Washington Street, Thomasville, GA 31792", 
-    "price": "Tickets are $38 for adults, $15 for students. All seats are reserved.", 
-    "venue": "Thomasville Center for the Arts", 
-    "venue_website": "http://www.thomasvillearts.org", 
-    "time": "7:30 pm (Tue)", 
-    "date": "2018-12-11", 
-    "headliner": "TEF Presents Burning River Brass", 
-    "slug": "tef-presents-burning-river-brass-2018-12-11", 
-    "venue_slug": "thomasville-center-for-the-arts"
   }, 
   {
     "website": "https://openingnights.fsu.edu/events/the-barefoot-movement/", 
@@ -1203,18 +1214,6 @@
     "age": "Doors: 7:00pm | Show: 8:00pm |\u00a0Ages 21+ Only"
   }, 
   {
-    "website": "https://www.tallahasseearts.org/event/bach-parley-winter-concert/", 
-    "venue_address": "211 North Monroe Street, Tallahassee, FL 32301", 
-    "price": "A $10 donation is suggested, and free childcare will be offered.", 
-    "venue": "St. John's Episcopal Church", 
-    "venue_website": "http://www.saint-john.org", 
-    "time": "3:00 pm", 
-    "date": "2019-01-27", 
-    "headliner": "Bach Parley Winter Concert", 
-    "slug": "bach-parley-winter-concert-2019-01-27", 
-    "venue_slug": "st-john-s-episcopal-church"
-  }, 
-  {
     "website": "https://openingnights.fsu.edu/events/joshua-bell/", 
     "genres": [
       "classical"
@@ -1410,18 +1409,6 @@
     "time": "7:30 PM", 
     "headliner": "Makana", 
     "slug": "makana-2019-03-04"
-  }, 
-  {
-    "website": "https://openingnights.fsu.edu/events/makana/", 
-    "venue_address": "1600 Miccosukee Rd, Tallahassee, FL 32308", 
-    "price": "Tickets: $40", 
-    "venue": "Goodwood Museum and Gardens", 
-    "venue_website": "http://www.goodwoodmuseum.org/index.php", 
-    "time": "7:30 pm (Mon)", 
-    "date": "2019-03-04", 
-    "headliner": "Makana", 
-    "slug": "makana-2019-03-04", 
-    "venue_slug": "goodwood-museum-and-gardens"
   }, 
   {
     "website": "https://openingnights.fsu.edu/events/taylor-tomlinson/", 
@@ -1659,5 +1646,17 @@
     "time": "7:30 PM", 
     "headliner": "Rosanne Cash", 
     "slug": "rosanne-cash-2019-04-27"
+  }, 
+  {
+    "website": "https://www.tallahasseearts.org/event/bach-parley-spring-concert-annual-reception/", 
+    "venue_address": "211 North Monroe Street, Tallahassee, FL 32301", 
+    "price": "A $10 donation is suggested, and free childcare will be offered.", 
+    "venue": "St. John's Episcopal Church", 
+    "venue_website": "http://www.saint-john.org", 
+    "time": "3:00 pm", 
+    "date": "2019-06-02", 
+    "headliner": "Bach Parley Spring Concert & Annual Reception", 
+    "slug": "bach-parley-spring-concert-and-annual-reception-2019-06-02", 
+    "venue_slug": "st-john-s-episcopal-church"
   }
 ]
