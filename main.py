@@ -1,8 +1,8 @@
 import sys ; sys.dont_write_bytecode = True
 from scrapy.utils.project import get_project_settings
 from scrapy.crawler import CrawlerProcess
-import filter_and_combine
-import email_json
+import scripts.filter_and_combine
+import scripts.email_json
 import os
 
 setting = get_project_settings()
@@ -54,5 +54,5 @@ for output_file in output_files:
 # Filter and combine the files
 filter_and_combine.combine_json_files()
 
-# Email myself the json file 
+# Email myself the json file
 email_json.send_email()
