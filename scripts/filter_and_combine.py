@@ -6,11 +6,11 @@ import datetime
 import dateparser
 
 
-def combine_json_files():
+def combine_json_files(dotdot=''):
 
     # THE MOON
     try:
-        with open('output/moonoutput.json') as f:
+        with open(dotdot + 'output/moonoutput.json') as f:
             moon_data = json.load(f)
     except IOError:
         moon_data = []
@@ -36,7 +36,7 @@ def combine_json_files():
 
     # THE WILBURY
     try:
-        with open('wilburyoutput.json') as f:
+        with open(dotdot + 'wilburyoutput.json') as f:
             wilbury_data = json.load(f)
     except IOError:
         wilbury_data = []
@@ -82,7 +82,7 @@ def combine_json_files():
 
     # FIFTH AND THOMAS
     try:
-        with open('output/fifththomasoutput.json') as f:
+        with open(dotdot + 'output/fifththomasoutput.json') as f:
             fifththomas_data = json.load(f)
     except IOError:
         fifththomas_data = []
@@ -138,7 +138,7 @@ def combine_json_files():
 
     # OPENING NIGHTS
     try:
-        with open("output/openingnightsoutput.json") as f:
+        with open(dotdot + "output/openingnightsoutput.json") as f:
             openingnights_data = json.load(f)
 
     except IOError:
@@ -179,7 +179,7 @@ def combine_json_files():
 
     # THE JUNCTION AT MONROE
     try:
-        with open('output/junctionoutput.json') as f:
+        with open(dotdot + 'output/junctionoutput.json') as f:
             junction_data = json.load(f)
     except IOError:
         junction_data = []
@@ -213,7 +213,7 @@ def combine_json_files():
 
     # COCA
     try:
-        with open('output/cocaoutput.json') as f:
+        with open(dotdot + 'output/cocaoutput.json') as f:
             coca_data = json.load(f)
     except IOError:
         coca_data = []
@@ -282,7 +282,7 @@ def combine_json_files():
 
     # BLUE TAVERN
     try:
-        with open('output/bluetavernoutput.json') as f:
+        with open(dotdot + 'output/bluetavernoutput.json') as f:
             blue_data = json.load(f)
     except IOError:
         blue_data = []
@@ -300,11 +300,11 @@ def combine_json_files():
         # This data has a ton of junk, so we'll start by filtering that out
         escapes = ''.join([chr(char) for char in range(1, 32)])
         table = {ord(char): None for char in escapes}
-        for i, item in enumerate(concert['data']): # Remove escape chars
-            concert['data'][i] = item.translate(table)
-            concert['data'][i] = concert['data'][i].replace(u'\xa0', u' ')
-            concert['data'][i] = concert['data'][i].strip()
-        concert['data'] = filter(None, concert['data']) # Remove empty strings
+        for i, item in enumerate(concert['notes']): # Remove escape chars
+            concert['notes'][i] = item.translate(table)
+            concert['notes'][i] = concert['notes'][i].replace(u'\xa0', u' ')
+            concert['notes'][i] = concert['notes'][i].strip()
+        concert['notes'] = filter(None, concert['notes']) # Remove empty strings
 
         # Get the date from the querystring in the website and format
         date = concert['website'].split("?")[1]
@@ -325,9 +325,9 @@ def combine_json_files():
                 new_concert = concert.copy()
                 new_concert['headliner'] = str(new_concert['headliner'][1])
                 concert['headliner'] = str(concert['headliner'][0])
-                mid = len(concert['data']) / 2
-                new_concert['data'] = new_concert['data'][mid:]
-                concert['data'] = concert['data'][0:mid]
+                mid = len(concert['notes']) / 2
+                new_concert['notes'] = new_concert['notes'][mid:]
+                concert['notes'] = concert['notes'][0:mid]
                 new_concerts.append(new_concert)
         except UnicodeEncodeError:
             pass
@@ -353,95 +353,14 @@ def combine_json_files():
             # Get the price
             if "$" in concert['data'][1]:
                 concert['price'] = concert['data'][1].replace("FEE:", "").strip()
-            # Genres are going to be intense
-            if len(concert['data']) == 3:
-                concert['genres'] = [""]
-                concert['genres'][0] = concert['data'][2].lower()
-            else:
-                concert['genres'] = []
-            del concert['data']
 
-            if " - " in concert['headliner']:
-                genre = concert['headliner'].split(" - ")[1]
-                concert['genres'].append(genre)
-                concert['headliner'] = concert['headliner'].split(" - ")[0]
-
-            # Details for specific, regular, repeating concerts
-            if "belmont & jones" in concert['headliner'].lower():
-                concert['headliner'] = "Belmont & Jones"
-                concert['genres'][0] = "country"
-                concert['genres'].append("blues")
-                concert['genres'].append("traditional")
-
-            if "roda vibe" in concert['headliner'].lower():
-                concert['genres'][0] = "brazilian"
-
-            for i, genre in enumerate(concert['genres']):
-                if "acoustic" in genre.lower():
-                    concert['genres'][i] = "acoustic"
-                if "songster" in genre.lower():
-                    concert['genres'][i] = "songster"
-                if "storytelling" in genre.lower():
-                    concert['genres'][i] = "storytelling"
-                    concert['genres'].append("spoken word")
-                if "songwriters" in genre.lower():
-                    concert['genres'][i] = "singer-songwriter"
-                if len(genre) > 25 and ", " in genre:
-                    genres = concert['genres'][i].split(", ")
-                    concert['genres'] = []
-                    for item in genres:
-                        concert['genres'].append(item)
-                if "funky time piano" in genre.lower():
-                    concert['genres'] = ["funky time piano"]
-                if "fee:" in genre.lower() or "$" in genre:
-                    concert['price'] = genre.replace("fee:", "").strip()
-                    concert['genres'].pop(i)
-                if "blues" in genre.lower():
-                    concert['genres'][i] = "blues"
-                if "bluegrass" in genre.lower():
-                    concert['genres'][i] = "bluegrass"
-                if "jazz" in genre.lower():
-                    concert['genres'][i] = "jazz"
-                if "roots" in genre.lower():
-                    concert['genres'][i] = "roots"
-                if " & " in genre.lower():
-                    genres = concert['genres'][i].split(" & ")
-                    concert['genres'] = []
-                    for item in genres:
-                        concert['genres'].append(item)
-                if " - " in genre:
-                    concert['genres'][i] = ""
         except:
             pass
 
-            # This is just stubborness to do this via programming at this point
-            # These are one-off concerts that are just giving the above trouble
-            for i in range(len(concert['genres'])):
-                if concert['genres'][i].lower() == "blues and jazz":
-                    concert['genres'][i] = "blues"
-                if "banjo" in concert['genres'][i].lower():
-                    concert['genres'][i] = "banjo"
-                if "grandfather" in concert['genres'][i].lower():
-                    concert['genres'][i] = ""
-                if "mississippi sharecropper" in concert['genres'][i].lower():
-                    concert['genres'][i] = ""
-                if "lyrical" in concert['genres'][i].lower():
-                    concert['genres'][i] = "lyrical"
-
-            # Add the venue; should have done this in my spider.
-            concert['venue'] = "Blue Tavern"
-
-            # Remove emptry strings for value?
-            emptys = []
-            for i in range(len(concert['genres'])):
-                if concert['genres'][i] == "":
-                    emptys.insert(0, i)
-            for index in emptys:
-                concert['genres'].pop(index)
-
-        # Parse the slug
+        # Create the slug
         concert['slug'] = slugify(concert['headliner'], concert['date'])
 
+        print concert
 ###############################################################################
 
     # Combine all our data so far
@@ -467,7 +386,7 @@ def combine_json_files():
     master.sort(key=lambda item:item['date'], reverse=False)
 
     # Output formatted data into new JSON file
-    with open('parsed_output/concerts-%s.json' % date, 'w') as f:
+    with open(dotdot + 'parsed_output/concerts-%s.json' % date, 'w') as f:
         json.dump(master, f, indent=2)
 
 ###############################################################################
@@ -485,4 +404,4 @@ def slugify(headliner, date=""):
 
 
 if __name__ == "__main__":
-    combine_json_files()
+    combine_json_files(dotdot='../')

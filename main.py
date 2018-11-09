@@ -50,9 +50,8 @@ for output_file in output_files:
         except OSError:
             pass
 
-
 # Filter and combine the files
-filter_and_combine.combine_json_files()
+scripts.filter_and_combine.combine_json_files()
 
 # Email myself the json file
-email_json.send_email()
+scripts.email_json.send_email()

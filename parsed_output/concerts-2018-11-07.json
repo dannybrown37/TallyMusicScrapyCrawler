@@ -1,0 +1,1840 @@
+[
+  {
+    "website": "https://junctionatmonroe.com/event.asp?E=746", 
+    "venue": "The Junction at Monroe", 
+    "time": "7:00 PM", 
+    "date": "2018-11-07", 
+    "headliner": "Bingo Night", 
+    "slug": "bingo-night-2018-11-07"
+  }, 
+  {
+    "website": "https://junctionatmonroe.com/event.asp?E=747", 
+    "venue": "The Junction at Monroe", 
+    "price": "No cover charge", 
+    "time": "8:30 PM", 
+    "date": "2018-11-07", 
+    "headliner": "Open Mic Wednesday", 
+    "slug": "open-mic-wednesday-2018-11-07"
+  }, 
+  {
+    "website": "http://www.zebrawebworks.com/zebra/bluetavern/day.cfm?&year=2018&month=11&day=7", 
+    "genres": [
+      "from his new book of poetry: gunshot", 
+      "peacock", 
+      "dogcopies available for $15free admission"
+    ], 
+    "price": "reading by rick campbell, from his new book of poetry: gunshot, peacock, dogcopies available for $15free admission", 
+    "time": "7:00 PM", 
+    "date": "2018-11-07", 
+    "headliner": "Rick Campbell book reading/signing", 
+    "slug": "rick-campbell-book-reading-signing-2018-11-07"
+  }, 
+  {
+    "website": "http://www.zebrawebworks.com/zebra/bluetavern/day.cfm?&year=2018&month=11&day=7", 
+    "genres": [
+      "two members of local americana group belle", 
+      "the bandbelleandtheband.com"
+    ], 
+    "price": "$2", 
+    "time": "8:00 PM", 
+    "date": "2018-11-07", 
+    "headliner": "Mickey & Belle", 
+    "slug": "mickey-and-belle-2018-11-07"
+  }, 
+  {
+    "website": "http://tallahassee.moonevents.com/events/big-bend-hospice-writers-round", 
+    "support": "", 
+    "venue": "The Moon", 
+    "time": "Doors open at: 7:00PM // Show starts at: 8:00PM", 
+    "date": "2018-11-08", 
+    "headliner": "Big Bend Hospice Writers in the Round", 
+    "slug": "big-bend-hospice-writers-in-the-round-2018-11-08"
+  }, 
+  {
+    "website": "https://junctionatmonroe.com/event.asp?E=743", 
+    "venue": "The Junction at Monroe", 
+    "price": "$10 cover at the door", 
+    "time": "8:00 PM", 
+    "date": "2018-11-08", 
+    "headliner": "Ally Venable Band", 
+    "slug": "ally-venable-band-2018-11-08"
+  }, 
+  {
+    "website": "https://www.youngactorstheatre.com", 
+    "venue_address": "Young Actors Theatre, 609 Glenview Drive, Tallahassee, FL 32303", 
+    "price": "Performances are as follows; Sunday, November 4", 
+    "venue": "Young Actors Theatre", 
+    "venue_website": "http://www.youngactorstheatre.com/", 
+    "time": "7:30 pm (Thu)", 
+    "date": "2018-11-08", 
+    "headliner": "The Music Man", 
+    "slug": "the-music-man-2018-11-08", 
+    "venue_slug": "young-actors-theatre"
+  }, 
+  {
+    "website": "https://www.bandsintown.com/e/100437943//", 
+    "venue_address": "1200 South Monroe Street, Tallahassee, FL 32301", 
+    "price": "Free Admission", 
+    "venue": "Center Point Church", 
+    "venue_website": "", 
+    "time": "7:00 pm (Thu)", 
+    "date": "2018-11-08", 
+    "headliner": "Wendell Kimbrough in Concert", 
+    "slug": "wendell-kimbrough-in-concert-2018-11-08", 
+    "venue_slug": "center-point-church"
+  }, 
+  {
+    "website": "http://www.zebrawebworks.com/zebra/bluetavern/day.cfm?&year=2018&month=11&day=8", 
+    "genres": [
+      "songster"
+    ], 
+    "price": "$5", 
+    "time": "8:00 PM", 
+    "date": "2018-11-08", 
+    "headliner": "Roy Schneider & Kim Mayfield", 
+    "slug": "roy-schneider-and-kim-mayfield-2018-11-08"
+  }, 
+  {
+    "website": "http://www.fifthandthomas.com/event/flipflop/", 
+    "price": "", 
+    "venue": "Fifth and Thomas", 
+    "slug": "the-flip-flop-boys-2018-11-09", 
+    "time": "9:30 pm", 
+    "date": "2018-11-09", 
+    "headliner": "The Flip Flop Boys", 
+    "age": ""
+  }, 
+  {
+    "website": "http://www.fifthandthomas.com/event/djatothel-7-2/", 
+    "price": "No Cover", 
+    "venue": "Fifth and Thomas", 
+    "slug": "dj-a-to-the-l-2018-11-09", 
+    "time": "11:00 pm", 
+    "date": "2018-11-09", 
+    "headliner": "DJ A to the L", 
+    "age": "Ages 21+ Only"
+  }, 
+  {
+    "website": "https://junctionatmonroe.com/event.asp?E=749", 
+    "venue": "The Junction at Monroe", 
+    "price": "$10 cover at the door", 
+    "time": "8:00 PM", 
+    "date": "2018-11-09", 
+    "headliner": "Writers in the Round", 
+    "slug": "writers-in-the-round-2018-11-09"
+  }, 
+  {
+    "website": "http://www.b-sharps.com", 
+    "venue_address": "B Sharps Jazz Society, Tallahassee, FL 32304", 
+    "price": "Tickets are sold at the door.\u00a0 We open one hour before the performance time.", 
+    "venue": "B Sharps Jazz Society", 
+    "venue_website": "", 
+    "time": "7:00 pm", 
+    "date": "2018-11-09", 
+    "headliner": "Jazz at B-Sharps", 
+    "slug": "jazz-at-b-sharps-2018-11-09", 
+    "venue_slug": "b-sharps-jazz-society"
+  }, 
+  {
+    "website": "http://facebook.com/tlhcollective", 
+    "venue_address": "1190 Capital Circle NE, Tallahassee, FL 32301", 
+    "price": "Tickets are free, but we have a limited quantity due to spacing limitations. To get your free ticket, visit bit.ly/tlhrumours", 
+    "venue": "Element3 Station", 
+    "venue_website": "", 
+    "time": "7:00 pm", 
+    "date": "2018-11-09", 
+    "headliner": "Cover to Cover - Fleetwood Mac's Rumours Remastered", 
+    "slug": "cover-to-cover-fleetwood-mac-s-rumours-remastered-2018-11-09", 
+    "venue_slug": "element3-station"
+  }, 
+  {
+    "website": "http://www.zebrawebworks.com/zebra/bluetavern/day.cfm?&year=2018&month=11&day=9", 
+    "genres": [
+      "jug band music"
+    ], 
+    "price": "$0", 
+    "time": "4:00 PM", 
+    "date": "2018-11-09", 
+    "headliner": "Delta Ringnecks", 
+    "slug": "delta-ringnecks-2018-11-09"
+  }, 
+  {
+    "website": "http://www.zebrawebworks.com/zebra/bluetavern/day.cfm?&year=2018&month=11&day=9", 
+    "genres": [
+      "funky time piano"
+    ], 
+    "price": "$5", 
+    "time": "8:00 PM", 
+    "date": "2018-11-09", 
+    "headliner": "John \"JB\" Babich", 
+    "slug": "john-jb-babich-2018-11-09"
+  }, 
+  {
+    "website": "http://www.fifthandthomas.com/event/ryanchavers-2-2-2/", 
+    "price": "No Cover", 
+    "venue": "Fifth and Thomas", 
+    "slug": "dj-ryan-chavers-2018-11-10", 
+    "time": "10:00 pm", 
+    "date": "2018-11-10", 
+    "headliner": "DJ Ryan Chavers", 
+    "age": "Ages 21+ Only"
+  }, 
+  {
+    "website": "http://www.fifthandthomas.com/event/the-currys/", 
+    "price": "$18", 
+    "venue": "Fifth and Thomas", 
+    "slug": "the-currys-dinner-show-2018-11-10", 
+    "time": "Mainstage Doors: 6PM | Music: 7PM |\u00a0", 
+    "date": "2018-11-10", 
+    "headliner": "The Currys \u2013 Dinner Show!", 
+    "age": "Ages 21+ Only"
+  }, 
+  {
+    "website": "https://www.facebook.com/events/295098217973722/", 
+    "venue_address": "2911 Thomasville Road, Tallahassee, FL 32308", 
+    "price": "Free", 
+    "venue": "Tallahassee Nurseries", 
+    "venue_website": "", 
+    "time": "9:00 am", 
+    "date": "2018-11-10", 
+    "headliner": "22nd Annual Artisans in the Garden", 
+    "slug": "22nd-annual-artisans-in-the-garden-2018-11-10", 
+    "venue_slug": "tallahassee-nurseries"
+  }, 
+  {
+    "website": "https://www.facebook.com/events/327621131331323/", 
+    "venue_address": "501 St. James Avenue (Hwy 98), Carrabelle, FL 32322", 
+    "price": "Free Admission", 
+    "venue": "C-Quarters Mariana", 
+    "venue_website": "", 
+    "time": "10:00 am", 
+    "date": "2018-11-10", 
+    "headliner": "Secrets of Byrd Hammock, A Native American History Program", 
+    "slug": "secrets-of-byrd-hammock-a-native-american-history-program-2018-11-10", 
+    "venue_slug": "c-quarters-mariana"
+  }, 
+  {
+    "website": "https://www.tallahasseearts.org/event/album-sounds/", 
+    "venue_address": "2215 Mahan Drive, Tallahassee, FL 32308", 
+    "price": "Album Sounds is our upcoming concert of original new music, performed by our very own Bagels and Biscuits! Attendees will get to vote on their favorite songs for the band\u2019s new album", 
+    "venue": "Temple Israel", 
+    "venue_website": "", 
+    "time": "7:00 pm (Sat)", 
+    "date": "2018-11-10", 
+    "headliner": "Album Sounds", 
+    "slug": "album-sounds-2018-11-10", 
+    "venue_slug": "temple-israel"
+  }, 
+  {
+    "website": "https://www.tallahasseearts.org/event/the-nathanael-smith-quartet/", 
+    "venue_address": "567 Industrial drive, Tallahassee, FL 32301", 
+    "price": "$5 at the door", 
+    "venue": "Black Dog on the Square", 
+    "venue_website": "https://www.facebook.com/blackdograilroadsquare/", 
+    "time": "8:00 pm", 
+    "date": "2018-11-10", 
+    "headliner": "The Nathanael Smith Quartet", 
+    "slug": "the-nathanael-smith-quartet-2018-11-10", 
+    "venue_slug": "black-dog-on-the-square"
+  }, 
+  {
+    "website": "https://850tix.com/events/the-currys-dinner-show", 
+    "venue_address": "1122 Thomasville Road, Unit 1, Tallahassee, FL 32303", 
+    "price": "Tickets are $15 in advance and $18 the day of the show, before tax & fees. No refunds or exchanges of ticket purchases. Advance tickets will also be on sale with NO FEES at Finnegan\u2019s Wake Irish Pub, and electronically via 850Tix at this link:", 
+    "venue": "Fifth and Thomas", 
+    "venue_website": "http://www.fifthandthomas.com/", 
+    "time": "7:00 pm", 
+    "date": "2018-11-10", 
+    "headliner": "The Currys - Dinner Show", 
+    "slug": "the-currys-dinner-show-2018-11-10", 
+    "venue_slug": "fifth-and-thomas"
+  }, 
+  {
+    "website": "http://bradfordvilleblues.com/", 
+    "venue_address": "7152 Moses Lane, Tallahassee, FL 32309", 
+    "price": "Advance Discounted Tickets will be $20.00 with a Table/Tables reserved in your name.", 
+    "venue": "Bradfordville Blues Club", 
+    "venue_website": "http://www.bradfordvilleblues.com/", 
+    "time": "9:00 pm (Sat)", 
+    "date": "2018-11-10", 
+    "headliner": "The Backtrack Blues Band", 
+    "slug": "the-backtrack-blues-band-2018-11-10", 
+    "venue_slug": "bradfordville-blues-club"
+  }, 
+  {
+    "website": "http://act.alz.org/tallahassee", 
+    "venue_address": "1001 South Gadsden Street, Tallahassee, FL 32301", 
+    "venue": "Capital City Amphitheater/Cascades Park", 
+    "venue_website": "http://www.capitalcityamphitheater.com/", 
+    "time": "8:00 am", 
+    "date": "2018-11-10", 
+    "headliner": "2018 Walk to End Alzheimer's - Tallahassee", 
+    "slug": "2018-walk-to-end-alzheimer-s-tallahassee-2018-11-10", 
+    "venue_slug": "capital-city-amphitheater-cascades-park"
+  }, 
+  {
+    "website": "http://www.zebrawebworks.com/zebra/bluetavern/day.cfm?&year=2018&month=11&day=10", 
+    "genres": [], 
+    "price": "$0", 
+    "time": "4:30 PM", 
+    "date": "2018-11-10", 
+    "headliner": "Old-Time Jam ', u'Walter Belmont', u'Ronan Cowan Jazz Trio", 
+    "slug": "old-time-jam-u-walter-belmont-u-ronan-cowan-jazz-trio-2018-11-10"
+  }, 
+  {
+    "website": "https://www.tallahasseearts.org/event/bach-parley-autumn-concert/", 
+    "venue_address": "211 North Monroe Street, Tallahassee, FL 32301", 
+    "price": "A $10 donation is suggested, and free childcare will be offered.", 
+    "venue": "St. John's Episcopal Church", 
+    "venue_website": "http://www.saint-john.org", 
+    "time": "3:00 pm", 
+    "date": "2018-11-11", 
+    "headliner": "Bach Parley Autumn Concert", 
+    "slug": "bach-parley-autumn-concert-2018-11-11", 
+    "venue_slug": "st-john-s-episcopal-church"
+  }, 
+  {
+    "website": "https://openingnights.fsu.edu/events/lindsay-lou/", 
+    "genres": [
+      "bluegrass"
+    ], 
+    "price": "$40, $20, $40, $20", 
+    "venue": "Goodwood Museum and Gardens", 
+    "date": "2018-11-12", 
+    "time": "7:30 PM", 
+    "headliner": "Lindsay Lou", 
+    "slug": "lindsay-lou-2018-11-12"
+  }, 
+  {
+    "website": "https://www.tallahasseearts.org/event/florida-society-youth-orchestra-program-fsyo/", 
+    "venue_address": "2801 Thomasville Rd, Tallahassee, FL 32308", 
+    "price": "$75.00 One-Time Registration (Non-Refundable)", 
+    "venue": "Freedom Church", 
+    "venue_website": "", 
+    "time": "3:30 pm", 
+    "date": "2018-11-12", 
+    "headliner": "Florida Society Youth Orchestra Program (FSYO)", 
+    "slug": "florida-society-youth-orchestra-program-fsyo-2018-11-12", 
+    "venue_slug": "freedom-church"
+  }, 
+  {
+    "website": "http://www.zebrawebworks.com/zebra/bluetavern/day.cfm?&year=2018&month=11&day=12", 
+    "genres": [
+      "country", 
+      "blues", 
+      "traditional"
+    ], 
+    "price": "$2", 
+    "time": "8:00 PM", 
+    "date": "2018-11-12", 
+    "headliner": "Belmont & Jones", 
+    "slug": "belmont-and-jones-2018-11-12"
+  }, 
+  {
+    "website": "https://www.tallahasseearts.org/event/fsu-vocal-jazz-concert-2/", 
+    "venue_address": "114 N Copeland St., Tallahassee, FL 32304", 
+    "price": "Nearby parking available.", 
+    "venue": "Opperman Music Hall - Florida State University", 
+    "venue_website": "http://www.music.fsu.edu/Venues/Opperman-Music-Hall", 
+    "time": "7:30 pm (Tue)", 
+    "date": "2018-11-13", 
+    "headliner": "FSU Vocal Jazz Concert", 
+    "slug": "fsu-vocal-jazz-concert-2018-11-13", 
+    "venue_slug": "opperman-music-hall-florida-state-university"
+  }, 
+  {
+    "website": "http://www.zebrawebworks.com/zebra/bluetavern/day.cfm?&year=2018&month=11&day=13", 
+    "genres": [
+      "songwriter from nolahttps://lynndrury.com/home"
+    ], 
+    "price": "$5", 
+    "time": "8:00 PM", 
+    "date": "2018-11-13", 
+    "headliner": "Lynn Drury", 
+    "slug": "lynn-drury-2018-11-13"
+  }, 
+  {
+    "website": "https://www.tallahasseearts.org/event/university-wind-orchestra-4/", 
+    "venue_address": "222 S Copeland St, Tallahassee, FL 32304", 
+    "price": "Nearby parking available.", 
+    "venue": "Ruby Diamond Concert Hall - Florida State University", 
+    "venue_website": "http://www.music.fsu.edu/Venues/Ruby-Diamond-Concert-Hall", 
+    "time": "7:30 pm (Wed)", 
+    "date": "2018-11-14", 
+    "headliner": "University Wind Orchestra", 
+    "slug": "university-wind-orchestra-2018-11-14", 
+    "venue_slug": "ruby-diamond-concert-hall-florida-state-university"
+  }, 
+  {
+    "website": "https://www.facebook.com/events/1079334968897631/", 
+    "venue_address": "325 N Bronough Street, Tallahassee, FL 32301", 
+    "price": "no cover/tipping encouraged", 
+    "venue": "Bird's Aphrodisiac Oyster Shack", 
+    "venue_website": "http://www.birdsoystershack.com/index.shtml", 
+    "time": "6:00 pm", 
+    "date": "2018-11-14", 
+    "headliner": "Holly Riley with Jim Crozier in the Lab", 
+    "slug": "holly-riley-with-jim-crozier-in-the-lab-2018-11-14", 
+    "venue_slug": "bird-s-aphrodisiac-oyster-shack"
+  }, 
+  {
+    "website": "http://www.zebrawebworks.com/zebra/bluetavern/day.cfm?&year=2018&month=11&day=14", 
+    "genres": [
+      "Lit Night"
+    ], 
+    "price": "$0", 
+    "time": "7:00 PM", 
+    "date": "2018-11-14", 
+    "headliner": "Tallahassee Writers Association", 
+    "slug": "tallahassee-writers-association-2018-11-14"
+  }, 
+  {
+    "website": "http://www.zebrawebworks.com/zebra/bluetavern/day.cfm?&year=2018&month=11&day=14", 
+    "genres": [
+      "poetry and music"
+    ], 
+    "price": "$2", 
+    "date": "2018-11-14", 
+    "headliner": "Grant Peeples", 
+    "slug": "grant-peeples-2018-11-14"
+  }, 
+  {
+    "website": "http://tallahassee.moonevents.com/events/big-gigantic", 
+    "support": "", 
+    "venue": "The Moon", 
+    "time": "Doors open at: 8:00PM // Show starts at: 9:00PM", 
+    "date": "2018-11-15", 
+    "headliner": "BIG GIGANTIC", 
+    "slug": "big-gigantic-2018-11-15"
+  }, 
+  {
+    "website": "https://openingnights.fsu.edu/events/anthony-trionfo/", 
+    "genres": [
+      "classical"
+    ], 
+    "price": "$30, $15", 
+    "venue": "St. John\u2019s Episcopal Church", 
+    "date": "2018-11-15", 
+    "time": "7:30 PM", 
+    "headliner": "Anthony Trionfo, ", 
+    "slug": "anthony-trionfo-2018-11-15"
+  }, 
+  {
+    "website": "http://www.goodwoodmuseum.org", 
+    "venue_address": "1600 Miccosukee Rd, Tallahassee, FL 32308", 
+    "price": "Limited space available \u2013 Tickets $25", 
+    "venue": "Goodwood Museum and Gardens", 
+    "venue_website": "http://www.goodwoodmuseum.org/index.php", 
+    "time": "6:30 pm", 
+    "date": "2018-11-15", 
+    "headliner": "Jazz in the Parlor with Colleen Nixon", 
+    "slug": "jazz-in-the-parlor-with-colleen-nixon-2018-11-15", 
+    "venue_slug": "goodwood-museum-and-gardens"
+  }, 
+  {
+    "website": "https://www.tallahasseearts.org/event/fairview-middle-school-jazz-in-the-courtyard-2/", 
+    "venue_address": "3415 Zillah St, Tallahassee, FL 32305", 
+    "price": "Tickets are $5 or $3 with a non-perishable food item. You may contact Fairview Middle School at 850-488-6880 or Ms. Moore directly at moored2@leonschools.net", 
+    "venue": "Fairview Middle School", 
+    "venue_website": "", 
+    "time": "6:00 pm (Thu)", 
+    "date": "2018-11-15", 
+    "headliner": "Fairview Middle School Jazz in the Courtyard", 
+    "slug": "fairview-middle-school-jazz-in-the-courtyard-2018-11-15", 
+    "venue_slug": "fairview-middle-school"
+  }, 
+  {
+    "website": "http://museumoffloridahistory.com", 
+    "venue_address": "500 S Bronough St, R.A. Gray Building, Tallahassee, FL 32399", 
+    "price": "Free Admission", 
+    "venue": "Museum of Florida History", 
+    "venue_website": "http://museumoffloridahistory.com", 
+    "time": "5:30 pm", 
+    "date": "2018-11-15", 
+    "headliner": "Surf's Up, Florida! Opening Reception", 
+    "slug": "surf-s-up-florida-opening-reception-2018-11-15", 
+    "venue_slug": "museum-of-florida-history"
+  }, 
+  {
+    "website": "http://www.zebrawebworks.com/zebra/bluetavern/day.cfm?&year=2018&month=11&day=15", 
+    "genres": [
+      "songster"
+    ], 
+    "price": "$2", 
+    "time": "8:00 PM", 
+    "date": "2018-11-15", 
+    "headliner": "Drew Tillman", 
+    "slug": "drew-tillman-2018-11-15"
+  }, 
+  {
+    "website": "http://www.fifthandthomas.com/event/djatothel-7-4/", 
+    "price": "No Cover", 
+    "venue": "Fifth and Thomas", 
+    "slug": "dj-a-to-the-l-2018-11-16", 
+    "time": "11:00 pm", 
+    "date": "2018-11-16", 
+    "headliner": "DJ A to the L", 
+    "age": "Ages 21+ Only"
+  }, 
+  {
+    "website": "http://www.fifthandthomas.com/event/eli-2-2/", 
+    "price": "$10 Cover at the Door", 
+    "venue": "Fifth and Thomas", 
+    "slug": "eli-2018-11-16", 
+    "time": "Doors: 8pm | Music: 9pm \u2013 11pm", 
+    "date": "2018-11-16", 
+    "headliner": "ELI", 
+    "age": "Ages 21+ Only"
+  }, 
+  {
+    "website": "https://www.facebook.com/events/275078346417533/", 
+    "venue_address": "300 S. Adams Street, Tallahassee, FL., Tallahassee, FL 32301", 
+    "price": "FREE for all ages!", 
+    "venue": "Corner of Adams Street and College Avenue", 
+    "venue_website": "", 
+    "time": "6:00 pm", 
+    "date": "2018-11-16", 
+    "headliner": "2018 Downtown GetDown on Adams Street: Rockey's Dueling Piano Bar Rock and Roll Piano Show", 
+    "slug": "2018-downtown-getdown-on-adams-street-rockey-s-dueling-piano-bar-rock-and-roll-piano-show-2018-11-16", 
+    "venue_slug": "corner-of-adams-street-and-college-avenue"
+  }, 
+  {
+    "website": "https://www.tallahasseearts.org/event/big-hearts-for-broadway/", 
+    "venue_address": "631 University Way, Tallahassee, FL 32304", 
+    "price": "FSU students: $1 or donation of crayons or colored pencils", 
+    "venue": "Augusta Conradi Studio Theatre- Williams Building FSU", 
+    "venue_website": "", 
+    "time": "7:30 pm (Fri)", 
+    "date": "2018-11-16", 
+    "headliner": "Big heARTS for Broadway", 
+    "slug": "big-hearts-for-broadway-2018-11-16", 
+    "venue_slug": "augusta-conradi-studio-theatre-williams-building-fsu"
+  }, 
+  {
+    "website": "https://www.facebook.com/events/196249387675455/", 
+    "venue_address": "6668 Thomasville Road, Tallahassee, FL 32312", 
+    "price": "This event is free and open to the community", 
+    "venue": "Bannerman Crossings", 
+    "venue_website": "", 
+    "time": "5:35 pm", 
+    "date": "2018-11-16", 
+    "headliner": "Northtown Getdown at Bannerman Crossings", 
+    "slug": "northtown-getdown-at-bannerman-crossings-2018-11-16", 
+    "venue_slug": "bannerman-crossings"
+  }, 
+  {
+    "website": "http://www.zebrawebworks.com/zebra/bluetavern/day.cfm?&year=2018&month=11&day=16", 
+    "genres": [], 
+    "price": "$0", 
+    "time": "4:00 PM", 
+    "date": "2018-11-16", 
+    "headliner": "Delta Ringnecks", 
+    "slug": "delta-ringnecks-2018-11-16"
+  }, 
+  {
+    "website": "http://www.zebrawebworks.com/zebra/bluetavern/day.cfm?&year=2018&month=11&day=16", 
+    "genres": [], 
+    "price": "$5", 
+    "date": "2018-11-16", 
+    "headliner": "Jon Copps & Ken West", 
+    "slug": "jon-copps-and-ken-west-2018-11-16"
+  }, 
+  {
+    "website": "http://www.fifthandthomas.com/event/friedturkeys/", 
+    "price": "No Cover", 
+    "venue": "Fifth and Thomas", 
+    "slug": "the-fried-turkeys-2018-11-17", 
+    "time": "Mainstage Doors: 7pm | Music: 8pm", 
+    "date": "2018-11-17", 
+    "headliner": "The Fried Turkeys", 
+    "age": "Ages 21+ Only"
+  }, 
+  {
+    "website": "http://www.fifthandthomas.com/event/ryanchavers-2-2-3/", 
+    "price": "No Cover", 
+    "venue": "Fifth and Thomas", 
+    "slug": "dj-ryan-chavers-2018-11-17", 
+    "time": "10:00 pm", 
+    "date": "2018-11-17", 
+    "headliner": "DJ Ryan Chavers", 
+    "age": "Ages 21+ Only"
+  }, 
+  {
+    "website": "http://www.zebrawebworks.com/zebra/bluetavern/day.cfm?&year=2018&month=11&day=17", 
+    "genres": [], 
+    "price": "$5", 
+    "time": "7:00 PM", 
+    "date": "2018-11-17", 
+    "headliner": "American Darling Valve", 
+    "slug": "american-darling-valve-2018-11-17"
+  }, 
+  {
+    "website": "http://www.zebrawebworks.com/zebra/bluetavern/day.cfm?&year=2018&month=11&day=17", 
+    "genres": [], 
+    "price": "$5", 
+    "date": "2018-11-17", 
+    "headliner": "Flathead String Band", 
+    "slug": "flathead-string-band-2018-11-17"
+  }, 
+  {
+    "website": "https://www.therecollections.org/events/tommy-cooper-in-concert", 
+    "venue_address": "29 Island Drive, Eastpoint, FL 32328", 
+    "price": "Tickets for Tommy Cooper \u2013 In Concert are $10 and may be purchased online at Cat Pointe Music or at the door.", 
+    "venue": "Cat Pointe Music", 
+    "venue_website": "", 
+    "time": "3:00 pm (Sun)", 
+    "date": "2018-11-18", 
+    "headliner": "Tommy Cooper", 
+    "slug": "tommy-cooper-2018-11-18", 
+    "venue_slug": "cat-pointe-music"
+  }, 
+  {
+    "website": "https://www.tallahasseearts.org/event/snakes-in-the-shed/", 
+    "venue_address": "3031 Crump Rd, Tallahassee, FL 32309, Tallahassee, FL 32309", 
+    "price": "Free music! BBQ and non alcoholic drinks available for purchase.", 
+    "venue": "The Red Shed", 
+    "venue_website": "", 
+    "time": "4:00 pm", 
+    "date": "2018-11-18", 
+    "headliner": "Snakes in the Shed", 
+    "slug": "snakes-in-the-shed-2018-11-18", 
+    "venue_slug": "the-red-shed"
+  }, 
+  {
+    "website": "http://www.zebrawebworks.com/zebra/bluetavern/day.cfm?&year=2018&month=11&day=19", 
+    "genres": [
+      "country", 
+      "blues", 
+      "traditional"
+    ], 
+    "price": "$2", 
+    "time": "8:00 PM", 
+    "date": "2018-11-19", 
+    "headliner": "Belmont & Jones", 
+    "slug": "belmont-and-jones-2018-11-19"
+  }, 
+  {
+    "website": "http://www.zebrawebworks.com/zebra/bluetavern/day.cfm?&year=2018&month=11&day=20", 
+    "genres": [
+      "https://www.facebook.com/nrubhsawjt"
+    ], 
+    "price": "$2", 
+    "time": "8:00 PM", 
+    "date": "2018-11-20", 
+    "headliner": "TJ Washburn songster", 
+    "slug": "tj-washburn-songster-2018-11-20"
+  }, 
+  {
+    "website": "http://tallahassee.moonevents.com/events/thanksgiving-ladies-night", 
+    "support": "", 
+    "venue": "The Moon", 
+    "time": "Doors open at: 10:00PM // Show starts at: 10:00PM", 
+    "date": "2018-11-21", 
+    "headliner": "Thanksgiving ladies Night", 
+    "slug": "thanksgiving-ladies-night-2018-11-21"
+  }, 
+  {
+    "website": "http://www.fifthandthomas.com/event/browngoose-2/", 
+    "price": "\nNo Cover", 
+    "venue": "Fifth and Thomas", 
+    "slug": "thanksgiving-party-ft-the-brown-goose-2018-11-21", 
+    "time": "Doors: 8pm | Music: 9:30pm", 
+    "date": "2018-11-21", 
+    "headliner": "Thanksgiving Party ft. The Brown Goose", 
+    "age": "Ages 21+ Only"
+  }, 
+  {
+    "website": "http://www.zebrawebworks.com/zebra/bluetavern/day.cfm?&year=2018&month=11&day=21", 
+    "genres": [], 
+    "price": "$0", 
+    "time": "7:00 PM", 
+    "date": "2018-11-21", 
+    "headliner": "Blue Tavern Book Club", 
+    "slug": "blue-tavern-book-club-2018-11-21"
+  }, 
+  {
+    "website": "http://www.zebrawebworks.com/zebra/bluetavern/day.cfm?&year=2018&month=11&day=21", 
+    "genres": [], 
+    "price": "$0", 
+    "time": "8:00 PM", 
+    "date": "2018-11-21", 
+    "headliner": "Jerry Thigpen", 
+    "slug": "jerry-thigpen-2018-11-21"
+  }, 
+  {
+    "website": "http://www.zebrawebworks.com/zebra/bluetavern/day.cfm?&year=2018&month=11&day=22", 
+    "genres": [], 
+    "price": "$0", 
+    "time": "5:00 PM", 
+    "date": "2018-11-22", 
+    "headliner": "CLOSED FOR THANKSGIVING", 
+    "slug": "closed-for-thanksgiving-2018-11-22"
+  }, 
+  {
+    "website": "http://tallahassee.moonevents.com/node/905", 
+    "support": "", 
+    "venue": "The Moon", 
+    "time": "Doors open at: 7:00PM // Show starts at: 7:15PM", 
+    "date": "2018-11-23", 
+    "headliner": "Brawl for it All / Tom & The Cats", 
+    "slug": "brawl-for-it-all-tom-and-the-cats-2018-11-23"
+  }, 
+  {
+    "website": "http://www.fifthandthomas.com/event/djezone-6-2-2-2-2/", 
+    "price": "No Cover", 
+    "venue": "Fifth and Thomas", 
+    "slug": "dj-e-zone-2018-11-23", 
+    "time": "10:00 pm", 
+    "date": "2018-11-23", 
+    "headliner": "DJ E-Zone", 
+    "age": "Ages 21+ Only"
+  }, 
+  {
+    "website": "http://www.fifthandthomas.com/event/tobaccordband-2/", 
+    "price": "No Cover", 
+    "venue": "Fifth and Thomas", 
+    "slug": "tobacco-rd-band-2018-11-23", 
+    "time": "Doors: 8PM | Music: 9:30PM", 
+    "date": "2018-11-23", 
+    "headliner": "Tobacco Rd Band", 
+    "age": "Ages 21+ Only"
+  }, 
+  {
+    "website": "https://www.facebook.com/events/275078346417533/", 
+    "venue_address": "300 S. Adams Street, Tallahassee, FL., Tallahassee, FL 32301", 
+    "price": "FREE for all ages!", 
+    "venue": "Corner of Adams Street and College Avenue", 
+    "venue_website": "", 
+    "time": "6:00 pm", 
+    "date": "2018-11-23", 
+    "headliner": "2018 Downtown GetDown on Adams Street: FUTUREBIRDS!", 
+    "slug": "2018-downtown-getdown-on-adams-street-futurebirds-2018-11-23", 
+    "venue_slug": "corner-of-adams-street-and-college-avenue"
+  }, 
+  {
+    "website": "https://www.therecollections.org/events/full-moon-concert", 
+    "venue_address": "29 Island Drive, Eastpoint, FL 32328", 
+    "price": "Tickets for the", 
+    "venue": "Cat Pointe Music", 
+    "venue_website": "", 
+    "time": "7:00 pm (Fri)", 
+    "date": "2018-11-23", 
+    "headliner": "Full Moon Concert", 
+    "slug": "full-moon-concert-2018-11-23", 
+    "venue_slug": "cat-pointe-music"
+  }, 
+  {
+    "website": "https://www.facebook.com/events/196249387675455/", 
+    "venue_address": "6668 Thomasville Road, Tallahassee, FL 32312", 
+    "price": "This event is free and open to the community.", 
+    "venue": "Bannerman Crossings", 
+    "venue_website": "http://www.bannermancrossings.com", 
+    "time": "5:30 pm", 
+    "date": "2018-11-23", 
+    "headliner": "Northtown GetDown at Bannermn Crossings", 
+    "slug": "northtown-getdown-at-bannermn-crossings-2018-11-23", 
+    "venue_slug": "bannerman-crossings"
+  }, 
+  {
+    "website": "http://www.pasdevieballet.com", 
+    "venue_address": "1601 S Martin Luther King Jr Blvd, Tallahassee, FL 32301", 
+    "price": "$10 ($8 for groups of 10 or more)", 
+    "venue": "Lee Hall Auditorium", 
+    "venue_website": "http://www.pasdevieballet.com", 
+    "time": "2:30 pm", 
+    "date": "2018-11-23", 
+    "headliner": "The Nutcracker (Abbreviated Children's Performance)", 
+    "slug": "the-nutcracker-abbreviated-children-s-performance-2018-11-23", 
+    "venue_slug": "lee-hall-auditorium"
+  }, 
+  {
+    "website": "http://www.zebrawebworks.com/zebra/bluetavern/day.cfm?&year=2018&month=11&day=23", 
+    "genres": [], 
+    "price": "$0", 
+    "time": "4:00 PM", 
+    "date": "2018-11-23", 
+    "headliner": "Delta Ringnecks", 
+    "slug": "delta-ringnecks-2018-11-23"
+  }, 
+  {
+    "website": "http://www.zebrawebworks.com/zebra/bluetavern/day.cfm?&year=2018&month=11&day=23", 
+    "genres": [], 
+    "price": "$5", 
+    "date": "2018-11-23", 
+    "headliner": "Sawmill Jam", 
+    "slug": "sawmill-jam-2018-11-23"
+  }, 
+  {
+    "website": "http://www.fifthandthomas.com/event/ghent-the-dj-17-2-2/", 
+    "price": "No Cover", 
+    "venue": "Fifth and Thomas", 
+    "slug": "all-night-dj-led-dance-party-ft-ghent-the-dj-2018-11-24", 
+    "time": "10:00 pm", 
+    "date": "2018-11-24", 
+    "headliner": "All Night DJ Led Dance Party ft. Ghent the DJ", 
+    "age": "Ages 21+ Only"
+  }, 
+  {
+    "website": "http://www.zebrawebworks.com/zebra/bluetavern/day.cfm?&year=2018&month=11&day=24", 
+    "genres": [], 
+    "price": "$0", 
+    "time": "4:30 PM", 
+    "date": "2018-11-24", 
+    "headliner": "Old-Time Jam', u'Charlie Wilkinson & Frank Lindamood', u'Apalachee Trio", 
+    "slug": "old-time-jam-u-charlie-wilkinson-and-frank-lindamood-u-apalachee-trio-2018-11-24"
+  }, 
+  {
+    "website": "http://www.zebrawebworks.com/zebra/bluetavern/day.cfm?&year=2018&month=11&day=26", 
+    "genres": [
+      "country", 
+      "blues", 
+      "traditional"
+    ], 
+    "price": "$2", 
+    "time": "8:00 PM", 
+    "date": "2018-11-26", 
+    "headliner": "Belmont & Jones", 
+    "slug": "belmont-and-jones-2018-11-26"
+  }, 
+  {
+    "website": "http://www.zebrawebworks.com/zebra/bluetavern/day.cfm?&year=2018&month=11&day=27", 
+    "genres": [], 
+    "price": "$2", 
+    "venue": "Blue Tavern", 
+    "time": "8:00 PM", 
+    "date": "2018-11-27", 
+    "headliner": "Roda Vibe with Tallahassee Choro Society", 
+    "slug": "roda-vibe-with-tallahassee-choro-society-2018-11-27"
+  }, 
+  {
+    "website": "http://www.zebrawebworks.com/zebra/bluetavern/day.cfm?&year=2018&month=11&day=28", 
+    "genres": [], 
+    "price": "$0", 
+    "time": "7:00 PM", 
+    "date": "2018-11-28", 
+    "headliner": "Stories @ Blue", 
+    "slug": "stories-blue-2018-11-28"
+  }, 
+  {
+    "website": "http://www.zebrawebworks.com/zebra/bluetavern/day.cfm?&year=2018&month=11&day=28", 
+    "genres": [], 
+    "price": "$2", 
+    "date": "2018-11-28", 
+    "headliner": "Josh Cosette jazz piano", 
+    "slug": "josh-cosette-jazz-piano-2018-11-28"
+  }, 
+  {
+    "website": "http://www.zebrawebworks.com/zebra/bluetavern/day.cfm?&year=2018&month=11&day=29", 
+    "genres": [], 
+    "price": "$5", 
+    "time": "8:00 PM", 
+    "date": "2018-11-29", 
+    "headliner": "Rachel Hillman", 
+    "slug": "rachel-hillman-2018-11-29"
+  }, 
+  {
+    "website": "http://www.fifthandthomas.com/event/djatothel-7-3/", 
+    "price": "No Cover", 
+    "venue": "Fifth and Thomas", 
+    "slug": "dj-a-to-the-l-2018-11-30", 
+    "time": "11:00 pm", 
+    "date": "2018-11-30", 
+    "headliner": "DJ A to the L", 
+    "age": "Ages 21+ Only"
+  }, 
+  {
+    "website": "http://www.fifthandthomas.com/event/ordinaryboys-2/", 
+    "price": "$5 Cover at the Door", 
+    "venue": "Fifth and Thomas", 
+    "slug": "ordinary-boys-the-smiths-and-morrissey-tribute-act-2018-11-30", 
+    "time": "Doors: 8pm | Music: 9:30pm", 
+    "date": "2018-11-30", 
+    "headliner": "Ordinary Boys: The Smiths & Morrissey Tribute Act", 
+    "age": "Ages 21+ Only"
+  }, 
+  {
+    "website": "http://www.fifthandthomas.com/event/bradashwell-3/", 
+    "price": "\nNo Cover", 
+    "venue": "Fifth and Thomas", 
+    "slug": "patio-preshow-party-ft-brad-ashwell-2018-11-30", 
+    "time": "Doors: 6pm | Music: 6pm \u2013 9pm", 
+    "date": "2018-11-30", 
+    "headliner": "Patio Preshow Party ft. Brad Ashwell", 
+    "age": "Ages 21+ Only"
+  }, 
+  {
+    "website": "https://www.tallahasseeseniorfoundation.org/deck-halls/", 
+    "venue_address": "1400 N. Monroe St., Tallahassee, FL 32303", 
+    "price": "Tickets $45, discounts available (buy 6 tickets for $240 ($30 discount), 8 tickets for $310 ($60 discount) and 10 tickets for $350 ($100 discount))\u00a0\u2013 a great way for the office or your group of friends to celebrate the holidays and benefit Senior Services!", 
+    "venue": "Tallahassee Senior Center", 
+    "venue_website": "", 
+    "time": "6:30 pm", 
+    "date": "2018-11-30", 
+    "headliner": "Deck the Halls", 
+    "slug": "deck-the-halls-2018-11-30", 
+    "venue_slug": "tallahassee-senior-center"
+  }, 
+  {
+    "website": "http://www.zebrawebworks.com/zebra/bluetavern/day.cfm?&year=2018&month=11&day=30", 
+    "genres": [], 
+    "price": "$0", 
+    "time": "4:00 PM", 
+    "date": "2018-11-30", 
+    "headliner": "Delta Ringnecks", 
+    "slug": "delta-ringnecks-2018-11-30"
+  }, 
+  {
+    "website": "http://www.zebrawebworks.com/zebra/bluetavern/day.cfm?&year=2018&month=11&day=30", 
+    "genres": [], 
+    "price": "$5", 
+    "date": "2018-11-30", 
+    "headliner": "Adventures of Annabelle Lyn", 
+    "slug": "adventures-of-annabelle-lyn-2018-11-30"
+  }, 
+  {
+    "website": "http://www.fifthandthomas.com/event/pattersonhood/", 
+    "price": "$28", 
+    "venue": "Fifth and Thomas", 
+    "slug": "an-evening-with-patterson-hood-of-the-drive-by-truckers-2018-12-01", 
+    "time": "Mainstage Doors: 7PM | Music: 8PM |\u00a0", 
+    "date": "2018-12-01", 
+    "headliner": "An Evening with Patterson Hood (of the Drive-By Truckers)", 
+    "age": "Ages 21+ Only"
+  }, 
+  {
+    "website": "http://www.zebrawebworks.com/zebra/bluetavern/day.cfm?&year=2018&month=12&day=1", 
+    "genres": [], 
+    "price": "local wildlife at 7 pmpat puckett at 10 pm$5 covers entire evening", 
+    "time": "7:00 PM", 
+    "date": "2018-12-01", 
+    "headliner": "Local Wildlife / Pat Puckett", 
+    "slug": "local-wildlife-pat-puckett-2018-12-01"
+  }, 
+  {
+    "website": "http://www.fifthandthomas.com/event/marcbroussard/", 
+    "price": "$30", 
+    "venue": "Fifth and Thomas", 
+    "slug": "marc-broussard-w-kristopher-james-2018-12-02", 
+    "time": "Doors: 7:00pm | Show: 8:00pm |\u00a0Ages 21+ Only", 
+    "date": "2018-12-02", 
+    "headliner": "Marc Broussard w/ Kristopher James", 
+    "age": "Doors: 7:00pm | Show: 8:00pm |\u00a0Ages 21+ Only"
+  }, 
+  {
+    "website": "https://www.tallahasseearts.org/event/faculty-recital-geoffrey-deibel-saxophone/", 
+    "venue_address": "Housewright Building at FSU, Tallahassee, FL 32304", 
+    "venue": "Dohnanyi Recital Hall", 
+    "venue_website": "http://www.music.fsu.edu/facilities", 
+    "time": "2:00 pm (Sun)", 
+    "date": "2018-12-02", 
+    "headliner": "Faculty Recital - Geoffrey Deibel, saxophone", 
+    "slug": "faculty-recital-geoffrey-deibel-saxophone-2018-12-02", 
+    "venue_slug": "dohnanyi-recital-hall"
+  }, 
+  {
+    "website": "https://www.tallahasseearts.org/event/tallahassee-breezes-holiday-concert-2/", 
+    "venue_address": "4449 Meandering Way, Tallahassee, FL 32308", 
+    "price": "Free Admission", 
+    "venue": "Maguire Center at Westminster Oaks", 
+    "venue_website": "https://www.bbcorch.org/wp-content/uploads/2012/11/Directions-to-the-Maguire-Center-at-Westminster-Oaks.pdf", 
+    "time": "2:00 pm", 
+    "date": "2018-12-02", 
+    "headliner": "Tallahassee Breezes Holiday Concert", 
+    "slug": "tallahassee-breezes-holiday-concert-2018-12-02", 
+    "venue_slug": "maguire-center-at-westminster-oaks"
+  }, 
+  {
+    "website": "http://www.zebrawebworks.com/zebra/bluetavern/day.cfm?&year=2018&month=12&day=3", 
+    "genres": [
+      "country", 
+      "blues", 
+      "traditional"
+    ], 
+    "price": "$0", 
+    "time": "8:00 PM", 
+    "date": "2018-12-03", 
+    "headliner": "Belmont & Jones", 
+    "slug": "belmont-and-jones-2018-12-03"
+  }, 
+  {
+    "website": "https://www.facebook.com/events/1189104217892118/", 
+    "venue_address": "2200 N. Meridian Rd, Tallahassee, FL 32308", 
+    "price": "Suggested donation is $10 for adults and $5 for children.\u00a0Tickets are available at the door or by advance purchase; Ticket sales location TBA in the fall.", 
+    "venue": "Faith Presbyterian Church", 
+    "venue_website": "", 
+    "time": "7:00 pm", 
+    "date": "2018-12-04", 
+    "headliner": "Tallahassee Music Guild's Sing-Along Messiah Concert", 
+    "slug": "tallahassee-music-guild-s-sing-along-messiah-concert-2018-12-04", 
+    "venue_slug": "faith-presbyterian-church"
+  }, 
+  {
+    "website": "http://www.zebrawebworks.com/zebra/bluetavern/day.cfm?&year=2018&month=12&day=4", 
+    "genres": [
+      "jazz"
+    ], 
+    "price": "$2", 
+    "time": "7:00 PM", 
+    "date": "2018-12-04", 
+    "headliner": "Jazz Sessions with Bob Dogan Trio", 
+    "slug": "jazz-sessions-with-bob-dogan-trio-2018-12-04"
+  }, 
+  {
+    "website": "http://www.zebrawebworks.com/zebra/bluetavern/day.cfm?&year=2018&month=12&day=5", 
+    "genres": [
+      "nickgusman.bandcamp.com"
+    ], 
+    "price": "$2", 
+    "time": "8:00 PM", 
+    "date": "2018-12-05", 
+    "headliner": "Nick Gusman", 
+    "slug": "nick-gusman-2018-12-05"
+  }, 
+  {
+    "website": "https://openingnights.fsu.edu/events/mandy-harvey/", 
+    "genres": [
+      "singer-songwriter"
+    ], 
+    "price": "$45, $22", 
+    "venue": "Opperman Music Hall", 
+    "date": "2018-12-06", 
+    "time": "7:30 PM", 
+    "headliner": "Mandy Harvey", 
+    "slug": "mandy-harvey-2018-12-06"
+  }, 
+  {
+    "website": "https://www.facebook.com/events/340807940016077/", 
+    "venue_address": "1641 N Monroe, Tallahassee, FL 32303", 
+    "price": "Music is free! Food is available for purchase from the food trucks.", 
+    "venue": "The Shops at Lake Ella", 
+    "venue_website": "https://www.tallahasseearts.org/venue/the-shops-at-lake-ella", 
+    "time": "5:30 pm", 
+    "date": "2018-12-06", 
+    "headliner": "Food Truck Thursday with Two Foot Level", 
+    "slug": "food-truck-thursday-with-two-foot-level-2018-12-06", 
+    "venue_slug": "the-shops-at-lake-ella"
+  }, 
+  {
+    "website": "http://www.zebrawebworks.com/zebra/bluetavern/day.cfm?&year=2018&month=12&day=6", 
+    "genres": [
+      "blues", 
+      "r&b", 
+      "and twangy influences. off his forthcoming album gotta get back", 
+      "the track features a steady", 
+      "driving beat and a soulful yet optimistic walker yearning to be home again.sethwalker.com"
+    ], 
+    "price": "$10", 
+    "time": "8:00 PM", 
+    "date": "2018-12-06", 
+    "headliner": "Seth Walker", 
+    "slug": "seth-walker-2018-12-06"
+  }, 
+  {
+    "website": "http://www.fifthandthomas.com/event/revival-4/", 
+    "price": "No Cover", 
+    "venue": "Fifth and Thomas", 
+    "slug": "revival-2018-12-07", 
+    "time": "Doors: 8PM | Music: 9PM", 
+    "date": "2018-12-07", 
+    "headliner": "Revival", 
+    "age": "Ages 21+ Only"
+  }, 
+  {
+    "website": "http://www.zebrawebworks.com/zebra/bluetavern/day.cfm?&year=2018&month=12&day=7", 
+    "genres": [
+      "jug band music"
+    ], 
+    "price": "$0", 
+    "time": "4:00 PM", 
+    "date": "2018-12-07", 
+    "headliner": "Delta Ringnecks", 
+    "slug": "delta-ringnecks-2018-12-07"
+  }, 
+  {
+    "website": "http://www.zebrawebworks.com/zebra/bluetavern/day.cfm?&year=2018&month=12&day=7", 
+    "genres": [
+      "roots"
+    ], 
+    "price": "$5", 
+    "time": "8:00 PM", 
+    "date": "2018-12-07", 
+    "headliner": "JB & Paul Harvey", 
+    "slug": "jb-and-paul-harvey-2018-12-07"
+  }, 
+  {
+    "website": "http://www.fifthandthomas.com/event/electricapostles-3-2/", 
+    "price": "No Cover", 
+    "venue": "Fifth and Thomas", 
+    "slug": "electric-apostles-2018-12-08", 
+    "time": "Doors: 9:30pm | Music: 10pm", 
+    "date": "2018-12-08", 
+    "headliner": "Electric Apostles", 
+    "age": "Ages 21+ Only"
+  }, 
+  {
+    "website": "http://tallahassee.moonevents.com/events/good-vibes-0", 
+    "support": "", 
+    "venue": "The Moon", 
+    "time": "Doors open at: 6:00PM // Show starts at: 7:00PM", 
+    "date": "2018-12-09", 
+    "headliner": "Good Vibes", 
+    "slug": "good-vibes-2018-12-09"
+  }, 
+  {
+    "website": "https://junctionatmonroe.com/event.asp?E=748", 
+    "venue": "The Junction at Monroe", 
+    "price": "$10.00, $15.00", 
+    "time": "7:30 PM", 
+    "date": "2018-12-09", 
+    "headliner": "Luxotica Lounge Cabaret", 
+    "slug": "luxotica-lounge-cabaret-2018-12-09"
+  }, 
+  {
+    "website": "http://www.PhillipSolomonStewart.com", 
+    "venue_address": "1105 E Lafayette St, Tallahassee, FL 32301", 
+    "price": "For event details contact KINGP ENTERTAINMENT: (850) 320-7836", 
+    "venue": "The Moon", 
+    "venue_website": "http://tallahassee.moonevents.com/", 
+    "time": "6:00 pm", 
+    "date": "2018-12-09", 
+    "headliner": "Good Vibes Concert 2.0 feat. Phillip Solomon Stewart & The Palace Band", 
+    "slug": "good-vibes-concert-2-0-feat-phillip-solomon-stewart-and-the-palace-band-2018-12-09", 
+    "venue_slug": "the-moon"
+  }, 
+  {
+    "website": "https://openingnights.fsu.edu/events/soweto-gospel-choir/", 
+    "genres": [
+      "gospel"
+    ], 
+    "price": "$50 | $40 | $30 | $25, $25 | $20 | $15 | $12", 
+    "venue": "Ruby Diamond Concert Hall", 
+    "date": "2018-12-11", 
+    "time": "7:30 PM", 
+    "headliner": "Soweto Gospel Choir", 
+    "slug": "soweto-gospel-choir-2018-12-11"
+  }, 
+  {
+    "website": "http://tefconcerts.com", 
+    "venue_address": "600 East Washington Street, Thomasville, GA 31792", 
+    "price": "Tickets are $38 for adults, $15 for students. All seats are reserved.", 
+    "venue": "Thomasville Center for the Arts", 
+    "venue_website": "http://www.thomasvillearts.org", 
+    "time": "7:30 pm (Tue)", 
+    "date": "2018-12-11", 
+    "headliner": "TEF Presents Burning River Brass", 
+    "slug": "tef-presents-burning-river-brass-2018-12-11", 
+    "venue_slug": "thomasville-center-for-the-arts"
+  }, 
+  {
+    "website": "https://openingnights.fsu.edu/events/the-barefoot-movement/", 
+    "genres": [
+      "bluegrass", 
+      "holiday"
+    ], 
+    "price": "$45, $22", 
+    "venue": "Russell P. and Mamie V. Holley Academic Center, The St. Joe Community Foundation Lecture Hall, FSU Panama City", 
+    "date": "2018-12-12", 
+    "time": "7:00 PM Central Time", 
+    "headliner": "The Barefoot Movement", 
+    "slug": "the-barefoot-movement-2018-12-12"
+  }, 
+  {
+    "website": "http://thomasvillega.com/attractions/festivals/victorian-christmas", 
+    "venue_address": "Thomasville, GA 31792", 
+    "price": "Free admission", 
+    "venue": "Downtown Thomasville", 
+    "venue_website": "", 
+    "time": "6:00 pm", 
+    "date": "2018-12-13", 
+    "headliner": "Victorian Christmas", 
+    "slug": "victorian-christmas-2018-12-13", 
+    "venue_slug": "downtown-thomasville"
+  }, 
+  {
+    "website": "https://www.tallahasseearts.org/event/victorian-christmas-festival-in-downtown-thomasville/", 
+    "venue_address": "Downtown Thomasville, Thomasville, GA 31792", 
+    "price": "Free Admission", 
+    "venue": "Downtown Thomasville", 
+    "venue_website": "http://www.thomasvillega.com/Content/Default/8/13/0/thomasville-visitor's-center/home.html", 
+    "time": "6:00 pm", 
+    "date": "2018-12-13", 
+    "headliner": "Victorian Christmas Festival in Downtown Thomasville", 
+    "slug": "victorian-christmas-festival-in-downtown-thomasville-2018-12-13", 
+    "venue_slug": "downtown-thomasville"
+  }, 
+  {
+    "website": "https://www.facebook.com/events/2131610397094473/", 
+    "venue_address": "1206 North Monroe St., Tallahassee, FL 32303", 
+    "price": "$5 at the door / one drink minimum", 
+    "venue": "Blue Tavern", 
+    "venue_website": "http://bluetaverntallahassee.com", 
+    "time": "8:00 pm", 
+    "date": "2018-12-13", 
+    "headliner": "Mia Borders", 
+    "slug": "mia-borders-2018-12-13", 
+    "venue_slug": "blue-tavern"
+  }, 
+  {
+    "website": "http://www.fifthandthomas.com/event/themelodytrucksband/", 
+    "price": "$12", 
+    "venue": "Fifth and Thomas", 
+    "slug": "the-melody-trucks-band-w-the-bobby-lee-rodgers-trio-2018-12-14", 
+    "time": "Doors: 9:00pm | Show: 9:30pm |\u00a0Ages 21+ Only", 
+    "date": "2018-12-14", 
+    "headliner": "The Melody Trucks Band w/ The Bobby Lee Rodgers Trio", 
+    "age": "Doors: 9:00pm | Show: 9:30pm |\u00a0Ages 21+ Only"
+  }, 
+  {
+    "website": "http://www.fifthandthomas.com/event/palaceband/", 
+    "price": "No Cover", 
+    "venue": "Fifth and Thomas", 
+    "slug": "phillip-solomon-stewart-and-the-palace-band-2018-12-15", 
+    "time": "Doors: 8pm | Music: 9:30pm", 
+    "date": "2018-12-15", 
+    "headliner": "Phillip Solomon Stewart & The Palace Band", 
+    "age": "Ages 21+ Only"
+  }, 
+  {
+    "website": "https://junctionatmonroe.com/event.asp?E=721", 
+    "venue": "The Junction at Monroe", 
+    "price": "$15.00, $35.00, $45.00", 
+    "time": "8:00 PM", 
+    "date": "2018-12-15", 
+    "headliner": "Eric Gales", 
+    "slug": "eric-gales-2018-12-15"
+  }, 
+  {
+    "website": "http://www.catpointemusic.com", 
+    "venue_address": "29 Island Drive, Eastpoint, FL 32328", 
+    "price": "A Cat Pointe Christmas is a FREE event. No reserved tickets are necessary. Concert is: Sunday, December 16th at 3:00 pm.", 
+    "venue": "Cat Pointe Music", 
+    "venue_website": "", 
+    "time": "3:00 pm (Sun)", 
+    "date": "2018-12-16", 
+    "headliner": "A Cat Pointe Christmas", 
+    "slug": "a-cat-pointe-christmas-2018-12-16", 
+    "venue_slug": "cat-pointe-music"
+  }, 
+  {
+    "website": "http://www.fifthandthomas.com/event/redshirtfreshmen/", 
+    "price": "No Cover", 
+    "venue": "Fifth and Thomas", 
+    "slug": "the-redshirt-freshmen-2018-12-21", 
+    "time": "Doors: 8PM | Music: 9:30PM", 
+    "date": "2018-12-21", 
+    "headliner": "The Redshirt Freshmen", 
+    "age": "Ages 21+ Only"
+  }, 
+  {
+    "website": "http://www.fifthandthomas.com/event/topshelfband-2-2/", 
+    "price": "No Cover", 
+    "venue": "Fifth and Thomas", 
+    "slug": "top-shelf-band-2018-12-22", 
+    "time": "Doors: 8pm | Music: 9:30pm", 
+    "date": "2018-12-22", 
+    "headliner": "Top Shelf Band", 
+    "age": "Ages 21+ Only"
+  }, 
+  {
+    "website": "http://www.uutallahassee.org", 
+    "venue_address": "2810 N. Meridian Road, Tallahassee, FL 32312", 
+    "price": "Tickets are only $15 each. Kids under 12 no charge! There are a limited number of tickets available, so act now! You can purchase them on the Veranda after Sunday services or online (instructions on the", 
+    "venue": "Unitarian Universalist Church of Tallahassee", 
+    "venue_website": "http://www.uutallahassee.org/", 
+    "time": "7:30 pm", 
+    "date": "2018-12-22", 
+    "headliner": "Solstice Concert by Friction Farm", 
+    "slug": "solstice-concert-by-friction-farm-2018-12-22", 
+    "venue_slug": "unitarian-universalist-church-of-tallahassee"
+  }, 
+  {
+    "website": "http://tallahassee.moonevents.com/events/how-moon-stole-christmas-0", 
+    "support": "", 
+    "venue": "The Moon", 
+    "time": "Doors open at: 10:00PM // Show starts at: 10:00PM", 
+    "date": "2018-12-25", 
+    "headliner": "How The Moon Stole Christmas", 
+    "slug": "how-the-moon-stole-christmas-2018-12-25"
+  }, 
+  {
+    "website": "http://www.fifthandthomas.com/event/catfish-christmas-2/", 
+    "price": "No Cover", 
+    "venue": "Fifth and Thomas", 
+    "slug": "the-catfish-alliance-annual-christmas-pageant-2018-12-25", 
+    "time": "Doors: 8:00PM | Music: 9:00PM", 
+    "date": "2018-12-25", 
+    "headliner": "The Catfish Alliance Annual Christmas Pageant", 
+    "age": "Ages 21+ Only"
+  }, 
+  {
+    "website": "http://www.fifthandthomas.com/event/bad-verbs/", 
+    "price": "No Cover", 
+    "venue": "Fifth and Thomas", 
+    "slug": "the-bad-verbs-2018-12-28", 
+    "time": "Doors: 8pm | Show: 9pm", 
+    "date": "2018-12-28", 
+    "headliner": "The Bad Verbs", 
+    "age": "Ages 21+ Only"
+  }, 
+  {
+    "website": "http://www.fifthandthomas.com/event/jon-bellamy-and-the-rebels-2/", 
+    "price": "No Cover", 
+    "venue": "Fifth and Thomas", 
+    "slug": "jon-bellamy-and-the-rebels-2018-12-31", 
+    "time": "Doors: 9:30pm | Show: 10pm", 
+    "date": "2018-12-31", 
+    "headliner": "Jon Bellamy & the Rebels", 
+    "age": "Ages 21+ Only"
+  }, 
+  {
+    "website": "http://www.catpointemusic.com", 
+    "venue_address": "29 Island Drive, Eastpoint, FL 32328", 
+    "price": "Tickets for Matt Law \u2013 In Concert at Cat Pointe Music are $10 and may be purchased online at", 
+    "venue": "Cat Pointe Music", 
+    "venue_website": "", 
+    "time": "3:00 pm (Sun)", 
+    "date": "2019-01-06", 
+    "headliner": "Matt Law", 
+    "slug": "matt-law-2019-01-06", 
+    "venue_slug": "cat-pointe-music"
+  }, 
+  {
+    "website": "https://openingnights.fsu.edu/events/skerryvore/", 
+    "genres": [
+      "folk", 
+      "pop", 
+      "rock", 
+      "traditional"
+    ], 
+    "price": "$35 | $25, $17 | $12", 
+    "venue": "Ruby Diamond Concert Hall", 
+    "date": "2019-01-09", 
+    "time": "7:30 PM", 
+    "headliner": "Skerryvore", 
+    "slug": "skerryvore-2019-01-09"
+  }, 
+  {
+    "website": "http://tallahassee.moonevents.com/events/rita-coolidge", 
+    "support": "", 
+    "venue": "The Moon", 
+    "time": "Doors open at: 6:00PM // Show starts at: 7:00PM", 
+    "date": "2019-01-10", 
+    "headliner": "RITA COOLIDGE", 
+    "slug": "rita-coolidge-2019-01-10"
+  }, 
+  {
+    "website": "http://sunshinestateball.com/", 
+    "venue_address": "505 West Pensacola Street, Tallahassee, FL 32301", 
+    "price": "Individual Ticket \u2013 $250", 
+    "venue": "Donald L. Tucker Civic Center at FSU", 
+    "venue_website": "http://www.tuckerciviccenter.com/", 
+    "time": "6:30 pm", 
+    "date": "2019-01-11", 
+    "headliner": "Sunshine State Ball", 
+    "slug": "sunshine-state-ball-2019-01-11", 
+    "venue_slug": "donald-l-tucker-civic-center-at-fsu"
+  }, 
+  {
+    "website": "http://tallahassee.moonevents.com/events/jeezy", 
+    "support": "", 
+    "venue": "The Moon", 
+    "time": "Doors open at: 10:00PM // Show starts at: 10:00PM", 
+    "date": "2019-01-12", 
+    "headliner": "JEEZY", 
+    "slug": "jeezy-2019-01-12"
+  }, 
+  {
+    "website": "https://openingnights.fsu.edu/events/parsons-dance-company/", 
+    "genres": [
+      "dance"
+    ], 
+    "price": "$10, $50 | $40 | $30 | $25, $25 | $20 | $15 | $12", 
+    "venue": "Ruby Diamond Concert Hall", 
+    "date": "2019-01-12", 
+    "time": "2:00 PM (Sensory Friendly)", 
+    "headliner": "Parsons Dance Company", 
+    "slug": "parsons-dance-company-2019-01-12"
+  }, 
+  {
+    "website": "https://openingnights.fsu.edu/events/bela-fleck-abigail-washburn/", 
+    "genres": [
+      "americana", 
+      "bluegrass", 
+      "folk"
+    ], 
+    "price": "$65 | $55 | $45 | $25, $32 | $27 | $22 | $12", 
+    "venue": "Ruby Diamond Concert Hall", 
+    "date": "2019-01-14", 
+    "time": "7:30 PM", 
+    "headliner": "B\u00e9la Fleck & Abigail Washburn", 
+    "slug": "b-la-fleck-and-abigail-washburn-2019-01-14"
+  }, 
+  {
+    "website": "http://tallahassee.moonevents.com/events/clay-walker-0", 
+    "support": "", 
+    "venue": "The Moon", 
+    "time": "Doors open at: 7:00PM // Show starts at: 8:00PM", 
+    "date": "2019-01-15", 
+    "headliner": "CLAY WALKER", 
+    "slug": "clay-walker-2019-01-15"
+  }, 
+  {
+    "website": "http://tallahassee.moonevents.com/events/noname", 
+    "support": "", 
+    "venue": "The Moon", 
+    "time": "Doors open at: 7:00PM // Show starts at: 8:00PM", 
+    "date": "2019-01-19", 
+    "headliner": "Noname", 
+    "slug": "noname-2019-01-19"
+  }, 
+  {
+    "website": "http://www.fifthandthomas.com/event/elizabethcook/", 
+    "price": "$22", 
+    "venue": "Fifth and Thomas", 
+    "slug": "elizabeth-cook-w-support-tba-2019-01-25", 
+    "time": "Doors: 7:00pm | Show: 8:00pm |\u00a0Ages 21+ Only", 
+    "date": "2019-01-25", 
+    "headliner": "Elizabeth Cook w/ Support TBA", 
+    "age": "Doors: 7:00pm | Show: 8:00pm |\u00a0Ages 21+ Only"
+  }, 
+  {
+    "website": "https://openingnights.fsu.edu/events/joshua-bell/", 
+    "genres": [
+      "classical"
+    ], 
+    "price": "$75 | $65 | $55 | $25, $37 | $32 | $27 | $12", 
+    "venue": "Ruby Diamond Concert Hall", 
+    "date": "2019-01-28", 
+    "time": "7:30 PM", 
+    "headliner": "Joshua Bell", 
+    "slug": "joshua-bell-2019-01-28"
+  }, 
+  {
+    "website": "https://openingnights.fsu.edu/events/the-temptations-and-the-four-tops/", 
+    "genres": [
+      "motown", 
+      "r&b"
+    ], 
+    "price": "$75 | $65 | $55 | $25, $37 | $32 | $27 | $12", 
+    "venue": "Ruby Diamond Concert Hall", 
+    "date": "2019-01-29", 
+    "time": "7:30 PM", 
+    "headliner": "The Temptations and the Four Tops ", 
+    "slug": "the-temptations-and-the-four-tops-2019-01-29"
+  }, 
+  {
+    "website": "https://openingnights.fsu.edu/events/cashore-marionettes/", 
+    "genres": [
+      "puppetry"
+    ], 
+    "price": "$30 | $20 | $10, $15 | $10 | $5, $10", 
+    "venue": "Fred Turner Auditorium", 
+    "date": "2019-02-01", 
+    "time": "7:30 PM", 
+    "headliner": "Cashore Marionettes", 
+    "slug": "cashore-marionettes-2019-02-01"
+  }, 
+  {
+    "website": "https://openingnights.fsu.edu/events/prism/", 
+    "genres": [
+      "classical", 
+      "jazz", 
+      "marching band", 
+      "pop"
+    ], 
+    "price": "$35, $17", 
+    "venue": "Ruby Diamond Concert Hall", 
+    "date": "2019-02-03", 
+    "time": "2:00 PM", 
+    "headliner": "PRISM", 
+    "slug": "prism-2019-02-03"
+  }, 
+  {
+    "website": "http://tallahassee.moonevents.com/events/neko-case", 
+    "support": "", 
+    "venue": "The Moon", 
+    "time": "Doors open at: 7:00PM // Show starts at: 8:00PM", 
+    "date": "2019-02-04", 
+    "headliner": "NEKO CASE", 
+    "slug": "neko-case-2019-02-04"
+  }, 
+  {
+    "website": "https://openingnights.fsu.edu/events/farruquito/", 
+    "genres": [
+      "dance", 
+      "flamenco"
+    ], 
+    "price": "$60 | $50 | $40 | $25, $30 | $25 | $20 | $12", 
+    "venue": "Ruby Diamond Concert Hall", 
+    "date": "2019-02-09", 
+    "time": "7:30 PM", 
+    "headliner": "Farruquito", 
+    "slug": "farruquito-2019-02-09"
+  }, 
+  {
+    "website": "http://www.wcftally.com", 
+    "venue_address": "3720 Capital Circle SE, Tallahassee, FL 32311", 
+    "price": "Attendance is free to all and no tickets are needed. Vendors will be present for on-site food and other purchases.", 
+    "venue": "Good Samaritan United Methodist Church", 
+    "venue_website": "http://www.goodsamaritantallahassee.org/", 
+    "time": "10:00 am", 
+    "date": "2019-02-09", 
+    "headliner": "2nd Annual World Culture Festival", 
+    "slug": "2nd-annual-world-culture-festival-2019-02-09", 
+    "venue_slug": "good-samaritan-united-methodist-church"
+  }, 
+  {
+    "website": "https://openingnights.fsu.edu/events/the-boston-pops-on-tour/", 
+    "genres": [
+      "orchestral pop"
+    ], 
+    "price": "$150 | $140 | $130, $75 | $70 | $65", 
+    "venue": "Ruby Diamond Concert Hall", 
+    "date": "2019-02-14", 
+    "time": "7:30 PM", 
+    "headliner": "The Boston Pops on Tour", 
+    "slug": "the-boston-pops-on-tour-2019-02-14"
+  }, 
+  {
+    "website": "https://openingnights.fsu.edu/events/hairspray/", 
+    "genres": [
+      "broadway", 
+      "theatre"
+    ], 
+    "price": "$22 | $20 (Seniors 62+), $10", 
+    "venue": "Richard G. Fallon Theatre", 
+    "date": "2019-02-15", 
+    "time": "through", 
+    "headliner": "HAIRSPRAY", 
+    "slug": "hairspray-2019-02-15"
+  }, 
+  {
+    "website": "https://www.tallahasseearts.org/event/hairspray-the-broadway-musical/", 
+    "venue_address": "530 W Call St, Tallahassee, FL 32301", 
+    "price": "ADULT TICKET: $22.00", 
+    "venue": "The Fallon Theatre", 
+    "venue_website": "http://www.tickets.fsu.edu/Venue-Information/Richard-G.-Fallon-Theatre-Fine-Arts-Ticket-Office", 
+    "time": "8:00 pm (Fri)", 
+    "date": "2019-02-15", 
+    "headliner": "Hairspray: The Broadway Musical", 
+    "slug": "hairspray-the-broadway-musical-2019-02-15", 
+    "venue_slug": "the-fallon-theatre"
+  }, 
+  {
+    "website": "https://openingnights.fsu.edu/events/tom-rush/", 
+    "genres": [
+      "folk"
+    ], 
+    "price": "$150", 
+    "venue": "Pebble Hill Plantation", 
+    "date": "2019-02-17", 
+    "time": "2:00 PM", 
+    "headliner": "An Afternoon with Tom Rush", 
+    "slug": "an-afternoon-with-tom-rush-2019-02-17"
+  }, 
+  {
+    "website": "http://www.challengertlh.com/razor-lecture-series/", 
+    "venue_address": "200 S. Duval St, Tallahassee, FL 32301", 
+    "price": "Free Admission", 
+    "venue": "Challenger Learning Center of Tallahassee", 
+    "venue_website": "https://www.challengertlh.com/", 
+    "time": "7:00 pm (Tue)", 
+    "date": "2019-02-19", 
+    "headliner": "The Physics of the Blues -Razor Lecture Series", 
+    "slug": "the-physics-of-the-blues-razor-lecture-series-2019-02-19", 
+    "venue_slug": "challenger-learning-center-of-tallahassee"
+  }, 
+  {
+    "website": "http://tallahassee.moonevents.com/events/los-lobos", 
+    "support": "", 
+    "venue": "The Moon", 
+    "time": "Doors open at: 6:30PM // Show starts at: 7:30PM", 
+    "date": "2019-02-20", 
+    "headliner": "LOS LOBOS", 
+    "slug": "los-lobos-2019-02-20"
+  }, 
+  {
+    "website": "http://tallahassee.moonevents.com/events/car-seat-headrest", 
+    "support": "", 
+    "venue": "The Moon", 
+    "time": "Doors open at: 7:00PM // Show starts at: 8:00PM", 
+    "date": "2019-02-21", 
+    "headliner": "Car Seat Headrest", 
+    "slug": "car-seat-headrest-2019-02-21"
+  }, 
+  {
+    "website": "https://openingnights.fsu.edu/events/julian-bliss-septet/", 
+    "genres": [
+      "jazz"
+    ], 
+    "price": "$55, $27", 
+    "venue": "Opperman Music Hall", 
+    "date": "2019-02-21", 
+    "time": "7:30 PM", 
+    "headliner": "The Julian Bliss Septet", 
+    "slug": "the-julian-bliss-septet-2019-02-21"
+  }, 
+  {
+    "website": "https://www.tallahasseearts.org/event/tom-rush/", 
+    "venue_address": "1251 US Hwy. 319 South, Thomasville, GA 31792", 
+    "price": "Tickets: $150", 
+    "venue": "Pebble Hill Plantation", 
+    "venue_website": "http://www.pebblehill.com", 
+    "time": "2:00 pm (Sun)", 
+    "date": "2019-02-24", 
+    "headliner": "Tom Rush", 
+    "slug": "tom-rush-2019-02-24", 
+    "venue_slug": "pebble-hill-plantation"
+  }, 
+  {
+    "website": "https://www.templeisraeltlh.org/jewish-food--cultural-festival.html", 
+    "venue_address": "2215 Mahan Drive, Tallahassee, FL 32308", 
+    "price": "Free admission", 
+    "venue": "Temple Israel", 
+    "venue_website": "", 
+    "time": "10:30 am", 
+    "date": "2019-03-03", 
+    "headliner": "Tallahassee Jewish Food & Cultural Festival", 
+    "slug": "tallahassee-jewish-food-and-cultural-festival-2019-03-03", 
+    "venue_slug": "temple-israel"
+  }, 
+  {
+    "website": "https://openingnights.fsu.edu/events/makana/", 
+    "genres": [
+      "hawaiiana", 
+      "singer-songwriter", 
+      "traditional"
+    ], 
+    "price": "$40, $20, $40, $20", 
+    "venue": "Goodwood Museum and Gardens", 
+    "date": "2019-03-04", 
+    "time": "7:30 PM", 
+    "headliner": "Makana", 
+    "slug": "makana-2019-03-04"
+  }, 
+  {
+    "website": "https://openingnights.fsu.edu/events/taylor-tomlinson/", 
+    "genres": [
+      "comedy"
+    ], 
+    "price": "$20, $10", 
+    "venue": "Richard G. Fallon Theatre", 
+    "date": "2019-03-06", 
+    "time": "7:30 PM", 
+    "headliner": "Taylor Tomlinson", 
+    "slug": "taylor-tomlinson-2019-03-06"
+  }, 
+  {
+    "website": "https://openingnights.fsu.edu/events/the-michael-feinstein-trio/", 
+    "genres": [
+      "cabaret", 
+      "jazz"
+    ], 
+    "price": "$65 | $55 | $45 | $25, $32 | $27 | $22 | $12", 
+    "venue": "Ruby Diamond Concert Hall", 
+    "date": "2019-03-12", 
+    "time": "7:30 PM", 
+    "headliner": "The Michael Feinstein Trio", 
+    "slug": "the-michael-feinstein-trio-2019-03-12"
+  }, 
+  {
+    "website": "https://openingnights.fsu.edu/events/lulo-reinhardt-daniel-stelter/", 
+    "genres": [
+      "gypsy swing", 
+      "jazz"
+    ], 
+    "price": "$35, $17", 
+    "venue": "Opperman Music Hall", 
+    "date": "2019-03-14", 
+    "time": "7:30 PM", 
+    "headliner": "Lulo Reinhardt & Daniel Stelter", 
+    "slug": "lulo-reinhardt-and-daniel-stelter-2019-03-14"
+  }, 
+  {
+    "website": "https://www.nfcc.edu/artist-series/index.html", 
+    "venue_address": "325 NW Turner Davis Drive, Madison, FL 32340", 
+    "price": "On sale now", 
+    "venue": "Van H. Priest Auditorium, North Florida Community College", 
+    "venue_website": "http://www.nfcc.edu/community-programs/artist-series", 
+    "time": "7:00 pm (Mon)", 
+    "date": "2019-03-18", 
+    "headliner": "Peter Pan and Friends on Ice", 
+    "slug": "peter-pan-and-friends-on-ice-2019-03-18", 
+    "venue_slug": "van-h-priest-auditorium-north-florida-community-college"
+  }, 
+  {
+    "website": "https://openingnights.fsu.edu/events/jimmy-webb/", 
+    "genres": [
+      "country", 
+      "pop"
+    ], 
+    "price": "$50 | $40 | $30 | $25, $25 | $20 | $15 | $12", 
+    "venue": "Ruby Diamond Concert Hall", 
+    "date": "2019-03-26", 
+    "time": "7:30 PM", 
+    "headliner": "Jimmy Webb", 
+    "slug": "jimmy-webb-2019-03-26"
+  }, 
+  {
+    "website": "https://openingnights.fsu.edu/events/nate-bargatze/", 
+    "genres": [
+      "comedy"
+    ], 
+    "price": "$40, $20", 
+    "venue": "Richard G. Fallon Theatre", 
+    "date": "2019-03-29", 
+    "time": "7:30 PM", 
+    "headliner": "Nate Bargatze", 
+    "slug": "nate-bargatze-2019-03-29"
+  }, 
+  {
+    "website": "http://www.springtimetallahassee.com/", 
+    "venue_address": "209 E Park Ave, Tallahassee, FL 32301", 
+    "price": "FREE", 
+    "venue": "Springtime Tallahassee", 
+    "venue_website": "", 
+    "time": "6:00 pm", 
+    "date": "2019-03-29", 
+    "headliner": "Springtime Tallahassee Festival", 
+    "slug": "springtime-tallahassee-festival-2019-03-29", 
+    "venue_slug": "springtime-tallahassee"
+  }, 
+  {
+    "website": "https://openingnights.fsu.edu/events/matt-haimovitz/", 
+    "genres": [
+      "classical"
+    ], 
+    "price": "$50, $25", 
+    "venue": "Temple Israel", 
+    "date": "2019-03-31", 
+    "time": "2:00 PM", 
+    "headliner": "Matt Haimovitz", 
+    "slug": "matt-haimovitz-2019-03-31"
+  }, 
+  {
+    "website": "https://www.tallahasseearts.org/event/little-shop-of-horrors-book-and-lyrics-by-howard-ashman-music-by-alan-menken/", 
+    "venue_address": "515 Orr Drive, Tallahassee, FL 32307", 
+    "price": "$10 General Admission; Free for FAMU Students with ID", 
+    "venue": "Charles Winter Wood Theatre", 
+    "venue_website": "https://www.tallahasseearts.org/venue/charles-winter-wood-theatre", 
+    "time": "8:00 pm (Wed)", 
+    "date": "2019-04-03", 
+    "headliner": "Little Shop of Horrors: Book and Lyrics by Howard Ashman | Music by Alan Menken", 
+    "slug": "little-shop-of-horrors-book-and-lyrics-by-howard-ashman-music-by-alan-menken-2019-04-03", 
+    "venue_slug": "charles-winter-wood-theatre"
+  }, 
+  {
+    "website": "https://openingnights.fsu.edu/events/molly-tuttle/", 
+    "genres": [
+      "bluegrass"
+    ], 
+    "price": "$35 | $25, $17 | $12", 
+    "venue": "Richard G. Fallon Theatre", 
+    "date": "2019-04-04", 
+    "time": "7:30 PM", 
+    "headliner": "Molly Tuttle", 
+    "slug": "molly-tuttle-2019-04-04"
+  }, 
+  {
+    "website": "https://openingnights.fsu.edu/events/gina-chavez/", 
+    "genres": [
+      "latin pop", 
+      "pop", 
+      "singer-songwriter"
+    ], 
+    "price": "$35, $17", 
+    "venue": "Richard G. Fallon Theatre", 
+    "date": "2019-04-11", 
+    "time": "7:30 PM", 
+    "headliner": "Gina Chavez", 
+    "slug": "gina-chavez-2019-04-11"
+  }, 
+  {
+    "website": "https://openingnights.fsu.edu/events/ymusic/", 
+    "genres": [
+      "classical", 
+      "pop"
+    ], 
+    "price": "$20, $10", 
+    "venue": "Opperman Music Hall", 
+    "date": "2019-04-16", 
+    "time": "7:30 PM", 
+    "headliner": "yMusic", 
+    "slug": "ymusic-2019-04-16"
+  }, 
+  {
+    "website": "https://openingnights.fsu.edu/events/dakhabrakha/", 
+    "genres": [
+      "world music"
+    ], 
+    "price": "$35 | $25, $17 | $12", 
+    "venue": "Ruby Diamond Concert Hall", 
+    "date": "2019-04-17", 
+    "time": "7:30 PM", 
+    "headliner": "DakhaBrakha", 
+    "slug": "dakhabrakha-2019-04-17"
+  }, 
+  {
+    "website": "https://openingnights.fsu.edu/events/the-second-city/", 
+    "genres": [
+      "comedy", 
+      "improv"
+    ], 
+    "price": "$35, $17", 
+    "venue": "Richard G. Fallon Theatre", 
+    "date": "2019-04-18", 
+    "time": "7:30 PM", 
+    "headliner": "The Second City", 
+    "slug": "the-second-city-2019-04-18"
+  }, 
+  {
+    "website": "https://openingnights.fsu.edu/events/chain-of-parks-art-festival-opening-event/", 
+    "genres": [
+      "spoken word", 
+      "visual arts"
+    ], 
+    "price": "", 
+    "venue": "spoken word", 
+    "date": "2019-04-25", 
+    "time": ":", 
+    "headliner": "Chain of Parks Art Festival Opening Event", 
+    "slug": "chain-of-parks-art-festival-opening-event-2019-04-25"
+  }, 
+  {
+    "website": "http://theatretallahassee.org/2018-2019-season/sister-act/", 
+    "venue_address": "1861 Thomasville Road, Tallahassee, FL 32303", 
+    "venue": "Theatre Tallahassee", 
+    "venue_website": "http://theatretallahassee.org/", 
+    "time": "8:00 pm", 
+    "date": "2019-04-25", 
+    "headliner": "Sister Act", 
+    "slug": "sister-act-2019-04-25", 
+    "venue_slug": "theatre-tallahassee"
+  }, 
+  {
+    "website": "https://openingnights.fsu.edu/events/david-sedaris/", 
+    "genres": [
+      "author", 
+      "humorist", 
+      "spoken word"
+    ], 
+    "price": "$60 | $50 | $40 | $25, $30 | $25 | $20 | $12", 
+    "venue": "Ruby Diamond Concert Hall", 
+    "date": "2019-04-26", 
+    "time": "7:30 PM", 
+    "headliner": "David Sedaris", 
+    "slug": "david-sedaris-2019-04-26"
+  }, 
+  {
+    "website": "https://openingnights.fsu.edu/events/rosanne-cash/", 
+    "genres": [
+      "americana"
+    ], 
+    "price": "$65 | $55 | $45 | $25, $32 | $27 | $22 | $12", 
+    "venue": "Ruby Diamond Concert Hall", 
+    "date": "2019-04-27", 
+    "time": "7:30 PM", 
+    "headliner": "Rosanne Cash", 
+    "slug": "rosanne-cash-2019-04-27"
+  }
+]

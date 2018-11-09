@@ -35,6 +35,9 @@ class BluetavernbotSpider(scrapy.Spider):
             'headliner' : HtmlXPathSelector(response).select(
                 "//b/font[@size='3']/text()").extract(),
             'website' : response.request.url,
-            'data' : HtmlXPathSelector(response).select(
+            'notes' : HtmlXPathSelector(response).select(
                 "//td[@class='topicText']/text()").extract(),
+            'venue' : 'Blue Tavern',
+            'venue_address' : '1206 N Monroe St',
+            'venue_website' : 'http://www.bluetaverntallahassee.com/',
         }

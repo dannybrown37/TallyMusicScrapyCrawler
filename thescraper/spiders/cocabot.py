@@ -34,6 +34,7 @@ class CocabotSpider(scrapy.Spider):
             'event_coca_url' : response.request.url,
             'date_time' : extract_with_css("ul.ind-time li::text"),
             'price' : extract_with_css("div.a-block-ct div.apl-internal-content p::text"),
+            'notes' : response.css("div.desc-evt p::text").extract(),
         }
 
         venue_coca_url = concert['venue_coca_url']
