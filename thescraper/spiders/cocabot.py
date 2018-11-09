@@ -40,10 +40,10 @@ class CocabotSpider(scrapy.Spider):
         venue_coca_url = concert['venue_coca_url']
         if venue_coca_url:
             yield scrapy.Request(
-                                 venue_coca_url,
-                                 meta={'item': concert},
-                                 callback=self.parse_venue
-                                )
+                venue_coca_url,
+                meta={'item': concert},
+                callback=self.parse_venue
+            )
         else:
             yield concert
 

@@ -25,10 +25,29 @@ class OnbotSpider(scrapy.Spider):
         def extract_with_css(query):
             return response.css(query).extract_first()
 
-        yield {
+        concert =  {
             'headliner' : extract_with_css("div.event-header h1::text"),
             'website' : response.request.url,
             'info_dump' : response.css("div.meta p::text").extract(),
             'venue' : extract_with_css("div.meta p a::text"),
+            'venue_website' : extract_with_css("div.meta p a::attr(href)"),
             'genres' : response.css("div.meta p i a::text").extract(),
+            'notes' : response.css("div.main p::text").extract(),
         }
+
+        venue_website = concert['venue_website']
+        if venue_website:
+            yield scrapy.Request(
+                venue_website,
+                meta={'item' : concert},
+                callback=self.parse_venue
+            )
+        else:
+            yield concerts
+
+    def parse_venue(self, response):
+        item = response.meta['item']
+        item['venue_address'] = response.css(
+            "div.col-xs-12.col-md-4.col-md-push-8 p::text"
+        ).extract()
+        yield item

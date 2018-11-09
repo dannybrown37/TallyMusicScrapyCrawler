@@ -34,4 +34,6 @@ class JunctionbotSpider(scrapy.Spider):
                             "//td[@style='width:10%']/b/text()").extract(),
             'website' : response.request.url,
             'venue' : "The Junction at Monroe",
+            'venue_address' : '2011 S Monroe St',
+            'venue_website' : 'http://junctionatmonroe.com/',
         }

@@ -27,6 +27,8 @@ class MoonbotSpider(scrapy.Spider):
         yield {
             'headliner' : extract_with_css("div.field-event-title::text"),
             'venue' : "The Moon",
+            'venue_address' : '1105 E Lafayette St',
+            'venue_website' : 'http://tallahassee.moonevents.com/events',
             'support' : extract_with_css("div.field-special-guests::text"),
             'date' : extract_with_css("div.field-event-date span.date-display-single::text"),
             'doors' : extract_with_css("div.field-doors-open::text"),

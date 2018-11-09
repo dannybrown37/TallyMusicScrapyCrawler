@@ -1,8 +1,6 @@
 [
-{"website": "https://junctionatmonroe.com/event.asp?E=721", "date_time": "Sat Dec 15 8pm", "ticket_prices": ["$15.00", "$35.00", "$45.00"], "cover": null, "venue": "The Junction at Monroe", "headliner": "Eric Gales"},
-{"website": "https://junctionatmonroe.com/event.asp?E=746", "date_time": "Wed Nov 7 7pm", "ticket_prices": [], "cover": "There is no charge for this event.", "venue": "The Junction at Monroe", "headliner": "Bingo Night"},
-{"website": "https://junctionatmonroe.com/event.asp?E=748", "date_time": "Sun Dec 9 7:30pm", "ticket_prices": ["$10.00", "$15.00"], "cover": null, "venue": "The Junction at Monroe", "headliner": "Luxotica Lounge Cabaret"},
-{"website": "https://junctionatmonroe.com/event.asp?E=747", "date_time": "Wed Nov 7 8:30pm", "ticket_prices": [], "cover": "No cover charge", "venue": "The Junction at Monroe", "headliner": "Open Mic Wednesday"},
-{"website": "https://junctionatmonroe.com/event.asp?E=749", "date_time": "Fri Nov 9 8pm", "ticket_prices": [], "cover": "$10 cover at the door", "venue": "The Junction at Monroe", "headliner": "Writers in the Round"},
-{"website": "https://junctionatmonroe.com/event.asp?E=743", "date_time": "Thu Nov 8 8pm", "ticket_prices": [], "cover": "$10 cover at the door", "venue": "The Junction at Monroe", "headliner": "Ally Venable Band"}
+{"website": "https://junctionatmonroe.com/event.asp?E=743", "date_time": "Thu Nov 8 8pm", "ticket_prices": [], "venue_address": "2011 S Monroe St", "venue": "The Junction at Monroe", "cover": "$10 cover at the door", "venue_website": "http://junctionatmonroe.com/", "headliner": "Ally Venable Band"},
+{"website": "https://junctionatmonroe.com/event.asp?E=749", "date_time": "Fri Nov 9 8pm", "ticket_prices": [], "venue_address": "2011 S Monroe St", "venue": "The Junction at Monroe", "cover": "$10 cover at the door", "venue_website": "http://junctionatmonroe.com/", "headliner": "Writers in the Round"},
+{"website": "https://junctionatmonroe.com/event.asp?E=748", "date_time": "Sun Dec 9 7:30pm", "ticket_prices": ["$10.00", "$15.00"], "venue_address": "2011 S Monroe St", "venue": "The Junction at Monroe", "cover": null, "venue_website": "http://junctionatmonroe.com/", "headliner": "Luxotica Lounge Cabaret"},
+{"website": "https://junctionatmonroe.com/event.asp?E=721", "date_time": "Sat Dec 15 8pm", "ticket_prices": ["$15.00", "$35.00", "$45.00"], "venue_address": "2011 S Monroe St", "venue": "The Junction at Monroe", "cover": null, "venue_website": "http://junctionatmonroe.com/", "headliner": "Eric Gales"}
 ]
