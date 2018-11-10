@@ -27,4 +27,5 @@ class FifththomasbotSpider(scrapy.Spider):
             'website' : response.request.url,
             'date_time' : extract_with_css("h2 span.tribe-event-date-start::text"),
             'cover_age' : response.css("div.tribe-events-content p strong::text").extract(),
+            'notes' : response.css("div.tribe-events-content div p::text").extract(),
         }

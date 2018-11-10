@@ -23,18 +23,23 @@ class CocabotSpider(scrapy.Spider):
         def extract_with_css(query):
             return response.css(query).extract_first()
 
+        notes = []
+        for p in response.css("div.desc-evt.apl-internal-content p"):
+            notes.append(p.xpath(".//text()").extract())
+
+
         concert = {
             'headliner' : extract_with_css("h1.p-ttl::text"),
             'venue' : extract_with_css("div.locatn div.a-block-ct div b::text"),
             'venue_address' : extract_with_css("div.locatn div.a-block-ct div p::text"),
             'venue_coca_url' : extract_with_css("span.venue-event a::attr(href)"),
             'event_url' : HtmlXPathSelector(response).select(
-                "//div[@class='a-block-ct']/p/a[contains(text(), 'Official Website')]/@href")\
-                .extract_first(),
+                "//div[@class='a-block-ct']/p/a[contains(text(), 'Official Website')]/@href"
+            ).extract_first(),
             'event_coca_url' : response.request.url,
             'date_time' : extract_with_css("ul.ind-time li::text"),
             'price' : extract_with_css("div.a-block-ct div.apl-internal-content p::text"),
-            'notes' : response.css("div.desc-evt p::text").extract(),
+            'notes' : notes,
         }
 
         venue_coca_url = concert['venue_coca_url']
@@ -50,6 +55,6 @@ class CocabotSpider(scrapy.Spider):
     def parse_venue(self, response):
         item = response.meta['item']
         item['venue_website'] = HtmlXPathSelector(response).select(
-                    "//div[@class='art-social-item']/a[contains(text(), 'Website')]/@href")\
-                    .extract_first()
+            "//div[@class='art-social-item']/a[contains(text(), 'Website')]/@href"
+        ).extract_first()
         yield item

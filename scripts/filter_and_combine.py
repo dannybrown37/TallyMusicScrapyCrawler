@@ -392,15 +392,19 @@ def combine_json_files(dotdot=''):
 ###############################################################################
 
 def slugify(headliner, date=""):
-    slugify = headliner.lower().strip()
-    slugify = re.sub(r"&+", "-and-", slugify)
-    slugify = re.sub(r"[\s\W-]+", "-", slugify)
-    slugify = re.sub(r"[\'\"]+", "", slugify)
-    slugify = re.sub(r"^-", "", slugify)
-    slugify = re.sub(r"-$", "", slugify)
-    if date:
-        slugify += "-" + date
-    return slugify
+    try:
+        slugify = headliner.lower().strip()
+        slugify = re.sub(r"&+", "-and-", slugify)
+        slugify = re.sub(r"[\s\W-]+", "-", slugify)
+        slugify = re.sub(r"[\'\"]+", "", slugify)
+        slugify = re.sub(r"^-", "", slugify)
+        slugify = re.sub(r"-$", "", slugify)
+        if date:
+            slugify += "-" + date
+        return slugify
+    except AttributeError:
+        print "Somethign is wrong with the %s show!" % headliner
+        wait = raw_input("press enter")
 
 
 if __name__ == "__main__":

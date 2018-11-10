@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 import scrapy
+from scrapy.selector import HtmlXPathSelector
 
 # Command line syntax to get us started:
 # scrapy genspider moonbot tallahassee.moonevents.com/events
@@ -24,7 +25,7 @@ class MoonbotSpider(scrapy.Spider):
         def extract_with_css(query):
             return response.css(query).extract_first().strip()
 
-        yield {
+        concert = {
             'headliner' : extract_with_css("div.field-event-title::text"),
             'venue' : "The Moon",
             'venue_address' : '1105 E Lafayette St',
@@ -33,6 +34,23 @@ class MoonbotSpider(scrapy.Spider):
             'date' : extract_with_css("div.field-event-date span.date-display-single::text"),
             'doors' : extract_with_css("div.field-doors-open::text"),
             'show' : extract_with_css("div.field-show-starts::text"),
-            #'info' : extract_with_css("div.event-body"),
+            'notes' : extract_with_css("div.event-body p::text"),
             'url' : response.request.url,
+            'ticket_link' : response.css("div.field-ticket-url a::attr(href)").extract_first()
         }
+
+        if concert['ticket_link']:
+            yield scrapy.Request(
+                concert['ticket_link'],
+                meta={'item' : concert},
+                callback=self.parse_ticket_price
+            )
+        else:
+            yield concert
+
+    def parse_ticket_price(self, response):
+        item = response.meta['item']
+        item['price'] = HtmlXPathSelector(response).select(
+            "//tr[@class='ListRow']/td/b/text()"
+        ).extract()
+        yield item
