@@ -104,53 +104,8 @@ def combine_json_files(dotdot=''):
         blue_data = []
 
     for concert in blue_data:
-
-        # Get the date from the querystring in the website and format
-        date = concert['website'].split("?")[1]
-        date = date.replace("&year=", "")\
-                   .replace("&month=", "-")\
-                   .replace("&day=", "-")
-        date = date.split("-")
-        date[1] = date[1].zfill(2)
-        date[2] = date[2].zfill(2)
-        concert['date'] = '-'.join(date)
-
-    # Now filter out dates that have multiple shows and create separate objects
-    new_concerts = []
-    for concert in blue_data:
-        if len(concert['headliner']) > 1:
-            for _ in range(len(concert['headliner'])):
-                new_concert = concert.copy()
-                new_concert['headliner'] = str(concert['headliner'][0])
-                div = len(concert['notes']) / len(concert['headliner'])
-                new_concert['notes'] = new_concert['notes'][:div]
-                new_concerts.append(new_concert)
-                concert['headliner'].pop(0)
-                for _ in range(div):
-                    concert['notes'].pop(0)
-
-    blue_data = blue_data + new_concerts
-
-    for concert in blue_data:
-
-        try:
-            # Now that all dates have one show, let's extract the data
-            concert['headliner'] = str(concert['headliner'])\
-                                            .replace("\r", "")\
-                                            .replace("\n", " ")\
-                                            .replace("[u'", "")\
-                                            .replace("']", "")\
-                                            .replace("\\r", "")\
-                                            .replace("\\n", " ")
-
-
-        except:
-            pass
-
         # Create the slug
         concert['slug'] = slugify(concert['headliner'], concert['date'])
-
-        print concert
 ###############################################################################
 
     # Combine all our data so far
