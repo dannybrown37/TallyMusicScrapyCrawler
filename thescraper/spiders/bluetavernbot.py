@@ -31,7 +31,7 @@ class BluetavernbotSpider(scrapy.Spider):
 
     def parse_concert(self, response):
 
-        yield {
+        concert = {
             'headliner' : HtmlXPathSelector(response).select(
                 "//b/font[@size='3']/text()").extract(),
             'website' : response.request.url,
@@ -41,3 +41,21 @@ class BluetavernbotSpider(scrapy.Spider):
             'venue_address' : '1206 N Monroe St',
             'venue_website' : 'http://www.bluetaverntallahassee.com/',
         }
+
+        # if there is not a concert on a day, don't yield, just move on
+        if concert['headliner'] == []:
+            return
+
+        # This data has a ton of junk, so we'll start by filtering that out
+        escapes = ''.join([chr(char) for char in range(1, 32)])
+        table = {ord(char): None for char in escapes}
+        for i, item in enumerate(concert['notes']): # Remove escape chars
+            concert['notes'][i] = item.translate(table)
+            concert['notes'][i] = concert['notes'][i].replace(u'\xa0', u' ')
+            concert['notes'][i] = concert['notes'][i].strip()
+        # Remove empty strings
+        concert['notes'] = filter(None, concert['notes'])
+
+        
+
+        yield concert

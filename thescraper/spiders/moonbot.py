@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 import scrapy
+import dateparser
 from scrapy.selector import HtmlXPathSelector
 
 # Command line syntax to get us started:
@@ -35,10 +36,21 @@ class MoonbotSpider(scrapy.Spider):
             'doors' : extract_with_css("div.field-doors-open::text"),
             'show' : extract_with_css("div.field-show-starts::text"),
             'notes' : extract_with_css("div.event-body p::text"),
-            'url' : response.request.url,
+            'website' : response.request.url,
             'ticket_link' : response.css("div.field-ticket-url a::attr(href)").extract_first()
         }
 
+        # Parse the date
+        parsed_date = dateparser.parse(concert['date'])
+        concert['date'] = str(parsed_date.date())
+
+        # Parse the time
+        concert['time'] = concert['doors'] + " // " + concert['show']
+        del concert['doors']
+        del concert['show']
+
+
+        # Follow the ticket link to extract price(s)
         if concert['ticket_link']:
             yield scrapy.Request(
                 concert['ticket_link'],
@@ -48,6 +60,7 @@ class MoonbotSpider(scrapy.Spider):
         else:
             yield concert
 
+    # Extract ticket price(s)
     def parse_ticket_price(self, response):
         item = response.meta['item']
         item['price'] = HtmlXPathSelector(response).select(

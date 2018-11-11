@@ -1,14 +1,123 @@
 [
-{"date_time": "November 9, 2018", "headliner_support": "Ajeva & TBA (Cat Family Records)", "url": "https://thewilburytallahassee.com/music/", "venue_address": "513 W Gaines St", "venue": "The Wilbury", "price_etc": null, "venue_website": "https://thewilburytallahassee.com/music/"},
-{"date_time": "November 11, 2018 at 8:00 pm \u2013 11:30 pm", "headliner_support": "The Intoxicators / Disasternauts w/ Sewerside Bombers", "url": "https://thewilburytallahassee.com/music/", "venue_address": "513 W Gaines St", "venue": "The Wilbury", "price_etc": "$5 over 21, $7 under 21", "venue_website": "https://thewilburytallahassee.com/music/"},
-{"date_time": "November 13, 2018", "headliner_support": "CANCELLED The Main Squeeze w/ bands tba", "url": "https://thewilburytallahassee.com/music/", "venue_address": "513 W Gaines St", "venue": "The Wilbury", "price_etc": "doors @ 8pm, show at 8:30pm $12 advance, $14 day of show advance tix at ticketfly.com, The Wilbury, Retrofit Records, Midtown Pies, Big Chiefs Smoke Shop", "venue_website": "https://thewilburytallahassee.com/music/"},
-{"date_time": "November 16, 2018 at 9:00 pm \u2013 11:30 pm", "headliner_support": "Once Great Estate w/ Pat Puckett, Laney Tripp", "url": "https://thewilburytallahassee.com/music/", "venue_address": "513 W Gaines St", "venue": "The Wilbury", "price_etc": "$5 over 21, $7 under 21", "venue_website": "https://thewilburytallahassee.com/music/"},
-{"date_time": "November 17, 2018 at 9:00 pm \u2013 11:30 pm", "headliner_support": "Lil' Grizzly w/ Luke Wilmoth", "url": "https://thewilburytallahassee.com/music/", "venue_address": "513 W Gaines St", "venue": "The Wilbury", "price_etc": "$5 over 21, $7 under 21", "venue_website": "https://thewilburytallahassee.com/music/"},
-{"date_time": "November 29, 2018", "headliner_support": "Cat Fam - Glass House Point, Faze Wave with Laney Tripp", "url": "https://thewilburytallahassee.com/music/", "venue_address": "513 W Gaines St", "venue": "The Wilbury", "price_etc": null, "venue_website": "https://thewilburytallahassee.com/music/"},
-{"date_time": "November 28, 2018 at 8:00 pm \u2013 11:30 pm", "headliner_support": "E.N. Young (Tribal Seeds) w/ The Ellameno Beat & Kat Hall", "url": "https://thewilburytallahassee.com/music/", "venue_address": "513 W Gaines St", "venue": "The Wilbury", "price_etc": "$12 advance tickets at ticketfly.com, Retrofit Records, Midtown Pies, Big Chiefs, & The Wilbury", "venue_website": "https://thewilburytallahassee.com/music/"},
-{"date_time": "December 2, 2018 at 7:00 pm \u2013 11:30 pm", "headliner_support": "Ballyhoo! w/ Propaganjah, Sway Jah Vu & Jambiance", "url": "https://thewilburytallahassee.com/music/", "venue_address": "513 W Gaines St", "venue": "The Wilbury", "price_etc": "$13 advance tix at ticketfly.com, The Wilbury, Retrofit Records, Midtown Pies, Big Chiefs Smoke Shop", "venue_website": "https://thewilburytallahassee.com/music/"},
-{"date_time": "December 4, 2018 at 8:00 pm \u2013 11:30 pm", "headliner_support": "Broncho w/ Yip Deceiver, bandanna, The Feeling Ecstatic", "url": "https://thewilburytallahassee.com/music/", "venue_address": "513 W Gaines St", "venue": "The Wilbury", "price_etc": "$12 advance tix at ticketfly.com, The Wilbury, Retrofit Records, Midtown Pies, Big Chiefs Smoke Shop", "venue_website": "https://thewilburytallahassee.com/music/"},
-{"date_time": "December 6, 2018 at 9:00 pm \u2013 11:30 pm", "headliner_support": "Post-Animal w/ bands tba", "url": "https://thewilburytallahassee.com/music/", "venue_address": "513 W Gaines St", "venue": "The Wilbury", "price_etc": "$12 advance tix at ticketfly.com, The Wilbury, Retrofit Records, Midtown Pies, Big Chiefs Smoke Shop", "venue_website": "https://thewilburytallahassee.com/music/"},
-{"date_time": "December 8, 2018", "headliner_support": "Gaines Street Fest", "url": "https://thewilburytallahassee.com/music/", "venue_address": "513 W Gaines St", "venue": "The Wilbury", "price_etc": null, "venue_website": "https://thewilburytallahassee.com/music/"},
-{"date_time": "December 8, 2018", "headliner_support": "bandanna, Bobby Kid, & Laney (CFR)", "url": "https://thewilburytallahassee.com/music/", "venue_address": "513 W Gaines St", "venue": "The Wilbury", "price_etc": null, "venue_website": "https://thewilburytallahassee.com/music/"}
+  {
+    "website": "https://thewilburytallahassee.com/music/",
+    "venue_address": "513 W Gaines St",
+    "support": "Sewerside Bombers",
+    "venue": "The Wilbury",
+    "venue_website": "https://thewilburytallahassee.com/music/",
+    "time": "8:00 pm",
+    "date": "2018-11-11",
+    "headliner": "The Intoxicators / Disasternauts",
+    "price": "$5 over 21, $7 under 21"
+  },
+  {
+    "website": "https://thewilburytallahassee.com/music/",
+    "venue_address": "513 W Gaines St",
+    "support": "bands tba",
+    "venue": "The Wilbury",
+    "venue_website": "https://thewilburytallahassee.com/music/",
+    "time": "",
+    "date": "2018-11-13",
+    "headliner": "CANCELLED The Main Squeeze",
+    "notes": "doors @ 8pm, show at 8:30pm $12 advance, $14 day of show advance tix at ticketfly.com, The Wilbury, Retrofit Records, Midtown Pies, Big Chiefs Smoke Shop"
+  },
+  {
+    "website": "https://thewilburytallahassee.com/music/",
+    "venue_address": "513 W Gaines St",
+    "support": "Pat Puckett, Laney Tripp",
+    "venue": "The Wilbury",
+    "venue_website": "https://thewilburytallahassee.com/music/",
+    "time": "9:00 pm",
+    "date": "2018-11-16",
+    "headliner": "Once Great Estate",
+    "price": "$5 over 21, $7 under 21"
+  },
+  {
+    "website": "https://thewilburytallahassee.com/music/",
+    "venue_address": "513 W Gaines St",
+    "support": "Luke Wilmoth",
+    "venue": "The Wilbury",
+    "venue_website": "https://thewilburytallahassee.com/music/",
+    "time": "9:00 pm",
+    "date": "2018-11-17",
+    "headliner": "Lil' Grizzly",
+    "price": "$5 over 21, $7 under 21"
+  },
+  {
+    "website": "https://thewilburytallahassee.com/music/",
+    "venue_address": "513 W Gaines St",
+    "support": "",
+    "venue": "The Wilbury",
+    "price_etc": null,
+    "venue_website": "https://thewilburytallahassee.com/music/",
+    "time": "",
+    "date": "2018-11-29",
+    "headliner": "Cat Fam - Glass House Point, Faze Wave with Laney Tripp"
+  },
+  {
+    "website": "https://thewilburytallahassee.com/music/",
+    "venue_address": "513 W Gaines St",
+    "support": "The Ellameno Beat & Kat Hall",
+    "venue": "The Wilbury",
+    "venue_website": "https://thewilburytallahassee.com/music/",
+    "time": "8:00 pm",
+    "date": "2018-11-28",
+    "headliner": "E.N. Young (Tribal Seeds)",
+    "price": "$12 advance tickets at ticketfly.com, Retrofit Records, Midtown Pies, Big Chiefs, & The Wilbury"
+  },
+  {
+    "website": "https://thewilburytallahassee.com/music/",
+    "venue_address": "513 W Gaines St",
+    "support": "Propaganjah, Sway Jah Vu & Jambiance",
+    "venue": "The Wilbury",
+    "venue_website": "https://thewilburytallahassee.com/music/",
+    "time": "7:00 pm",
+    "date": "2018-12-02",
+    "headliner": "Ballyhoo!",
+    "price": "$13 advance tix at ticketfly.com, The Wilbury, Retrofit Records, Midtown Pies, Big Chiefs Smoke Shop"
+  },
+  {
+    "website": "https://thewilburytallahassee.com/music/",
+    "venue_address": "513 W Gaines St",
+    "support": "Yip Deceiver, bandanna, The Feeling Ecstatic",
+    "venue": "The Wilbury",
+    "venue_website": "https://thewilburytallahassee.com/music/",
+    "time": "8:00 pm",
+    "date": "2018-12-04",
+    "headliner": "Broncho",
+    "price": "$12 advance tix at ticketfly.com, The Wilbury, Retrofit Records, Midtown Pies, Big Chiefs Smoke Shop"
+  },
+  {
+    "website": "https://thewilburytallahassee.com/music/",
+    "venue_address": "513 W Gaines St",
+    "support": "bands tba",
+    "venue": "The Wilbury",
+    "venue_website": "https://thewilburytallahassee.com/music/",
+    "time": "9:00 pm",
+    "date": "2018-12-06",
+    "headliner": "Post-Animal",
+    "price": "$12 advance tix at ticketfly.com, The Wilbury, Retrofit Records, Midtown Pies, Big Chiefs Smoke Shop"
+  },
+  {
+    "website": "https://thewilburytallahassee.com/music/",
+    "venue_address": "513 W Gaines St",
+    "support": "",
+    "venue": "The Wilbury",
+    "price_etc": null,
+    "venue_website": "https://thewilburytallahassee.com/music/",
+    "time": "",
+    "date": "2018-12-08",
+    "headliner": "Gaines Street Fest"
+  },
+  {
+    "website": "https://thewilburytallahassee.com/music/",
+    "venue_address": "513 W Gaines St",
+    "support": "",
+    "venue": "The Wilbury",
+    "price_etc": null,
+    "venue_website": "https://thewilburytallahassee.com/music/",
+    "time": "",
+    "date": "2018-12-08",
+    "headliner": "bandanna, Bobby Kid, & Laney (CFR)"
+  }
 ]

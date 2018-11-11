@@ -1,6 +1,24 @@
 [
-{"website": "https://junctionatmonroe.com/event.asp?E=743", "date_time": "Thu Nov 8 8pm", "ticket_prices": [], "venue_address": "2011 S Monroe St", "venue": "The Junction at Monroe", "cover": "$10 cover at the door", "venue_website": "http://junctionatmonroe.com/", "headliner": "Ally Venable Band"},
-{"website": "https://junctionatmonroe.com/event.asp?E=749", "date_time": "Fri Nov 9 8pm", "ticket_prices": [], "venue_address": "2011 S Monroe St", "venue": "The Junction at Monroe", "cover": "$10 cover at the door", "venue_website": "http://junctionatmonroe.com/", "headliner": "Writers in the Round"},
-{"website": "https://junctionatmonroe.com/event.asp?E=748", "date_time": "Sun Dec 9 7:30pm", "ticket_prices": ["$10.00", "$15.00"], "venue_address": "2011 S Monroe St", "venue": "The Junction at Monroe", "cover": null, "venue_website": "http://junctionatmonroe.com/", "headliner": "Luxotica Lounge Cabaret"},
-{"website": "https://junctionatmonroe.com/event.asp?E=721", "date_time": "Sat Dec 15 8pm", "ticket_prices": ["$15.00", "$35.00", "$45.00"], "venue_address": "2011 S Monroe St", "venue": "The Junction at Monroe", "cover": null, "venue_website": "http://junctionatmonroe.com/", "headliner": "Eric Gales"}
+  {
+    "website": "https://junctionatmonroe.com/event.asp?E=748",
+    "venue_address": "2011 S Monroe St",
+    "price": "$10.00, $15.00",
+    "venue": "The Junction at Monroe",
+    "venue_website": "http://junctionatmonroe.com/",
+    "time": "7:30 PM",
+    "date": "2018-12-09",
+    "headliner": "Luxotica Lounge Cabaret",
+    "notes": "Luxotica Lounge Cabaret is a lush burlesque show featuring stunning striptease talent, with a twist. Enjoy a little circus and a lot of seduction, set to exotic original tunes performed live, that turns classic cabaret on it's head. Featuring the internationally touring Whirlwind with the Crimson Grin, Vivacious Miss Audacious, bump and grind bombshell Gurl Haggard of the Rocket Doll Revue and a special guests! The swinging 4-piece band is headed by knife juggling, saxophone wunderkind, Dr. Rocktagon. As vibrant as your favorite technicolor tiki cocktail, Luxotica treats you to an evening of gals, games and high energy hip swinging replete with tassel twirling, hoop dance, sideshow, acrobatics and just enough audience participation to get you hooked. "
+  },
+  {
+    "website": "https://junctionatmonroe.com/event.asp?E=721",
+    "venue_address": "2011 S Monroe St",
+    "price": "$15.00, $35.00, $45.00",
+    "venue": "The Junction at Monroe",
+    "venue_website": "http://junctionatmonroe.com/",
+    "time": "8:00 PM",
+    "date": "2018-12-15",
+    "headliner": "Eric Gales",
+    "notes": "Eric Gales is an American blues-rock guitarist, originally hailed as a child prodigy. As of 2018 Gales has recorded seventeen albums for major record labels and has done session and tribute work. He has also contributed vocals on several records by the Memphis rap groups Prophet Posse and Three 6 Mafia under the name Lil E. Gales picked up the guitar at age four and was playing in blues competitions by the age of 10. Although Gales plays a right-handed guitar \"upside-down\" (with the bass E string on the bottom), he is not naturally left-handed; he was taught by his brother, who is left-handed, and never second-guessed the untraditional technique. This will be an all-seating show with the exception of bar and overflow areas only."
+  }
 ]

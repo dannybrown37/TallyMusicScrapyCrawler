@@ -16,22 +16,8 @@ def combine_json_files(dotdot=''):
         moon_data = []
 
     for concert in moon_data:
-
-        # Parse the date
-        parsed_date = dateparser.parse(concert['date'])
-        concert['date'] = str(parsed_date.date())
-
-        # Parse the time
-        concert['time'] = concert['doors'] + " // " + concert['show']
-        del concert['doors']
-        del concert['show']
-
         # Parse the slug
         concert['slug'] = slugify(concert['headliner'], concert['date'])
-
-        # Rename url to website
-        concert['website'] = concert['url']
-        del concert['url']
 
 
     # THE WILBURY
@@ -42,42 +28,8 @@ def combine_json_files(dotdot=''):
         wilbury_data = []
 
     for concert in wilbury_data:
-
-        # First parse the date and time for each show
-        date_time = concert['date_time'].split(" at ")
-        if len(date_time) == 1:
-            date_time.append("")
-        date = date_time[0]
-        parsed_date = dateparser.parse(date)
-        concert['date'] = str(parsed_date.date())
-        time = date_time[1][0:7] if date_time[1] else ""
-        concert['time'] = time
-        del concert['date_time']
-
-        # Next parse out the headliner and supporting bands
-        headliner_support = concert['headliner_support'].split(" w/ ")
-        if len(headliner_support) == 1:
-            headliner_support.append("")
-        concert['headliner'] = headliner_support[0].strip()
-        concert['support'] = headliner_support[1].strip()
-        del concert['headliner_support']
-
-        # Next parse out the price of the show
-        if concert['price_etc'] is not None:
-            if "$" in concert['price_etc'] or "Free" in concert['price_etc']:
-                concert['price'] = concert['price_etc']
-            else:
-                concert['price'] = ""
-        else:
-            concert['price'] = ""
-        del concert['price_etc']
-
         # Parse the slug
         concert['slug'] = slugify(concert['headliner'], concert['date'])
-
-        # Rename url to website
-        concert['website'] = concert['url']
-        del concert['url']
 
 
     # FIFTH AND THOMAS
@@ -88,50 +40,6 @@ def combine_json_files(dotdot=''):
         fifththomas_data = []
 
     for concert in fifththomas_data:
-
-        # Parse the date and time
-        date_time = concert['date_time'].split(" @ ")
-        concert['date'] = date_time[0]
-        concert['time'] = date_time[1]
-        parsed_date = dateparser.parse(concert['date'])
-        concert['date'] = str(parsed_date.date())
-        del concert['date_time']
-
-        # Parse the price, age, and start time if available
-        for item in concert['cover_age']:
-            if "cover" in item.lower() or "$" in item:
-                if "|" in item and "doors" not in item.lower():
-                    concert['price'] = item.split(" | ")[0]
-                else:
-                    concert['price'] = item
-
-            if "ages" in item.lower():
-                if "|" in item and "doors" not in item.lower():
-                    try:
-                        concert['age'] = item.split(" | ")[1]
-                    except IndexError:
-                        pass
-                else:
-                    concert['age'] = item
-
-            if "pm" in item.lower() and "until" not in item.lower():
-                concert['time'] = item
-
-            try:
-                concert['price']
-            except KeyError:
-                concert['price'] = ""
-            try:
-                concert['age']
-            except KeyError:
-                concert['age'] = ""
-            try:
-                concert['time']
-            except KeyError:
-                concert['time'] = ""
-
-        del concert['cover_age']
-
         # Parse the slug
         concert['slug'] = slugify(concert['headliner'], concert['date'])
 
@@ -145,31 +53,6 @@ def combine_json_files(dotdot=''):
         openingnights_data = []
 
     for concert in openingnights_data:
-        # Parse the date
-        parsed_date = dateparser.parse(concert['info_dump'][0])
-        concert['date'] = str(parsed_date.date())
-
-        # Parse the time
-        concert['time'] = concert['info_dump'][1].strip()
-
-         # Parse the price(s)
-        concert['price'] = []
-        for item in concert['info_dump']:
-            if "$" in item:
-                concert['price'].append(item.strip())
-
-        # The price is now in a list; stringify it!
-        string_price = ""
-        for price in concert['price']:
-            string_price += price + ", "
-        concert['price'] = string_price.strip()[:-1]
-
-        # Lowercase all genres
-        for index, genre in enumerate(concert['genres']):
-            concert['genres'][index] = genre.lower()
-
-        del concert['info_dump']
-
         # Parse the slug
         concert['slug'] = slugify(concert['headliner'], concert['date'])
 
@@ -185,28 +68,6 @@ def combine_json_files(dotdot=''):
         junction_data = []
 
     for concert in junction_data:
-
-        #  Parse the date and time
-        parsed_date = dateparser.parse(concert['date_time'])
-        concert['date'] = str(parsed_date.date())
-        time = str(parsed_date.time())
-        time = datetime.datetime.strptime(time, "%H:%M:%S")
-        time = time.replace(second=0, microsecond=0)
-        concert['time'] = time.strftime("%#I:%M %p")
-        del concert['date_time']
-
-        # Parse the cover or ticket price
-        if concert['cover']:
-            if "cover" in concert['cover'] or "$" in concert['cover']:
-                concert['price'] = concert['cover']
-        elif concert['ticket_prices']:
-            string_prices = ""
-            for price in concert['ticket_prices']:
-                string_prices += price + ", "
-            concert['price'] = string_prices.strip()[:-1]
-        del concert['cover']
-        del concert['ticket_prices']
-
         # Parse the slug
         concert['slug'] = slugify(concert['headliner'], concert['date'])
 
@@ -231,51 +92,6 @@ def combine_json_files(dotdot=''):
 
     # Now we parse the leftover data
     for concert in coca_data:
-
-        # Parse the date and time
-        date = concert['date_time'].split(" at ")[0]
-        time = concert['date_time'].split(" at ")[1]
-        parsed_date = dateparser.parse(date)
-        concert['date'] = str(parsed_date.date())
-        concert['time'] = time.split(" - ")[0]
-        if concert['time'][0] == "0": # strip leading zeros from time
-            concert['time'] = concert['time'][1:]
-        del concert['date_time']
-
-        # Parse event website; select official first, COCA as a fallback
-        if concert['event_url'] is not None:
-            concert['website'] = concert['event_url']
-        elif concert['event_coca_url'] is not None:
-            concert['website'] = concert['event_coca_url']
-        del concert['event_url']
-        del concert['event_coca_url']
-
-        # Parse the venue website
-        if 'venue_website' in concert:
-            if concert['venue_website'] is None and concert['venue_coca_url']:
-                concert['venue_website'] = concert['venue_coca_url']
-                del concert['venue_coca_url']
-        if 'venue_coca_url' in concert and concert['venue_coca_url'] is None:
-            del concert['venue_coca_url']
-        if 'venue_coca_url' in concert and 'venue_website' in concert:
-            del concert['venue_coca_url']
-        if 'venue_coca_url' not in concert and 'venue_website' not in concert:
-            concert['venue_website'] = ""
-
-
-        # Parse the price, mainly removing null values
-        if concert['price']:
-            concert['price'] = concert['price'].strip()
-        if not concert['price']:
-            del concert['price']
-
-        # Parse the venue slug
-        concert['venue_slug'] = slugify(concert['venue'])
-
-        # Special case fix:
-        if concert['venue'] == "Fifth & Thomas":
-            concert['venue'] = "Fifth and Thomas"
-
         # Parse the concert slug
         concert['slug'] = slugify(concert['headliner'], concert['date'])
 
@@ -287,24 +103,7 @@ def combine_json_files(dotdot=''):
     except IOError:
         blue_data = []
 
-    # Filter out dates without shows
-    to_remove = []
-    for i in xrange(len(blue_data)):
-        if blue_data[i]['headliner'] == []:
-            to_remove.insert(0, i)
-    for integer in to_remove:
-        blue_data.pop(integer)
-
     for concert in blue_data:
-
-        # This data has a ton of junk, so we'll start by filtering that out
-        escapes = ''.join([chr(char) for char in range(1, 32)])
-        table = {ord(char): None for char in escapes}
-        for i, item in enumerate(concert['notes']): # Remove escape chars
-            concert['notes'][i] = item.translate(table)
-            concert['notes'][i] = concert['notes'][i].replace(u'\xa0', u' ')
-            concert['notes'][i] = concert['notes'][i].strip()
-        concert['notes'] = filter(None, concert['notes']) # Remove empty strings
 
         # Get the date from the querystring in the website and format
         date = concert['website'].split("?")[1]
@@ -316,21 +115,19 @@ def combine_json_files(dotdot=''):
         date[2] = date[2].zfill(2)
         concert['date'] = '-'.join(date)
 
-    # Now filter out dates that have two shows and create separate objects
+    # Now filter out dates that have multiple shows and create separate objects
     new_concerts = []
     for concert in blue_data:
-
-        try:
-            if len(concert['headliner']) == 2:
+        if len(concert['headliner']) > 1:
+            for _ in range(len(concert['headliner'])):
                 new_concert = concert.copy()
-                new_concert['headliner'] = str(new_concert['headliner'][1])
-                concert['headliner'] = str(concert['headliner'][0])
-                mid = len(concert['notes']) / 2
-                new_concert['notes'] = new_concert['notes'][mid:]
-                concert['notes'] = concert['notes'][0:mid]
+                new_concert['headliner'] = str(concert['headliner'][0])
+                div = len(concert['notes']) / len(concert['headliner'])
+                new_concert['notes'] = new_concert['notes'][:div]
                 new_concerts.append(new_concert)
-        except UnicodeEncodeError:
-            pass
+                concert['headliner'].pop(0)
+                for _ in range(div):
+                    concert['notes'].pop(0)
 
     blue_data = blue_data + new_concerts
 
@@ -346,13 +143,6 @@ def combine_json_files(dotdot=''):
                                             .replace("\\r", "")\
                                             .replace("\\n", " ")
 
-
-            # Get the time
-            if "PM" in concert['data'][0].upper():
-                 concert['time'] = concert['data'][0]
-            # Get the price
-            if "$" in concert['data'][1]:
-                concert['price'] = concert['data'][1].replace("FEE:", "").strip()
 
         except:
             pass
@@ -403,7 +193,7 @@ def slugify(headliner, date=""):
             slugify += "-" + date
         return slugify
     except AttributeError:
-        print "Somethign is wrong with the %s show!" % headliner
+        print "Something is wrong with the %s show!" % headliner
         wait = raw_input("press enter")
 
 
