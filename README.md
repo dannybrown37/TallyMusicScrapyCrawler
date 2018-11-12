@@ -1,7 +1,4 @@
 # TallyMusicScrapyCrawler
 Get the concerts. All of them.
 
-Scrapers in project not working as of 9/16/2018:
-bbcbot
-fsubot
-cdubot
+Scrapes local concerts in Tallahassee, compiles them into JSON format sorted by date, and emails the file for later access.
