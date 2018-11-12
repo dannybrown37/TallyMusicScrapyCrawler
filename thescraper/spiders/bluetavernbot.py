@@ -69,6 +69,17 @@ class BluetavernbotSpider(scrapy.Spider):
             concert['headliner'][i] = unicode(concert['headliner'][i])\
                 .strip("\r\n").replace("\r\n", ": ")
 
+        # Functions to extract indexes of time and price from notes
+        def get_time(notes):
+            for i in range(len(notes)):
+                if "pm" in notes[i].lower():
+                    return i
+
+        def get_price(notes):
+            for i in range(len(notes)):
+                if "fee" in notes[i].lower():
+                    return i
+
         # Yield multiple concerts for days that have multiple shows
         while len(concert['headliner']) > 1:
             new_concert = concert.copy()
@@ -87,12 +98,28 @@ class BluetavernbotSpider(scrapy.Spider):
             concert['headliner'].pop(0)
             for _ in range(len(new_concert['notes'])):
                 concert['notes'].pop(0)
+            # Get date and time
+            time = get_time(new_concert['notes'])
+            price = get_price(new_concert['notes'])
+            new_concert['time'] = new_concert['notes'][time]
+            new_concert['price'] = new_concert['notes'][price]
+            new_concert['notes'].pop(price)
+            new_concert['notes'].pop(time)
+            new_concert['notes'] = ', '.join(new_concert['notes'])
 
             # Yield the new concert
             yield new_concert
 
         # A few final things to handle before being done
         concert['headliner'] = unicode(concert['headliner'][0])
+        # Is there a good way to not repeat this code from above?
+        time = get_time(concert['notes'])
+        price = get_price(concert['notes'])
+        concert['time'] = concert['notes'][time]
+        concert['price'] = concert['notes'][price]
+        concert['notes'].pop(price)
+        concert['notes'].pop(time)
+        concert['notes'] = ', '.join(concert['notes'])
 
         # Yield that biznatch
         yield concert

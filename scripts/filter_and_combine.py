@@ -79,18 +79,6 @@ def combine_json_files(dotdot=''):
     except IOError:
         coca_data = []
 
-    # Filter out classes, camps, workshops, lessons
-    to_remove = []
-    for i in xrange(len(coca_data)):
-        if "camp" in coca_data[i]['headliner'].lower() or \
-               "class" in coca_data[i]['headliner'].lower() or \
-               "workshop" in coca_data[i]['headliner'].lower() or \
-               "lessons" in coca_data[i]['headliner'].lower():
-            to_remove.insert(0, i)
-    for integer in to_remove:
-        coca_data.pop(integer)
-
-    # Now we parse the leftover data
     for concert in coca_data:
         # Parse the concert slug
         concert['slug'] = slugify(concert['headliner'], concert['date'])
@@ -119,17 +107,17 @@ def combine_json_files(dotdot=''):
         blue_data
     ]
 
+    # Combine each list of dicts into a master list of dicts
     master = []
     for sub_data in data:
         for item in sub_data:
             master.append(item)
 
-    date = datetime.datetime.now()
-    date = str(date.date())
-
     # Sort the list of dicts by date
     master.sort(key=lambda item:item['date'], reverse=False)
 
+    date = datetime.datetime.now()
+    date = str(date.date())
     # Output formatted data into new JSON file
     with open(dotdot + 'parsed_output/concerts-%s.json' % date, 'w') as f:
         json.dump(master, f, indent=2)
