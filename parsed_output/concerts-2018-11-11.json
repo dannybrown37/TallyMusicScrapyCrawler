@@ -1,5 +1,16 @@
 [
   {
+    "website": "https://bradfordvilleblues.com/events-tickets/", 
+    "venue_address": "7152 Moses Ln", 
+    "price": "$20", 
+    "venue": "Bradfordville Blues Club", 
+    "venue_website": "https://bradfordvilleblues.com/", 
+    "time": "9:00pm", 
+    "date": "2018-11-10", 
+    "headliner": "The Backtrack Blues Band", 
+    "slug": "the-backtrack-blues-band-2018-11-10"
+  }, 
+  {
     "website": "http://www.southwoodgolf.com/", 
     "venue_address": "3750 Grove Park Dr., Tallahassee, FL 32311", 
     "price": "Open to the public. All donations will go directly to Salvation army for hurricane victims. Free Admission. Golf tournament $100, contact Southwood to register.", 
@@ -9,6 +20,28 @@
     "date": "2018-11-11", 
     "headliner": "Hurricane Michael Relief Concert", 
     "notes": "Come hear Al Right & The Rongs with featured singer Lisa Polombo volunteering their time and talent to help victims of hurricane Michael. All donations go directly to the Salvation Army. Get down with some blues, jazz, classic rock, Motown and more! Before the concert, there is a noon shotgun golf tournament. If you are interested in playing in the tournament, contact Southwood Golf Club to register. Band members are: Mark Blair, Gary Farr, Perry Osborn and Randy Barnhill."
+  }, 
+  {
+    "website": "http://wildlingstudios.com/", 
+    "venue_address": "2655 Capital Circle NE, Suite 3, Tallahassee, FL 32308", 
+    "price": "Cost: $10.00 drop-in. Monthly memberships and punch cards are available.", 
+    "venue": "Wildling Studios", 
+    "slug": "adult-musical-theatre-class-2018-11-11", 
+    "time": "1:00 pm", 
+    "date": "2018-11-11", 
+    "headliner": "Adult Musical Theatre Class", 
+    "notes": "Develop a repertoire from Broadway shows and explore various acting and improv techniques in this exciting class. Wear dancewear or fitness clothes and jazz shoes. Bring character and a bowler hat if you have them.Wildling Studios is located with Charla\u2019s School of Dance at 2655 Capital Circle NE Suite 3."
+  }, 
+  {
+    "website": "http://wildlingstudios.com/", 
+    "venue_address": "2655 Capital Circle NE, Suite 3, Tallahassee, FL 32308", 
+    "price": "Cost: $10.00 drop-in. Monthly memberships and punch cards are available.", 
+    "venue": "Wildling Studios", 
+    "slug": "adult-jazz-and-contemporary-combo-class-2018-11-11", 
+    "time": "2:00 pm", 
+    "date": "2018-11-11", 
+    "headliner": "Adult Jazz & Contemporary combo class", 
+    "notes": "This class includes a full warmup and progressions followed by contemporary and jazz choreography.\u00a0Wear dancewear or fitness clothes, and soft dance shoes.Wildling Studios is located at 2655 Capital Circle NE Suite 3 (with Charla\u2019s School of Dance)."
   }, 
   {
     "website": "http://www.saint-john.org", 
@@ -82,6 +115,18 @@
     "notes": "The Florida Society Youth Orchestras program (FSYO) is an outreach of Javacya Arts Conservatory, which has provided quality music in Florida, South Carolina, Georgia, but primarily in the Tallahassee area for over 30 years. This new subsidiary, FSYO, is designed especially for beginning students with little to no previous musical experience, preschool through high school.Instruction is available for strings, winds, brass and percussion. Students participate in weekly workshop style classes, recitals, outreach performances, as well as monthly master classes, lectures, and group classes which are presented by renowned faculty-artists from the States and abroad, plus local graduate students."
   }, 
   {
+    "website": "http://www.tallahasseebachparley.org/index.cfm?fuseaction=home.string", 
+    "venue_address": "211 North Monroe Street, Tallahassee, FL 32301", 
+    "price": "Lessons are scheduled individually by each instructor.", 
+    "venue": "Bach Parley String Academy at St. John's Episcopal Church", 
+    "venue_website": "http://www.tallahasseebachparley.org/index.cfm?fuseaction=home.string", 
+    "slug": "violin-viola-and-cello-lessons-2018-11-12", 
+    "time": "10:00 am", 
+    "date": "2018-11-12", 
+    "headliner": "Violin, Viola, and Cello Lessons", 
+    "notes": "Our mission is to cultivate in young people an appreciation for and achievement in music, nurture positive character development, and bridge cultural divisions through the common language of music.Our Music Education Curriculum:\nPrivate lessons on violin, viola, & cello\nPerformance Opportunities, Masterclasses & All-State Preparation Workshops\nGroup lessons for technique, performance, & chamber musicVision/Core Values\nProvide high quality instruction on violin, viola, and cello at the central location of St. John\u2019s Episcopal Church\nDevelop the character of the whole child (including leadership, focus, determination, reliability, responsibility)\nBring together students of different backgrounds through the study and performance of music\nCultivate a lifelong appreciation of musicVisit our website here: www.tallahasseebachparley.org/stringacademy"
+  }, 
+  {
     "website": "http://musiclessonsexpress.com/rock-bands/", 
     "venue_address": "2706 Apalachee Pkwy, Tallahassee, FL 32301", 
     "price": "Cost is $40/month for students enrolled in private lessons at MLE and $50/month for non-MLE students, plus a one-time registration fee of $10. Limit of 6 students.", 
@@ -120,16 +165,25 @@
   {
     "website": "http://www.zebrawebworks.com/zebra/bluetavern/day.cfm?&year=2018&month=11&day=12", 
     "venue_address": "1206 N Monroe St", 
-    "notes": [
-      "8:00 PM", 
-      "FEE:  $2", 
-      "Lost Mondays with Belmont & Jones  Traditional Blues      Country blues and other delights from the early days of recorded music ... Every Monday at Blue Tavern $2 for musicians; tips appreciated.$2"
-    ], 
+    "notes": "Lost Mondays with Belmont & Jones  Traditional Blues      Country blues and other delights from the early days of recorded music ... Every Monday at Blue Tavern $2 for musicians; tips appreciated.$2", 
     "venue": "Blue Tavern", 
     "venue_website": "http://www.bluetaverntallahassee.com/", 
+    "slug": "lost-mondays-traditional-blues-with-belmont-and-jones-2018-11-12", 
+    "time": "8:00 PM", 
     "date": "2018-11-12", 
     "headliner": "Lost Mondays: Traditional Blues with Belmont & Jones", 
-    "slug": "lost-mondays-traditional-blues-with-belmont-and-jones-2018-11-12"
+    "price": "FEE:  $2"
+  }, 
+  {
+    "website": "http://www.capitalcitymusictherapy.com/events", 
+    "venue_address": "6668 Thomasville Road, Suite 18, Tallahassee, FL 32312", 
+    "price": "$8 per family", 
+    "venue": "Verity Health Center at Bannerman Crossings", 
+    "slug": "baby-and-me-pre-k-music-class-2018-11-13", 
+    "time": "9:45 am", 
+    "date": "2018-11-13", 
+    "headliner": "Baby & Me Pre-K Music Class", 
+    "notes": "An early learning music class for mixed preschool ages (5 years and under) and their parents/grandparents/nannies. Led by a board certified music therapist.\nSongs typically include hello and goodbye, music instruments, a story, and other activities including \u201cfinger play,\u201d signing, and props (scarves, bubbles, balls, etc.)Reserve your spot www.capitalcitymusictherapy.com/events. Follow updates at www.facebook.com/groups/LittleDitties."
   }, 
   {
     "website": "http://www.uutallahassee.org/spiritual-practice-thursdays/", 
@@ -158,16 +212,14 @@
   {
     "website": "http://www.zebrawebworks.com/zebra/bluetavern/day.cfm?&year=2018&month=11&day=13", 
     "venue_address": "1206 N Monroe St", 
-    "notes": [
-      "8:00 PM", 
-      "FEE:  $5", 
-      "Songwriter from NOLAhttps://lynndrury.com/home"
-    ], 
+    "notes": "Songwriter from NOLAhttps://lynndrury.com/home", 
     "venue": "Blue Tavern", 
     "venue_website": "http://www.bluetaverntallahassee.com/", 
+    "slug": "lynn-drury-2018-11-13", 
+    "time": "8:00 PM", 
     "date": "2018-11-13", 
     "headliner": "Lynn Drury", 
-    "slug": "lynn-drury-2018-11-13"
+    "price": "FEE:  $5"
   }, 
   {
     "website": "https://www.tallahasseearts.org/event/university-wind-orchestra-4/", 
@@ -182,6 +234,28 @@
     "notes": "The FSU College of Music invites you to join Professor Richard Clary and the University Wind Orchestra in Ruby Diamond Concert Hall on Wednesday, November 14, 2018 at 7:30 p.m.This performance is free and open to the public."
   }, 
   {
+    "website": "http://www.mountaindewcloggers.com", 
+    "venue_address": "2818 Apalachee Parkway, Tallahassee, FL 32301", 
+    "notes": "The Mountain Dew Clogging organization is a family oriented group comprised of people of all ages from all of the counties surrounding Tallahassee.Clogging gives you the opportunity to get out and enjoy a great social activity and get fit at the same time. Your legs will tone up very quickly. Clogging improves flexibility, coordination, endurance and strength. It increases lung capacity, relieves stress, and it\u2019s aerobic and burns fat. Clogging is usually danced in lines because there is a better social group feeling when you can see that your new friends are dancing the same routines as you. Some couple and partner routines are taught to keep in touch with the historic Appalachian clogging styles.The instructors teach both the steps and the routines. During classes the instructors cue or call all routines every time they are danced during the learning phase. This means once you know the steps at a given level, you can quickly join in with routines you have never seen.You will find you dance many and varied routines to pretty much all types of music, although country and top 100 current tunes are the most popular.Taps are a double jingle tap ordered from one of our suppliers. The sound of all the taps beating to the music, gets everybody tapping to the rhythms. In clogging the heel tap is used to give a strong regular beat during most steps.Like other worthwhile sporting activities, to progress quickly you may need to practice more than once a week at class. The good news is you can practice anywhere.", 
+    "venue": "Jackson Lodge", 
+    "time": "6:15 pm", 
+    "date": "2018-11-14", 
+    "headliner": "Clogging Lessons - Beginner", 
+    "slug": "clogging-lessons-beginner-2018-11-14"
+  }, 
+  {
+    "website": "https://www.tallahasseearts.org/event/suzuki-violin-class-books-2-and-3/", 
+    "venue_address": "2706 Apalachee Pkwy, Tallahassee, FL 32301", 
+    "price": "Large parking lot available free of charge", 
+    "venue": "Music Lessons Express", 
+    "venue_website": "http://www.musiclessonsexpress.com", 
+    "slug": "suzuki-violin-class-books-2-and-3-2018-11-14", 
+    "time": "6:00 pm", 
+    "date": "2018-11-14", 
+    "headliner": "Suzuki Violin Class- Books 2 and 3", 
+    "notes": "Suzuki focuses on developing instrument techniques and aural skills at an early age. Teachers also provide training to parents to encourage and facilitate home practice. Parent involvement is crucial in this program! Suzuki instructors are registered with the Suzuki Association of the Americas and have completed extensive training in early childhood music education.Classes generally begin with \u201cmusic games:\u201d instrument holding simulations and lots of listening. Parents will be given a CD to listen to over and over again, at home, in the car, through the television, etc. Why this method?"
+  }, 
+  {
     "website": "http://musiclessonsexpress.com/rock-bands/", 
     "venue_address": "2706 Apalachee Pkwy, Tallahassee, FL 32301", 
     "price": "Cost is $40/month for students enrolled in private lessons at MLE and $50/month for non-MLE students, plus a one-time registration fee of $10. Limit of 6 students.", 
@@ -192,6 +266,30 @@
     "date": "2018-11-14", 
     "headliner": "Advanced Rock Band", 
     "notes": "Advanced Rock Band is a 60 minute weekly class open to students ages 12 and up who are proficient on guitar, bass, vocals, or drums (other instruments considered). Students will learn how to perform and improvise as a team in a fun and energetic environment. The instructor for this class is guitarist and keyboardist Lyndon Thacker."
+  }, 
+  {
+    "website": "https://www.tallahasseearts.org/event/suzuki-pretwinkle-violin-class/", 
+    "venue_address": "2706 Apalachee Pkwy, Tallahassee, FL 32301", 
+    "price": "Large parking lot available free of charge", 
+    "venue": "Music Lessons Express", 
+    "venue_website": "http://www.musiclessonsexpress.com", 
+    "slug": "suzuki-pretwinkle-violin-class-2018-11-14", 
+    "time": "5:00 pm", 
+    "date": "2018-11-14", 
+    "headliner": "Suzuki PreTwinkle Violin Class", 
+    "notes": "Suzuki focuses on developing instrument techniques and aural skills at an early age. Teachers also provide training to parents to encourage and facilitate home practice. Parent involvement is crucial in this program! Suzuki instructors are registered with the Suzuki Association of the Americas and have completed extensive training in early childhood music education.Classes generally begin with \u201cmusic games:\u201d instrument holding simulations and lots of listening. Parents will be given a CD to listen to over and over again, at home, in the car, through the television, etc. Why this method?"
+  }, 
+  {
+    "website": "https://www.tallahasseearts.org/event/suzuki-violin-twinkle-book-1-class/", 
+    "venue_address": "2706 Apalachee Pkwy, Tallahassee, FL 32301", 
+    "price": "Large parking lot available free of charge", 
+    "venue": "Music Lessons Express", 
+    "venue_website": "http://www.musiclessonsexpress.com", 
+    "slug": "suzuki-violin-twinkle-and-book-1-class-2018-11-14", 
+    "time": "5:45 pm", 
+    "date": "2018-11-14", 
+    "headliner": "Suzuki Violin Twinkle & Book 1 Class", 
+    "notes": "Suzuki focuses on developing instrument techniques and aural skills at an early age. Teachers also provide training to parents to encourage and facilitate home practice. Parent involvement is crucial in this program! Suzuki instructors are registered with the Suzuki Association of the Americas and have completed extensive training in early childhood music education.Classes generally begin with \u201cmusic games:\u201d instrument holding simulations and lots of listening. Parents will be given a CD to listen to over and over again, at home, in the car, through the television, etc. Why this method?"
   }, 
   {
     "website": "https://www.facebook.com/events/1079334968897631/", 
@@ -208,29 +306,26 @@
   {
     "website": "http://www.zebrawebworks.com/zebra/bluetavern/day.cfm?&year=2018&month=11&day=14", 
     "venue_address": "1206 N Monroe St", 
-    "notes": [
-      "7:00 PM", 
-      "FEE:  $0", 
-      "Readings by TWA writers"
-    ], 
+    "notes": "Readings by TWA writers", 
     "venue": "Blue Tavern", 
     "venue_website": "http://www.bluetaverntallahassee.com/", 
+    "slug": "tallahassee-writers-association-lit-night-2018-11-14", 
+    "time": "7:00 PM", 
     "date": "2018-11-14", 
     "headliner": "Tallahassee Writers Association - Lit Night", 
-    "slug": "tallahassee-writers-association-lit-night-2018-11-14"
+    "price": "FEE:  $0"
   }, 
   {
     "website": "http://www.zebrawebworks.com/zebra/bluetavern/day.cfm?&year=2018&month=11&day=14", 
     "venue_address": "1206 N Monroe St", 
-    "notes": [
-      "9:00 PM", 
-      "FEE:  $2"
-    ], 
+    "notes": "", 
     "venue": "Blue Tavern", 
     "venue_website": "http://www.bluetaverntallahassee.com/", 
+    "slug": "grant-peeples-poetry-and-music-2018-11-14", 
+    "time": "9:00 PM", 
     "date": "2018-11-14", 
     "headliner": "Grant Peeples - poetry and music", 
-    "slug": "grant-peeples-poetry-and-music-2018-11-14"
+    "price": "FEE:  $2"
   }, 
   {
     "website": "http://tallahassee.moonevents.com/events/big-gigantic", 
@@ -322,15 +417,14 @@
   {
     "website": "http://www.zebrawebworks.com/zebra/bluetavern/day.cfm?&year=2018&month=11&day=15", 
     "venue_address": "1206 N Monroe St", 
-    "notes": [
-      "8:00 PM", 
-      "FEE:  $2"
-    ], 
+    "notes": "", 
     "venue": "Blue Tavern", 
     "venue_website": "http://www.bluetaverntallahassee.com/", 
+    "slug": "drew-tillman-songster-2018-11-15", 
+    "time": "8:00 PM", 
     "date": "2018-11-15", 
     "headliner": "Drew Tillman - songster", 
-    "slug": "drew-tillman-songster-2018-11-15"
+    "price": "FEE:  $2"
   }, 
   {
     "website": "http://www.fifthandthomas.com/event/eli-2-2/", 
@@ -453,29 +547,37 @@
   {
     "website": "http://www.zebrawebworks.com/zebra/bluetavern/day.cfm?&year=2018&month=11&day=16", 
     "venue_address": "1206 N Monroe St", 
-    "notes": [
-      "4:00 PM", 
-      "FEE:  $0", 
-      "Jug Band Music"
-    ], 
+    "notes": "Jug Band Music", 
     "venue": "Blue Tavern", 
     "venue_website": "http://www.bluetaverntallahassee.com/", 
+    "slug": "delta-ringnecks-2018-11-16", 
+    "time": "4:00 PM", 
     "date": "2018-11-16", 
     "headliner": "Delta Ringnecks", 
-    "slug": "delta-ringnecks-2018-11-16"
+    "price": "FEE:  $0"
   }, 
   {
     "website": "http://www.zebrawebworks.com/zebra/bluetavern/day.cfm?&year=2018&month=11&day=16", 
     "venue_address": "1206 N Monroe St", 
-    "notes": [
-      "8:00 PM", 
-      "FEE:  $5"
-    ], 
+    "notes": "", 
     "venue": "Blue Tavern", 
     "venue_website": "http://www.bluetaverntallahassee.com/", 
+    "slug": "jon-copps-and-ken-west-2018-11-16", 
+    "time": "8:00 PM", 
     "date": "2018-11-16", 
     "headliner": "Jon Copps & Ken West", 
-    "slug": "jon-copps-and-ken-west-2018-11-16"
+    "price": "FEE:  $5"
+  }, 
+  {
+    "website": "https://bradfordvilleblues.com/events-tickets/", 
+    "venue_address": "7152 Moses Ln", 
+    "price": "$20", 
+    "venue": "Bradfordville Blues Club", 
+    "venue_website": "https://bradfordvilleblues.com/", 
+    "time": "9:00pm", 
+    "date": "2018-11-16", 
+    "headliner": "The Jeff Jensen Band", 
+    "slug": "the-jeff-jensen-band-2018-11-16"
   }, 
   {
     "website": "http://www.fifthandthomas.com/event/friedturkeys/", 
@@ -528,31 +630,74 @@
     "notes": "A dance driven Soul and Blues band made up of some of Tallahassee\u2019s finest musicians. The group has southern soul vocalist/guitar player, Frank Jones, leading the show with influences ranging from Albert Collins, The Funky Meters, Clarence Carter and Ray Charles. Bringing the beats to the music is legendary Steve Howell on drums accompanied by Hunter Daws and his delightfully energetic and stylistic bass playing. Last but not least, Clyde Ramsey on harmonica/keyboards as well as vocals; imagine John Lennon and Little Walter had a son.\u00a0"
   }, 
   {
-    "website": "http://www.zebrawebworks.com/zebra/bluetavern/day.cfm?&year=2018&month=11&day=17", 
-    "venue_address": "1206 N Monroe St", 
-    "notes": [
-      "7:00 PM", 
-      "FEE:  $5", 
-      "https://www.facebook.com/americandarlingvalve/$5 includes entire evening if you stay for 2nd act"
-    ], 
-    "venue": "Blue Tavern", 
-    "venue_website": "http://www.bluetaverntallahassee.com/", 
+    "website": "http://www.capitalcitymusictherapy.com/events", 
+    "venue_address": "6668 Thomasville Road, Suite 18, Tallahassee, FL 32312", 
+    "price": "$8 per family", 
+    "venue": "Verity Health Center at Bannerman Crossings", 
+    "slug": "itty-bitty-infant-music-class-2018-11-17", 
+    "time": "9:00 am", 
     "date": "2018-11-17", 
-    "headliner": "American Darling Valve", 
-    "slug": "american-darling-valve-2018-11-17"
+    "headliner": "Itty Bitty Infant Music Class", 
+    "notes": "This class will focus on the earliest stages of development (for babies up to 1 year). Please note that this class will be conducted on the floor. We will have floor mats, but you may wish to bring a blanket from home. Chairs readily available if needed.\nActivities include hello/goodbye songs, instruments (shakers, ocean drums, rain sticks), a story, \u201clap sit/bounce\u201d songs, signing, and \u201cfinger play.\u201d This class provides a wonderful opportunity for early socialization.Reserve your spot www.capitalcitymusictherapy.com/events. Follow updates at www.facebook.com/groups/LittleDitties."
+  }, 
+  {
+    "website": "https://www.tallahasseearts.org/event/suzuki-guitar-group-class-book-1/", 
+    "venue_address": "2706 Apalachee Pkwy, Tallahassee, FL 32301", 
+    "price": "Large parking lot available free of charge", 
+    "venue": "Music Lessons Express", 
+    "venue_website": "http://www.musiclessonsexpress.com", 
+    "slug": "suzuki-guitar-group-class-book-1-2018-11-17", 
+    "time": "1:00 pm", 
+    "date": "2018-11-17", 
+    "headliner": "Suzuki Guitar Group Class, Book 1", 
+    "notes": "Suzuki focuses on developing instrument techniques and aural skills at an early age. Teachers also provide training to parents to encourage and facilitate home practice. Parent involvement is crucial in this program! Suzuki instructors are registered with the Suzuki Association of the Americas and have completed extensive training in early childhood music education.Classes generally begin with \u201cmusic games:\u201d instrument holding simulations and lots of listening. Parents will be given a CD to listen to over and over again, at home, in the car, through the television, etc. Why this method?"
+  }, 
+  {
+    "website": "https://www.tallahasseearts.org/event/suzuki-guitar-group-class-books-2-3/", 
+    "venue_address": "2706 Apalachee Pkwy, Tallahassee, FL 32301", 
+    "price": "Large parking lot available free of charge", 
+    "venue": "Music Lessons Express", 
+    "venue_website": "http://www.musiclessonsexpress.com", 
+    "slug": "suzuki-guitar-group-class-books-2-and-3-2018-11-17", 
+    "time": "12:30 pm", 
+    "date": "2018-11-17", 
+    "headliner": "Suzuki Guitar Group Class, Books 2 & 3", 
+    "notes": "Suzuki focuses on developing instrument techniques and aural skills at an early age. Teachers also provide training to parents to encourage and facilitate home practice. Parent involvement is crucial in this program! Suzuki instructors are registered with the Suzuki Association of the Americas and have completed extensive training in early childhood music education.Classes generally begin with \u201cmusic games:\u201d instrument holding simulations and lots of listening. Parents will be given a CD to listen to over and over again, at home, in the car, through the television, etc. Why this method?"
   }, 
   {
     "website": "http://www.zebrawebworks.com/zebra/bluetavern/day.cfm?&year=2018&month=11&day=17", 
     "venue_address": "1206 N Monroe St", 
-    "notes": [
-      "10:00 PM", 
-      "FEE:  $5"
-    ], 
+    "notes": "https://www.facebook.com/americandarlingvalve/$5 includes entire evening if you stay for 2nd act", 
     "venue": "Blue Tavern", 
     "venue_website": "http://www.bluetaverntallahassee.com/", 
+    "slug": "american-darling-valve-2018-11-17", 
+    "time": "7:00 PM", 
+    "date": "2018-11-17", 
+    "headliner": "American Darling Valve", 
+    "price": "FEE:  $5"
+  }, 
+  {
+    "website": "http://www.zebrawebworks.com/zebra/bluetavern/day.cfm?&year=2018&month=11&day=17", 
+    "venue_address": "1206 N Monroe St", 
+    "notes": "", 
+    "venue": "Blue Tavern", 
+    "venue_website": "http://www.bluetaverntallahassee.com/", 
+    "slug": "flathead-string-band-2018-11-17", 
+    "time": "10:00 PM", 
     "date": "2018-11-17", 
     "headliner": "Flathead String Band", 
-    "slug": "flathead-string-band-2018-11-17"
+    "price": "FEE:  $5"
+  }, 
+  {
+    "website": "https://bradfordvilleblues.com/events-tickets/", 
+    "venue_address": "7152 Moses Ln", 
+    "price": "$20", 
+    "venue": "Bradfordville Blues Club", 
+    "venue_website": "https://bradfordvilleblues.com/", 
+    "time": "9:00pm", 
+    "date": "2018-11-17", 
+    "headliner": "The Frank Jones Band", 
+    "slug": "the-frank-jones-band-2018-11-17"
   }, 
   {
     "website": "https://www.therecollections.org/events/tommy-cooper-in-concert", 
@@ -613,32 +758,40 @@
     "notes": "You\u2019re invited to spend Sunday afternoon in Downtown Thomasville. Enjoy special Sunday hours, live music throughout the downtown, unique shopping, and delicious dining options. With every $20 you spend, you\u2019ll receive a ticket to win one of five $100 Downtown Dollars gift certificates.\u00a0 Free trolley rides will be available between Downtown Thomasville and the Plantation Wildlife Arts Festival from 1:00-5:00PM."
   }, 
   {
+    "website": "https://www.tallahasseearts.org/event/university-campus-band-and-orchestra/", 
+    "venue_address": "114 N Copeland St., Tallahassee, FL 32304", 
+    "price": "Nearby parking available.", 
+    "venue": "Opperman Music Hall - Florida State University", 
+    "venue_website": "http://www.music.fsu.edu/Venues/Opperman-Music-Hall", 
+    "slug": "university-campus-band-and-orchestra-2018-11-19", 
+    "time": "7:30 pm (Mon)", 
+    "date": "2018-11-19", 
+    "headliner": "University Campus Band and Orchestra", 
+    "notes": "The FSU College of Music invites you to join the University Campus Band and Campus Orchestra in Opperman Music Hall on Monday, November 19, 2018 at 7:30 p.m. This performance is free and open to the public.\u00a0ABOUT THE ENSEMBLESThe Campus Band and Campus Orchestra are directed and conducted by graduate students from within the FSU College of Music, but are composed of students from across the University, providing a unique opportunity for non-major student musicians who wish to continue performing in ensemble settings.\u00a0"
+  }, 
+  {
     "website": "http://www.zebrawebworks.com/zebra/bluetavern/day.cfm?&year=2018&month=11&day=19", 
     "venue_address": "1206 N Monroe St", 
-    "notes": [
-      "8:00 PM", 
-      "FEE:  $2", 
-      "Lost Mondays with Belmont & Jones  Traditional Blues      Country blues and other delights from the early days of recorded music ... Every Monday at Blue Tavern $2 for musicians; tips appreciated.$2"
-    ], 
+    "notes": "Lost Mondays with Belmont & Jones  Traditional Blues      Country blues and other delights from the early days of recorded music ... Every Monday at Blue Tavern $2 for musicians; tips appreciated.$2", 
     "venue": "Blue Tavern", 
     "venue_website": "http://www.bluetaverntallahassee.com/", 
+    "slug": "lost-mondays-traditional-blues-with-belmont-and-jones-2018-11-19", 
+    "time": "8:00 PM", 
     "date": "2018-11-19", 
     "headliner": "Lost Mondays: Traditional Blues with Belmont & Jones", 
-    "slug": "lost-mondays-traditional-blues-with-belmont-and-jones-2018-11-19"
+    "price": "FEE:  $2"
   }, 
   {
     "website": "http://www.zebrawebworks.com/zebra/bluetavern/day.cfm?&year=2018&month=11&day=20", 
     "venue_address": "1206 N Monroe St", 
-    "notes": [
-      "8:00 PM", 
-      "FEE:  $2", 
-      "https://www.facebook.com/nrubhsawjt"
-    ], 
+    "notes": "https://www.facebook.com/nrubhsawjt", 
     "venue": "Blue Tavern", 
     "venue_website": "http://www.bluetaverntallahassee.com/", 
+    "slug": "tj-washburn-songster-2018-11-20", 
+    "time": "8:00 PM", 
     "date": "2018-11-20", 
     "headliner": "TJ Washburn: songster", 
-    "slug": "tj-washburn-songster-2018-11-20"
+    "price": "FEE:  $2"
   }, 
   {
     "website": "http://tallahassee.moonevents.com/events/thanksgiving-ladies-night", 
@@ -672,41 +825,38 @@
   {
     "website": "http://www.zebrawebworks.com/zebra/bluetavern/day.cfm?&year=2018&month=11&day=21", 
     "venue_address": "1206 N Monroe St", 
-    "notes": [
-      "7:00 PM", 
-      "FEE:  $0"
-    ], 
+    "notes": "", 
     "venue": "Blue Tavern", 
     "venue_website": "http://www.bluetaverntallahassee.com/", 
+    "slug": "blue-tavern-book-club-2018-11-21", 
+    "time": "7:00 PM", 
     "date": "2018-11-21", 
     "headliner": "Blue Tavern Book Club", 
-    "slug": "blue-tavern-book-club-2018-11-21"
+    "price": "FEE:  $0"
   }, 
   {
     "website": "http://www.zebrawebworks.com/zebra/bluetavern/day.cfm?&year=2018&month=11&day=21", 
     "venue_address": "1206 N Monroe St", 
-    "notes": [
-      "8:00 PM", 
-      "FEE:  $0"
-    ], 
+    "notes": "", 
     "venue": "Blue Tavern", 
     "venue_website": "http://www.bluetaverntallahassee.com/", 
+    "slug": "jerry-thigpen-2018-11-21", 
+    "time": "8:00 PM", 
     "date": "2018-11-21", 
     "headliner": "Jerry Thigpen", 
-    "slug": "jerry-thigpen-2018-11-21"
+    "price": "FEE:  $0"
   }, 
   {
     "website": "http://www.zebrawebworks.com/zebra/bluetavern/day.cfm?&year=2018&month=11&day=22", 
     "venue_address": "1206 N Monroe St", 
-    "notes": [
-      "5:00 PM", 
-      "FEE:  $0"
-    ], 
+    "notes": "", 
     "venue": "Blue Tavern", 
     "venue_website": "http://www.bluetaverntallahassee.com/", 
+    "slug": "closed-for-thanksgiving-2018-11-22", 
+    "time": "5:00 PM", 
     "date": "2018-11-22", 
     "headliner": "CLOSED FOR THANKSGIVING", 
-    "slug": "closed-for-thanksgiving-2018-11-22"
+    "price": "FEE:  $0"
   }, 
   {
     "website": "http://tallahassee.moonevents.com/node/905", 
@@ -812,29 +962,37 @@
   {
     "website": "http://www.zebrawebworks.com/zebra/bluetavern/day.cfm?&year=2018&month=11&day=23", 
     "venue_address": "1206 N Monroe St", 
-    "notes": [
-      "4:00 PM", 
-      "FEE:  $0", 
-      "Jug Band Music"
-    ], 
+    "notes": "Jug Band Music", 
     "venue": "Blue Tavern", 
     "venue_website": "http://www.bluetaverntallahassee.com/", 
+    "slug": "delta-ringnecks-2018-11-23", 
+    "time": "4:00 PM", 
     "date": "2018-11-23", 
     "headliner": "Delta Ringnecks", 
-    "slug": "delta-ringnecks-2018-11-23"
+    "price": "FEE:  $0"
   }, 
   {
     "website": "http://www.zebrawebworks.com/zebra/bluetavern/day.cfm?&year=2018&month=11&day=23", 
     "venue_address": "1206 N Monroe St", 
-    "notes": [
-      "8:00 PM", 
-      "FEE:  $5"
-    ], 
+    "notes": "", 
     "venue": "Blue Tavern", 
     "venue_website": "http://www.bluetaverntallahassee.com/", 
+    "slug": "sawmill-jam-2018-11-23", 
+    "time": "8:00 PM", 
     "date": "2018-11-23", 
     "headliner": "Sawmill Jam", 
-    "slug": "sawmill-jam-2018-11-23"
+    "price": "FEE:  $5"
+  }, 
+  {
+    "website": "https://bradfordvilleblues.com/events-tickets/", 
+    "venue_address": "7152 Moses Ln", 
+    "price": "$25", 
+    "venue": "Bradfordville Blues Club", 
+    "venue_website": "https://bradfordvilleblues.com/", 
+    "time": "9:00pm", 
+    "date": "2018-11-23", 
+    "headliner": "Joey Gilmore & The TCB Express", 
+    "slug": "joey-gilmore-and-the-tcb-express-2018-11-23"
   }, 
   {
     "website": "http://www.fifthandthomas.com/event/ghent-the-dj-17-2-2/", 
@@ -864,42 +1022,49 @@
   {
     "website": "http://www.zebrawebworks.com/zebra/bluetavern/day.cfm?&year=2018&month=11&day=24", 
     "venue_address": "1206 N Monroe St", 
-    "notes": [
-      "4:30 PM", 
-      "FEE:  $0", 
-      "all acoustic jam, old-time music all ages and skill levels welcome"
-    ], 
+    "notes": "all acoustic jam, old-time music all ages and skill levels welcome", 
     "venue": "Blue Tavern", 
     "venue_website": "http://www.bluetaverntallahassee.com/", 
+    "slug": "old-time-jam-2018-11-24", 
+    "time": "4:30 PM", 
     "date": "2018-11-24", 
     "headliner": "Old-Time Jam", 
-    "slug": "old-time-jam-2018-11-24"
+    "price": "FEE:  $0"
   }, 
   {
     "website": "http://www.zebrawebworks.com/zebra/bluetavern/day.cfm?&year=2018&month=11&day=24", 
     "venue_address": "1206 N Monroe St", 
-    "notes": [
-      "7:00 PM", 
-      "FEE:  $5"
-    ], 
+    "notes": "", 
     "venue": "Blue Tavern", 
     "venue_website": "http://www.bluetaverntallahassee.com/", 
+    "slug": "charlie-wilkinson-and-frank-lindamood-2018-11-24", 
+    "time": "7:00 PM", 
     "date": "2018-11-24", 
     "headliner": "Charlie Wilkinson & Frank Lindamood", 
-    "slug": "charlie-wilkinson-and-frank-lindamood-2018-11-24"
+    "price": "FEE:  $5"
   }, 
   {
     "website": "http://www.zebrawebworks.com/zebra/bluetavern/day.cfm?&year=2018&month=11&day=24", 
     "venue_address": "1206 N Monroe St", 
-    "notes": [
-      "10:00 PM", 
-      "FEE:  $5"
-    ], 
+    "notes": "", 
     "venue": "Blue Tavern", 
     "venue_website": "http://www.bluetaverntallahassee.com/", 
+    "slug": "apalachee-trio-2018-11-24", 
+    "time": "10:00 PM", 
     "date": "2018-11-24", 
     "headliner": "Apalachee Trio", 
-    "slug": "apalachee-trio-2018-11-24"
+    "price": "FEE:  $5"
+  }, 
+  {
+    "website": "https://bradfordvilleblues.com/events-tickets/", 
+    "venue_address": "7152 Moses Ln", 
+    "price": "$20", 
+    "venue": "Bradfordville Blues Club", 
+    "venue_website": "https://bradfordvilleblues.com/", 
+    "time": "9:00pm", 
+    "date": "2018-11-24", 
+    "headliner": "The Rusty Wright Band", 
+    "slug": "the-rusty-wright-band-2018-11-24"
   }, 
   {
     "website": "https://www.tallahasseearts.org/event/jazz-combo-concert-7/", 
@@ -916,16 +1081,14 @@
   {
     "website": "http://www.zebrawebworks.com/zebra/bluetavern/day.cfm?&year=2018&month=11&day=26", 
     "venue_address": "1206 N Monroe St", 
-    "notes": [
-      "8:00 PM", 
-      "FEE:  $2", 
-      "Lost Mondays with Belmont & Jones  Traditional Blues      Country blues and other delights from the early days of recorded music ... Every Monday at Blue Tavern $2 for musicians; tips appreciated.$2"
-    ], 
+    "notes": "Lost Mondays with Belmont & Jones  Traditional Blues      Country blues and other delights from the early days of recorded music ... Every Monday at Blue Tavern $2 for musicians; tips appreciated.$2", 
     "venue": "Blue Tavern", 
     "venue_website": "http://www.bluetaverntallahassee.com/", 
+    "slug": "lost-mondays-traditional-blues-with-belmont-and-jones-2018-11-26", 
+    "time": "8:00 PM", 
     "date": "2018-11-26", 
     "headliner": "Lost Mondays: Traditional Blues with Belmont & Jones", 
-    "slug": "lost-mondays-traditional-blues-with-belmont-and-jones-2018-11-26"
+    "price": "FEE:  $2"
   }, 
   {
     "website": "https://www.tallahasseearts.org/event/prism-4/", 
@@ -954,15 +1117,14 @@
   {
     "website": "http://www.zebrawebworks.com/zebra/bluetavern/day.cfm?&year=2018&month=11&day=27", 
     "venue_address": "1206 N Monroe St", 
-    "notes": [
-      "8:00 PM", 
-      "FEE:  $2"
-    ], 
+    "notes": "", 
     "venue": "Blue Tavern", 
     "venue_website": "http://www.bluetaverntallahassee.com/", 
+    "slug": "roda-vibe-with-tallahassee-choro-society-2018-11-27", 
+    "time": "8:00 PM", 
     "date": "2018-11-27", 
     "headliner": "Roda Vibe with Tallahassee Choro Society", 
-    "slug": "roda-vibe-with-tallahassee-choro-society-2018-11-27"
+    "price": "FEE:  $2"
   }, 
   {
     "website": "https://www.facebook.com/events/845051589034658/", 
@@ -979,29 +1141,26 @@
   {
     "website": "http://www.zebrawebworks.com/zebra/bluetavern/day.cfm?&year=2018&month=11&day=28", 
     "venue_address": "1206 N Monroe St", 
-    "notes": [
-      "7:00 PM", 
-      "FEE:  $0", 
-      "Storytelling by Saundra Kelley"
-    ], 
+    "notes": "Storytelling by Saundra Kelley", 
     "venue": "Blue Tavern", 
     "venue_website": "http://www.bluetaverntallahassee.com/", 
+    "slug": "stories-blue-2018-11-28", 
+    "time": "7:00 PM", 
     "date": "2018-11-28", 
     "headliner": "Stories @ Blue", 
-    "slug": "stories-blue-2018-11-28"
+    "price": "FEE:  $0"
   }, 
   {
     "website": "http://www.zebrawebworks.com/zebra/bluetavern/day.cfm?&year=2018&month=11&day=28", 
     "venue_address": "1206 N Monroe St", 
-    "notes": [
-      "9:00 PM", 
-      "FEE:  $2"
-    ], 
+    "notes": "", 
     "venue": "Blue Tavern", 
     "venue_website": "http://www.bluetaverntallahassee.com/", 
+    "slug": "josh-cosette-jazz-piano-2018-11-28", 
+    "time": "9:00 PM", 
     "date": "2018-11-28", 
     "headliner": "Josh Cosette: jazz piano", 
-    "slug": "josh-cosette-jazz-piano-2018-11-28"
+    "price": "FEE:  $2"
   }, 
   {
     "website": "https://www.facebook.com/events/1035701819971674/", 
@@ -1018,15 +1177,14 @@
   {
     "website": "http://www.zebrawebworks.com/zebra/bluetavern/day.cfm?&year=2018&month=11&day=29", 
     "venue_address": "1206 N Monroe St", 
-    "notes": [
-      "8:00 PM", 
-      "FEE:  $5"
-    ], 
+    "notes": "", 
     "venue": "Blue Tavern", 
     "venue_website": "http://www.bluetaverntallahassee.com/", 
+    "slug": "rachel-hillman-2018-11-29", 
+    "time": "8:00 PM", 
     "date": "2018-11-29", 
     "headliner": "Rachel Hillman", 
-    "slug": "rachel-hillman-2018-11-29"
+    "price": "FEE:  $5"
   }, 
   {
     "website": "http://www.fifthandthomas.com/event/djatothel-7-3/", 
@@ -1117,29 +1275,26 @@
   {
     "website": "http://www.zebrawebworks.com/zebra/bluetavern/day.cfm?&year=2018&month=11&day=30", 
     "venue_address": "1206 N Monroe St", 
-    "notes": [
-      "4:00 PM", 
-      "FEE:  $0", 
-      "Jug Band Music"
-    ], 
+    "notes": "Jug Band Music", 
     "venue": "Blue Tavern", 
     "venue_website": "http://www.bluetaverntallahassee.com/", 
+    "slug": "delta-ringnecks-2018-11-30", 
+    "time": "4:00 PM", 
     "date": "2018-11-30", 
     "headliner": "Delta Ringnecks", 
-    "slug": "delta-ringnecks-2018-11-30"
+    "price": "FEE:  $0"
   }, 
   {
     "website": "http://www.zebrawebworks.com/zebra/bluetavern/day.cfm?&year=2018&month=11&day=30", 
     "venue_address": "1206 N Monroe St", 
-    "notes": [
-      "8:00 PM", 
-      "FEE:  $5"
-    ], 
+    "notes": "", 
     "venue": "Blue Tavern", 
     "venue_website": "http://www.bluetaverntallahassee.com/", 
+    "slug": "adventures-of-annabelle-lyn-2018-11-30", 
+    "time": "8:00 PM", 
     "date": "2018-11-30", 
     "headliner": "Adventures of Annabelle Lyn", 
-    "slug": "adventures-of-annabelle-lyn-2018-11-30"
+    "price": "FEE:  $5"
   }, 
   {
     "website": "http://www.fifthandthomas.com/event/pattersonhood/", 
@@ -1205,16 +1360,25 @@
   {
     "website": "http://www.zebrawebworks.com/zebra/bluetavern/day.cfm?&year=2018&month=12&day=1", 
     "venue_address": "1206 N Monroe St", 
-    "notes": [
-      "7:00 PM", 
-      "FEE:  $5", 
-      "Local Wildlife at 7 pmPat Puckett at 10 pm$5 covers entire evening"
-    ], 
+    "notes": "Local Wildlife at 7 pmPat Puckett at 10 pm$5 covers entire evening", 
     "venue": "Blue Tavern", 
     "venue_website": "http://www.bluetaverntallahassee.com/", 
+    "slug": "local-wildlife-pat-puckett-2018-12-01", 
+    "time": "7:00 PM", 
     "date": "2018-12-01", 
     "headliner": "Local Wildlife / Pat Puckett", 
-    "slug": "local-wildlife-pat-puckett-2018-12-01"
+    "price": "FEE:  $5"
+  }, 
+  {
+    "website": "https://bradfordvilleblues.com/events-tickets/", 
+    "venue_address": "7152 Moses Ln", 
+    "price": "$20", 
+    "venue": "Bradfordville Blues Club", 
+    "venue_website": "https://bradfordvilleblues.com/", 
+    "time": "9:00pm", 
+    "date": "2018-12-01", 
+    "headliner": "Delta Moon", 
+    "slug": "delta-moon-2018-12-01"
   }, 
   {
     "website": "http://www.fifthandthomas.com/event/marcbroussard/", 
@@ -1292,16 +1456,14 @@
   {
     "website": "http://www.zebrawebworks.com/zebra/bluetavern/day.cfm?&year=2018&month=12&day=3", 
     "venue_address": "1206 N Monroe St", 
-    "notes": [
-      "8:00 PM", 
-      "FEE:  $0", 
-      "Lost Mondays with Belmont & Jones  Traditional Blues      Country blues and other delights from the early days of recorded music ... Every Monday at Blue Tavern $2 for musicians; tips appreciated.$2"
-    ], 
+    "notes": "Lost Mondays with Belmont & Jones  Traditional Blues      Country blues and other delights from the early days of recorded music ... Every Monday at Blue Tavern $2 for musicians; tips appreciated.$2", 
     "venue": "Blue Tavern", 
     "venue_website": "http://www.bluetaverntallahassee.com/", 
+    "slug": "lost-mondays-traditional-blues-with-belmont-and-jones-2018-12-03", 
+    "time": "8:00 PM", 
     "date": "2018-12-03", 
     "headliner": "Lost Mondays: Traditional Blues with Belmont & Jones", 
-    "slug": "lost-mondays-traditional-blues-with-belmont-and-jones-2018-12-03"
+    "price": "FEE:  $0"
   }, 
   {
     "website": "https://www.facebook.com/events/1189104217892118/", 
@@ -1329,16 +1491,14 @@
   {
     "website": "http://www.zebrawebworks.com/zebra/bluetavern/day.cfm?&year=2018&month=12&day=4", 
     "venue_address": "1206 N Monroe St", 
-    "notes": [
-      "7:00 PM", 
-      "FEE:  $2", 
-      "7-11 pm invitational jazz session"
-    ], 
+    "notes": "7-11 pm invitational jazz session", 
     "venue": "Blue Tavern", 
     "venue_website": "http://www.bluetaverntallahassee.com/", 
+    "slug": "jazz-sessions-with-bob-dogan-trio-2018-12-04", 
+    "time": "7:00 PM", 
     "date": "2018-12-04", 
     "headliner": "Jazz Sessions with Bob Dogan Trio", 
-    "slug": "jazz-sessions-with-bob-dogan-trio-2018-12-04"
+    "price": "FEE:  $2"
   }, 
   {
     "website": "https://www.hc-ec.org/", 
@@ -1366,16 +1526,14 @@
   {
     "website": "http://www.zebrawebworks.com/zebra/bluetavern/day.cfm?&year=2018&month=12&day=5", 
     "venue_address": "1206 N Monroe St", 
-    "notes": [
-      "8:00 PM", 
-      "FEE:  $2", 
-      "nickgusman.bandcamp.com"
-    ], 
+    "notes": "nickgusman.bandcamp.com", 
     "venue": "Blue Tavern", 
     "venue_website": "http://www.bluetaverntallahassee.com/", 
+    "slug": "nick-gusman-2018-12-05", 
+    "time": "8:00 PM", 
     "date": "2018-12-05", 
     "headliner": "Nick Gusman", 
-    "slug": "nick-gusman-2018-12-05"
+    "price": "FEE:  $2"
   }, 
   {
     "website": "https://openingnights.fsu.edu/events/mandy-harvey/", 
@@ -1416,16 +1574,14 @@
   {
     "website": "http://www.zebrawebworks.com/zebra/bluetavern/day.cfm?&year=2018&month=12&day=6", 
     "venue_address": "1206 N Monroe St", 
-    "notes": [
-      "8:00 PM", 
-      "FEE:  $10", 
-      "Recent New Orleans transplant Seth Walkers new song Home Again is a catchy combination of the singers Texas blues, R&B, and twangy influences. Off his forthcoming album Gotta Get Back, the track features a steady, driving beat and a soulful yet optimistic Walker yearning to be home again.sethwalker.com"
-    ], 
+    "notes": "Recent New Orleans transplant Seth Walkers new song Home Again is a catchy combination of the singers Texas blues, R&B, and twangy influences. Off his forthcoming album Gotta Get Back, the track features a steady, driving beat and a soulful yet optimistic Walker yearning to be home again.sethwalker.com", 
     "venue": "Blue Tavern", 
     "venue_website": "http://www.bluetaverntallahassee.com/", 
+    "slug": "seth-walker-2018-12-06", 
+    "time": "8:00 PM", 
     "date": "2018-12-06", 
     "headliner": "Seth Walker", 
-    "slug": "seth-walker-2018-12-06"
+    "price": "FEE:  $10"
   }, 
   {
     "website": "http://www.fifthandthomas.com/event/revival-4/", 
@@ -1479,30 +1635,37 @@
   {
     "website": "http://www.zebrawebworks.com/zebra/bluetavern/day.cfm?&year=2018&month=12&day=7", 
     "venue_address": "1206 N Monroe St", 
-    "notes": [
-      "4:00 PM", 
-      "FEE:  $0", 
-      "Jug Band Music"
-    ], 
+    "notes": "Jug Band Music", 
     "venue": "Blue Tavern", 
     "venue_website": "http://www.bluetaverntallahassee.com/", 
+    "slug": "delta-ringnecks-2018-12-07", 
+    "time": "4:00 PM", 
     "date": "2018-12-07", 
     "headliner": "Delta Ringnecks", 
-    "slug": "delta-ringnecks-2018-12-07"
+    "price": "FEE:  $0"
   }, 
   {
     "website": "http://www.zebrawebworks.com/zebra/bluetavern/day.cfm?&year=2018&month=12&day=7", 
     "venue_address": "1206 N Monroe St", 
-    "notes": [
-      "8:00 PM", 
-      "FEE:  $5", 
-      "NOLA style piano with roots & rhythm ...JB of Zydeco Zoo fame has been playing piano to delighted audiences in Tallahassee for decades. Lucky for us, he's started a monthly Friday show at Blue Tavern -- on the 2nd Friday of the month. Backed up by stellar percussionist Paul Harvey, JB's style of New Orleans funky time piano is just perfect for our room. Don't be surprised if a special guest or two show up with some extra sauce!"
-    ], 
+    "notes": "NOLA style piano with roots & rhythm ...JB of Zydeco Zoo fame has been playing piano to delighted audiences in Tallahassee for decades. Lucky for us, he's started a monthly Friday show at Blue Tavern -- on the 2nd Friday of the month. Backed up by stellar percussionist Paul Harvey, JB's style of New Orleans funky time piano is just perfect for our room. Don't be surprised if a special guest or two show up with some extra sauce!", 
     "venue": "Blue Tavern", 
     "venue_website": "http://www.bluetaverntallahassee.com/", 
+    "slug": "jb-and-paul-harvey-2018-12-07", 
+    "time": "8:00 PM", 
     "date": "2018-12-07", 
     "headliner": "JB & Paul Harvey", 
-    "slug": "jb-and-paul-harvey-2018-12-07"
+    "price": "FEE:  $5"
+  }, 
+  {
+    "website": "https://bradfordvilleblues.com/events-tickets/", 
+    "venue_address": "7152 Moses Ln", 
+    "price": "$20", 
+    "venue": "Bradfordville Blues Club", 
+    "venue_website": "https://bradfordvilleblues.com/", 
+    "time": "9:00pm", 
+    "date": "2018-12-07", 
+    "headliner": "The Chris O\u2019Leary Band", 
+    "slug": "the-chris-o-leary-band-2018-12-07"
   }, 
   {
     "website": "http://www.fifthandthomas.com/event/electricapostles-3-2/", 
@@ -1532,30 +1695,26 @@
   {
     "website": "http://www.zebrawebworks.com/zebra/bluetavern/day.cfm?&year=2018&month=12&day=8", 
     "venue_address": "1206 N Monroe St", 
-    "notes": [
-      "4:30 PM", 
-      "FEE:  $0", 
-      "all acoustic jam, old-time musicall ages and skill levels welcome"
-    ], 
+    "notes": "all acoustic jam, old-time musicall ages and skill levels welcome", 
     "venue": "Blue Tavern", 
     "venue_website": "http://www.bluetaverntallahassee.com/", 
+    "slug": "old-time-jam-2018-12-08", 
+    "time": "4:30 PM", 
     "date": "2018-12-08", 
     "headliner": "Old-Time Jam", 
-    "slug": "old-time-jam-2018-12-08"
+    "price": "FEE:  $0"
   }, 
   {
     "website": "http://www.zebrawebworks.com/zebra/bluetavern/day.cfm?&year=2018&month=12&day=8", 
     "venue_address": "1206 N Monroe St", 
-    "notes": [
-      "7:00 PM", 
-      "FEE:  $5", 
-      "Jon Copps at 7 pmC.S. Holt at 10 pm$5 cover for entire evening"
-    ], 
+    "notes": "Jon Copps at 7 pmC.S. Holt at 10 pm$5 cover for entire evening", 
     "venue": "Blue Tavern", 
     "venue_website": "http://www.bluetaverntallahassee.com/", 
+    "slug": "jon-copps-c-s-holt-2018-12-08", 
+    "time": "7:00 PM", 
     "date": "2018-12-08", 
     "headliner": "Jon Copps / C.S. Holt", 
-    "slug": "jon-copps-c-s-holt-2018-12-08"
+    "price": "FEE:  $5"
   }, 
   {
     "website": "http://tallahassee.moonevents.com/events/good-vibes-0", 
@@ -1586,6 +1745,18 @@
     "notes": "Luxotica Lounge Cabaret is a lush burlesque show featuring stunning striptease talent, with a twist. Enjoy a little circus and a lot of seduction, set to exotic original tunes performed live, that turns classic cabaret on it's head. Featuring the internationally touring Whirlwind with the Crimson Grin, Vivacious Miss Audacious, bump and grind bombshell Gurl Haggard of the Rocket Doll Revue and a special guests! The swinging 4-piece band is headed by knife juggling, saxophone wunderkind, Dr. Rocktagon. As vibrant as your favorite technicolor tiki cocktail, Luxotica treats you to an evening of gals, games and high energy hip swinging replete with tassel twirling, hoop dance, sideshow, acrobatics and just enough audience participation to get you hooked. "
   }, 
   {
+    "website": "http://www.saint-john.org", 
+    "venue_address": "211 North Monroe Street, Tallahassee, FL 32301", 
+    "price": "Free", 
+    "venue": "St. John's Episcopal Church", 
+    "venue_website": "http://www.saint-john.org", 
+    "slug": "advent-lessons-and-carols-2018-12-09", 
+    "time": "6:30 pm", 
+    "date": "2018-12-09", 
+    "headliner": "Advent Lessons and Carols", 
+    "notes": "To heighten the expectancy of the Advent season, the Advent Procession, the reading of scripture, and the singing of Advent hymns, carols, and anthems combine for an introspective yet joyous musical offering, followed by a festive reception."
+  }, 
+  {
     "website": "http://www.PhillipSolomonStewart.com", 
     "venue_address": "1105 E Lafayette St, Tallahassee, FL 32301", 
     "price": "For event details contact KINGP ENTERTAINMENT: (850) 320-7836", 
@@ -1612,16 +1783,14 @@
   {
     "website": "http://www.zebrawebworks.com/zebra/bluetavern/day.cfm?&year=2018&month=12&day=10", 
     "venue_address": "1206 N Monroe St", 
-    "notes": [
-      "8:00 PM", 
-      "FEE:  $0", 
-      "Lost Mondays with Belmont & Jones  Traditional Blues      Country blues and other delights from the early days of recorded music ... Every Monday at Blue Tavern $2 for musicians; tips appreciated.$2"
-    ], 
+    "notes": "Lost Mondays with Belmont & Jones  Traditional Blues      Country blues and other delights from the early days of recorded music ... Every Monday at Blue Tavern $2 for musicians; tips appreciated.$2", 
     "venue": "Blue Tavern", 
     "venue_website": "http://www.bluetaverntallahassee.com/", 
+    "slug": "lost-mondays-traditional-blues-with-belmont-and-jones-2018-12-10", 
+    "time": "8:00 PM", 
     "date": "2018-12-10", 
     "headliner": "Lost Mondays: Traditional Blues with Belmont & Jones", 
-    "slug": "lost-mondays-traditional-blues-with-belmont-and-jones-2018-12-10"
+    "price": "FEE:  $0"
   }, 
   {
     "website": "https://openingnights.fsu.edu/events/soweto-gospel-choir/", 
@@ -1662,15 +1831,14 @@
   {
     "website": "http://www.zebrawebworks.com/zebra/bluetavern/day.cfm?&year=2018&month=12&day=11", 
     "venue_address": "1206 N Monroe St", 
-    "notes": [
-      "8:00 PM", 
-      "FEE:  $5"
-    ], 
+    "notes": "", 
     "venue": "Blue Tavern", 
     "venue_website": "http://www.bluetaverntallahassee.com/", 
+    "slug": "grant-peeples-songwriters-in-the-round-2018-12-11", 
+    "time": "8:00 PM", 
     "date": "2018-12-11", 
     "headliner": "Grant Peeples' Songwriters In The Round", 
-    "slug": "grant-peeples-songwriters-in-the-round-2018-12-11"
+    "price": "FEE:  $5"
   }, 
   {
     "website": "https://openingnights.fsu.edu/events/the-barefoot-movement/", 
@@ -1818,6 +1986,17 @@
     "notes": "After a stunning debut with the TSO at our 2017 \u201cNight at the Oscars\u201d performance, we\u2019ve invited back the\u00a0fantastic Mikki Sodergren for our Holiday Magic shows! This elegant evening will feature favorites such as \u201cThe Christmas Song,\u201d \u201cHave Yourself a Merry Little Christmas,\u201d \u201cLet it Snow\u201d and more! Holiday Magic is the perfect way to usher in the most wonderful time of the year!"
   }, 
   {
+    "website": "https://bradfordvilleblues.com/events-tickets/", 
+    "venue_address": "7152 Moses Ln", 
+    "price": "$20", 
+    "venue": "Bradfordville Blues Club", 
+    "venue_website": "https://bradfordvilleblues.com/", 
+    "time": "9:00pm", 
+    "date": "2018-12-14", 
+    "headliner": "The Watermelon Slim Band", 
+    "slug": "the-watermelon-slim-band-2018-12-14"
+  }, 
+  {
     "website": "http://tallahassee.moonevents.com/events/graduation", 
     "venue_address": "1105 E Lafayette St", 
     "price": [
@@ -1934,6 +2113,17 @@
     "notes": "Solstice Concert by Friction Farm at UUCT\nSaturday, December 22, 2018 @ 7:30 pm, SanctuaryUnitarian Universalist Church of Tallahassee (UUCT)\n2810 N. Meridian Rd.\nTallahassee, FL 32312Contact person: Ed Oaksford\u2014 (850) 556-8325\u2014 etoaksford@gmail.comModern-folk music duo Friction Farm is a husband and wife team of traveling troubadours. Aidan Quinn and Christine Stay combine storytelling, social commentary, and humor to create songs of everyday life, local heroes, and quirky observations. They have been Kerrville New Folk Finalists, Falcon Ridge Emerging Artists, and South Florida Folk Festival Songwriter winners. Friction Farm\u2019s latest CD, \u201cSo Many Stars,\u201d was inspired by their travels across the country witnessing the collision of strong political polarity with personal kindness, the intersection of fragility and breathtaking beauty. From ballads to anthems, each song is filled with harmony and hope. You can hear a sample of their music at frictionfarm.com."
   }, 
   {
+    "website": "https://bradfordvilleblues.com/events-tickets/", 
+    "venue_address": "7152 Moses Ln", 
+    "price": "$20", 
+    "venue": "Bradfordville Blues Club", 
+    "venue_website": "https://bradfordvilleblues.com/", 
+    "time": "9:00pm", 
+    "date": "2018-12-22", 
+    "headliner": "JP Soars & The Red Hots", 
+    "slug": "jp-soars-and-the-red-hots-2018-12-22"
+  }, 
+  {
     "website": "http://tallahassee.moonevents.com/events/how-moon-stole-christmas-0", 
     "venue_address": "1105 E Lafayette St", 
     "price": [
@@ -1976,6 +2166,17 @@
     "age": "Ages 21+ Only"
   }, 
   {
+    "website": "https://bradfordvilleblues.com/events-tickets/", 
+    "venue_address": "7152 Moses Ln", 
+    "price": "$20", 
+    "venue": "Bradfordville Blues Club", 
+    "venue_website": "https://bradfordvilleblues.com/", 
+    "time": "9:00pm", 
+    "date": "2018-12-29", 
+    "headliner": "Swingin\u2019 Harpoon", 
+    "slug": "swingin-harpoon-2018-12-29"
+  }, 
+  {
     "website": "http://www.fifthandthomas.com/event/jon-bellamy-and-the-rebels-2/", 
     "venue_address": "1122 Thomasville Rd", 
     "price": "No Cover", 
@@ -1987,6 +2188,17 @@
     "date": "2018-12-31", 
     "headliner": "Jon Bellamy & the Rebels", 
     "age": "Ages 21+ Only"
+  }, 
+  {
+    "website": "https://bradfordvilleblues.com/events-tickets/", 
+    "venue_address": "7152 Moses Ln", 
+    "price": "$40", 
+    "venue": "Bradfordville Blues Club", 
+    "venue_website": "https://bradfordvilleblues.com/", 
+    "time": "9:00pm", 
+    "date": "2018-12-31", 
+    "headliner": "New Years Eve Bash with The Johnnie Marshall Band", 
+    "slug": "new-years-eve-bash-with-the-johnnie-marshall-band-2018-12-31"
   }, 
   {
     "website": "http://www.catpointemusic.com", 
@@ -2630,6 +2842,18 @@
     "date": "2019-03-26", 
     "headliner": "Jimmy Webb, The Glen Campbell Years", 
     "price": "$50 | $40 | $30 | $25, $25 | $20 | $15 | $12"
+  }, 
+  {
+    "website": "https://openingnights.fsu.edu/events/jimmy-webb/", 
+    "venue_address": "222 S Copeland St, Tallahassee, FL 32304", 
+    "price": "Tickets: $50| $40| $30| $25", 
+    "venue": "Ruby Diamond Concert Hall - Florida State University", 
+    "venue_website": "http://www.music.fsu.edu/Venues/Ruby-Diamond-Concert-Hall", 
+    "slug": "jimmy-webb-the-glen-campbell-years-2019-03-26", 
+    "time": "7:30 pm (Tue)", 
+    "date": "2019-03-26", 
+    "headliner": "Jimmy Webb \"The Glen Campbell Years\"", 
+    "notes": "In 2016\u00a0Rolling\u00a0Stone\u00a0magazine listed Webb as one of the top 50 songwriters of all time. Jimmy Webb was the youngest person ever inducted into the Songwriters Hall of Fame and served as its chairman.Glen Campbell and Jimmy Webb were an unexpected pairing. Yet, Campbell and Webb became one of the most successful musical collaborations of all time. Their mutual admiration and sincere affection for one another yielded a solid friendship, more than 100 recordings and timeless chart-topping hits including \u201cBy The Time I get to Phoenix,\u201d \u201cWichita Lineman,\u201d \u201cGalveston,\u201d \u201cWhere\u2019s the Playground, Susie,\u201d and \u201cHoney Come Back\u201d among others.\u00a0"
   }, 
   {
     "website": "https://openingnights.fsu.edu/events/nate-bargatze/", 

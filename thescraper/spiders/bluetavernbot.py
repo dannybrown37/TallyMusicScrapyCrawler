@@ -64,7 +64,7 @@ class BluetavernbotSpider(scrapy.Spider):
         date[2] = date[2].zfill(2)
         concert['date'] = '-'.join(date)
 
-        # Strip \r\n spaces off the end of lines, replace with: for others
+        # Strip \r\n spaces off the end of lines, replace with : for others
         for i in range(len(concert['headliner'])):
             concert['headliner'][i] = unicode(concert['headliner'][i])\
                 .strip("\r\n").replace("\r\n", ": ")

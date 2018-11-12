@@ -15,10 +15,6 @@ def combine_json_files(dotdot=''):
     except IOError:
         moon_data = []
 
-    for concert in moon_data:
-        # Parse the slug
-        concert['slug'] = slugify(concert['headliner'], concert['date'])
-
 
     # THE WILBURY
     try:
@@ -27,10 +23,6 @@ def combine_json_files(dotdot=''):
     except IOError:
         wilbury_data = []
 
-    for concert in wilbury_data:
-        # Parse the slug
-        concert['slug'] = slugify(concert['headliner'], concert['date'])
-
 
     # FIFTH AND THOMAS
     try:
@@ -38,10 +30,6 @@ def combine_json_files(dotdot=''):
             fifththomas_data = json.load(f)
     except IOError:
         fifththomas_data = []
-
-    for concert in fifththomas_data:
-        # Parse the slug
-        concert['slug'] = slugify(concert['headliner'], concert['date'])
 
 
     # OPENING NIGHTS
@@ -52,13 +40,6 @@ def combine_json_files(dotdot=''):
     except IOError:
         openingnights_data = []
 
-    for concert in openingnights_data:
-        # Parse the slug
-        concert['slug'] = slugify(concert['headliner'], concert['date'])
-
-        # Parse unicode characters out of the venue
-        concert['venue'] = concert['venue'].replace(u"�", "'")
-
 
     # THE JUNCTION AT MONROE
     try:
@@ -66,10 +47,6 @@ def combine_json_files(dotdot=''):
             junction_data = json.load(f)
     except IOError:
         junction_data = []
-
-    for concert in junction_data:
-        # Parse the slug
-        concert['slug'] = slugify(concert['headliner'], concert['date'])
 
 
     # COCA
@@ -79,10 +56,6 @@ def combine_json_files(dotdot=''):
     except IOError:
         coca_data = []
 
-    for concert in coca_data:
-        # Parse the concert slug
-        concert['slug'] = slugify(concert['headliner'], concert['date'])
-
 
     # BLUE TAVERN
     try:
@@ -91,9 +64,14 @@ def combine_json_files(dotdot=''):
     except IOError:
         blue_data = []
 
-    for concert in blue_data:
-        # Create the slug
-        concert['slug'] = slugify(concert['headliner'], concert['date'])
+
+    # BRADFORDVILLE BLUES CLUB
+    try:
+        with open(dotdot + 'output/bbcoutput.json') as f:
+            bbc_data = json.load(f)
+    except IOError:
+        bbc_data = []
+
 ###############################################################################
 
     # Combine all our data so far
@@ -104,7 +82,8 @@ def combine_json_files(dotdot=''):
         openingnights_data,
         junction_data,
         coca_data,
-        blue_data
+        blue_data,
+        bbc_data
     ]
 
     # Combine each list of dicts into a master list of dicts
@@ -112,6 +91,10 @@ def combine_json_files(dotdot=''):
     for sub_data in data:
         for item in sub_data:
             master.append(item)
+
+    # Add a slug for every concert
+    for concert in master:
+        concert['slug'] = slugify(concert['headliner'], concert['date'])
 
     # Sort the list of dicts by date
     master.sort(key=lambda item:item['date'], reverse=False)

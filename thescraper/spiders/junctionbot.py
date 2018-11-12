@@ -2,7 +2,6 @@
 import scrapy
 import dateparser
 import datetime
-from scrapy.selector import HtmlXPathSelector
 
 
 class JunctionbotSpider(scrapy.Spider):
@@ -26,19 +25,19 @@ class JunctionbotSpider(scrapy.Spider):
             return response.css(query).extract_first()
 
         concert = {
-            'headliner' : HtmlXPathSelector(response).select(
+            'headliner' : response.xpath(
                 "//div[@class='row']/h1/text()").extract_first(),
-            'date_time' : HtmlXPathSelector(response).select(
+            'date_time' : response.xpath(
                 "//div[@class='row']/div/text()").extract_first().strip(),
-            'cover' : HtmlXPathSelector(response).select(
+            'cover' : response.xpath(
                 "//div[@class='row']/b/text()").extract_first(),
-            'ticket_prices' : HtmlXPathSelector(response).select(
+            'ticket_prices' : response.xpath(
                 "//td[@style='width:10%']/b/text()").extract(),
             'website' : response.request.url,
             'venue' : "The Junction at Monroe",
             'venue_address' : '2011 S Monroe St',
             'venue_website' : 'http://junctionatmonroe.com/',
-            'notes' : HtmlXPathSelector(response).select(
+            'notes' : response.xpath(
                 "//div[@class='row']/div[2]/text()"
             ).extract()
         }

@@ -6,7 +6,7 @@ from email.mime.multipart import MIMEMultipart
 from email.mime.application import MIMEApplication
 from email.utils import formatdate
 
-def send_email():
+def send_email(dotdot=''):
     date = datetime.datetime.now()
     date = str(date.date())
     subject = "Tally Shows for the Week of %s" % date
@@ -21,7 +21,7 @@ def send_email():
 
     file_name = "concerts-%s.json" % date
 
-    with open("parsed_output/%s" % file_name) as f:
+    with open(dotdot + "parsed_output/%s" % file_name) as f:
         part = MIMEApplication(
             f.read(),
             Name=file_name
@@ -42,4 +42,4 @@ def send_email():
     server.quit()
 
 if __name__ == '__main__':
-    send_email()
+    send_email(dotdot='../')
