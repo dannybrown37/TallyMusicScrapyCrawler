@@ -64,6 +64,6 @@ class MoonbotSpider(scrapy.Spider):
     def parse_ticket_price(self, response):
         item = response.meta['item']
         item['price'] = HtmlXPathSelector(response).select(
-            "//tr[@class='ListRow']/td/b/text()"
-        ).extract()
+            "//tr[@class='ListRow']/td/b/text()").extract()
+        item['price'] = ', '.join(item['price'])
         yield item

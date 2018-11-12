@@ -1,26 +1,8 @@
 [
   {
-    "website": "http://tallahassee.moonevents.com/events/thanksgiving-ladies-night",
-    "venue_address": "1105 E Lafayette St",
-    "price": [
-      "Express Entry Web 20.00"
-    ],
-    "venue": "The Moon",
-    "ticket_link": "https://tickets.moonevents.com/GeneralAdmission?sid=842",
-    "venue_website": "http://tallahassee.moonevents.com/events",
-    "notes": "Thanksgiving Ladies Night",
-    "time": "Doors open at: 10:00PM // Show starts at: 10:00PM",
-    "date": "2018-11-21",
-    "headliner": "Thanksgiving ladies Night",
-    "support": ""
-  },
-  {
     "website": "http://tallahassee.moonevents.com/node/905",
     "venue_address": "1105 E Lafayette St",
-    "price": [
-      "GA Web 5.00",
-      "ML Reserved WEB 20.00"
-    ],
+    "price": "GA Web 5.00, ML Reserved WEB 20.00",
     "venue": "The Moon",
     "ticket_link": "https://tickets.moonevents.com/GeneralAdmission?sid=841",
     "venue_website": "http://tallahassee.moonevents.com/events",
@@ -31,132 +13,22 @@
     "support": ""
   },
   {
-    "website": "http://tallahassee.moonevents.com/events/big-gigantic",
+    "website": "http://tallahassee.moonevents.com/events/thanksgiving-ladies-night",
     "venue_address": "1105 E Lafayette St",
-    "price": [
-      "GA 2 Web 34.00"
-    ],
+    "price": "Express Entry Web 20.00",
     "venue": "The Moon",
-    "ticket_link": "https://tickets.moonevents.com/GeneralAdmission?sid=809",
+    "ticket_link": "https://tickets.moonevents.com/GeneralAdmission?sid=842",
     "venue_website": "http://tallahassee.moonevents.com/events",
-    "notes": "AEG & SCOTT CARSWELL PRESENT",
-    "time": "Doors open at: 8:00PM // Show starts at: 9:00PM",
-    "date": "2018-11-15",
-    "headliner": "BIG GIGANTIC",
-    "support": ""
-  },
-  {
-    "website": "http://tallahassee.moonevents.com/events/rita-coolidge",
-    "venue_address": "1105 E Lafayette St",
-    "price": [],
-    "venue": "The Moon",
-    "ticket_link": "https://tickets.moonevents.com/BuyTickets?sid=839",
-    "venue_website": "http://tallahassee.moonevents.com/events",
-    "notes": "Rita Coolidge",
-    "time": "Doors open at: 6:00PM // Show starts at: 7:00PM",
-    "date": "2019-01-10",
-    "headliner": "RITA COOLIDGE",
-    "support": ""
-  },
-  {
-    "website": "http://tallahassee.moonevents.com/events/how-moon-stole-christmas-0",
-    "venue_address": "1105 E Lafayette St",
-    "price": [
-      "Express Entry Web 20.00"
-    ],
-    "venue": "The Moon",
-    "ticket_link": "https://tickets.moonevents.com/GeneralAdmission?sid=793",
-    "venue_website": "http://tallahassee.moonevents.com/events",
-    "notes": "How The Moon Stole Christmas Part 2",
+    "notes": "Thanksgiving Ladies Night",
     "time": "Doors open at: 10:00PM // Show starts at: 10:00PM",
-    "date": "2018-12-25",
-    "headliner": "How The Moon Stole Christmas",
-    "support": ""
-  },
-  {
-    "website": "http://tallahassee.moonevents.com/events/graduation",
-    "venue_address": "1105 E Lafayette St",
-    "price": [
-      "Express Entry Web 20.00"
-    ],
-    "venue": "The Moon",
-    "ticket_link": "https://tickets.moonevents.com/GeneralAdmission?sid=847",
-    "venue_website": "http://tallahassee.moonevents.com/events",
-    "notes": "The Official Graduation Party",
-    "time": "Doors open at: 10:00PM // Show starts at: 10:00PM",
-    "date": "2018-12-15",
-    "headliner": "GRADUATION",
-    "support": ""
-  },
-  {
-    "website": "http://tallahassee.moonevents.com/events/tallahassee-nights-live-26",
-    "venue_address": "1105 E Lafayette St",
-    "price": [],
-    "venue": "The Moon",
-    "ticket_link": "https://tickets.moonevents.com/BuyTickets?sid=846",
-    "venue_website": "http://tallahassee.moonevents.com/events",
-    "notes": "Tallahassee Nights Live",
-    "time": "Doors open at: 6:00PM // Show starts at: 7:00PM",
-    "date": "2018-12-16",
-    "headliner": "TALLAHASSEE NIGHTS LIVE",
-    "support": ""
-  },
-  {
-    "website": "http://tallahassee.moonevents.com/events/los-lobos",
-    "venue_address": "1105 E Lafayette St",
-    "price": [
-      "GA Web 25.00",
-      "ML Reserved WEB 35.00"
-    ],
-    "venue": "The Moon",
-    "ticket_link": "https://tickets.moonevents.com/GeneralAdmission?sid=845",
-    "venue_website": "http://tallahassee.moonevents.com/events",
-    "notes": "Los Lobos",
-    "time": "Doors open at: 6:30PM // Show starts at: 7:30PM",
-    "date": "2019-02-20",
-    "headliner": "LOS LOBOS",
-    "support": ""
-  },
-  {
-    "website": "http://tallahassee.moonevents.com/events/jeezy",
-    "venue_address": "1105 E Lafayette St",
-    "price": [
-      "Express Entry Web 50.00",
-      "VIP STAGE WEB 200.00"
-    ],
-    "venue": "The Moon",
-    "ticket_link": "https://tickets.moonevents.com/GeneralAdmission?sid=834",
-    "venue_website": "http://tallahassee.moonevents.com/events",
-    "notes": "DJ DEMP'S B-Day Celebration",
-    "time": "Doors open at: 10:00PM // Show starts at: 10:00PM",
-    "date": "2019-01-12",
-    "headliner": "JEEZY",
-    "support": ""
-  },
-  {
-    "website": "http://tallahassee.moonevents.com/events/neko-case",
-    "venue_address": "1105 E Lafayette St",
-    "price": [
-      "GA Web 30.00",
-      "LR Reserved Web 40.00",
-      "MR Reserved WEB 40.00"
-    ],
-    "venue": "The Moon",
-    "ticket_link": "https://tickets.moonevents.com/GeneralAdmission?sid=844",
-    "venue_website": "http://tallahassee.moonevents.com/events",
-    "notes": "Neko Case",
-    "time": "Doors open at: 7:00PM // Show starts at: 8:00PM",
-    "date": "2019-02-04",
-    "headliner": "NEKO CASE",
+    "date": "2018-11-21",
+    "headliner": "Thanksgiving ladies Night",
     "support": ""
   },
   {
     "website": "http://tallahassee.moonevents.com/events/clay-walker-0",
     "venue_address": "1105 E Lafayette St",
-    "price": [
-      "GA ADV WEB 25.00",
-      "ML Reserved WEB 40.00"
-    ],
+    "price": "GA ADV WEB 25.00, ML Reserved WEB 40.00",
     "venue": "The Moon",
     "ticket_link": "https://tickets.moonevents.com/GeneralAdmission?sid=831",
     "venue_website": "http://tallahassee.moonevents.com/events",
@@ -167,26 +39,9 @@
     "support": ""
   },
   {
-    "website": "http://tallahassee.moonevents.com/events/good-vibes-0",
-    "venue_address": "1105 E Lafayette St",
-    "price": [
-      "GEN ADM WEB 25.00"
-    ],
-    "venue": "The Moon",
-    "ticket_link": "https://tickets.moonevents.com/GeneralAdmission?sid=843",
-    "venue_website": "http://tallahassee.moonevents.com/events",
-    "notes": "Concert Featuring",
-    "time": "Doors open at: 6:00PM // Show starts at: 7:00PM",
-    "date": "2018-12-09",
-    "headliner": "Good Vibes",
-    "support": ""
-  },
-  {
     "website": "http://tallahassee.moonevents.com/events/car-seat-headrest",
     "venue_address": "1105 E Lafayette St",
-    "price": [
-      "GA ADV WEB 20.00"
-    ],
+    "price": "GA ADV WEB 20.00",
     "venue": "The Moon",
     "ticket_link": "https://tickets.moonevents.com/GeneralAdmission?sid=837",
     "venue_website": "http://tallahassee.moonevents.com/events",
@@ -197,11 +52,61 @@
     "support": ""
   },
   {
+    "website": "http://tallahassee.moonevents.com/events/jeezy",
+    "venue_address": "1105 E Lafayette St",
+    "price": "Express Entry Web 50.00, VIP STAGE WEB 200.00",
+    "venue": "The Moon",
+    "ticket_link": "https://tickets.moonevents.com/GeneralAdmission?sid=834",
+    "venue_website": "http://tallahassee.moonevents.com/events",
+    "notes": "DJ DEMP'S B-Day Celebration",
+    "time": "Doors open at: 10:00PM // Show starts at: 10:00PM",
+    "date": "2019-01-12",
+    "headliner": "JEEZY",
+    "support": ""
+  },
+  {
+    "website": "http://tallahassee.moonevents.com/events/tallahassee-nights-live-26",
+    "venue_address": "1105 E Lafayette St",
+    "price": "",
+    "venue": "The Moon",
+    "ticket_link": "https://tickets.moonevents.com/BuyTickets?sid=846",
+    "venue_website": "http://tallahassee.moonevents.com/events",
+    "notes": "Tallahassee Nights Live",
+    "time": "Doors open at: 6:00PM // Show starts at: 7:00PM",
+    "date": "2018-12-16",
+    "headliner": "TALLAHASSEE NIGHTS LIVE",
+    "support": ""
+  },
+  {
+    "website": "http://tallahassee.moonevents.com/events/how-moon-stole-christmas-0",
+    "venue_address": "1105 E Lafayette St",
+    "price": "Express Entry Web 20.00",
+    "venue": "The Moon",
+    "ticket_link": "https://tickets.moonevents.com/GeneralAdmission?sid=793",
+    "venue_website": "http://tallahassee.moonevents.com/events",
+    "notes": "How The Moon Stole Christmas Part 2",
+    "time": "Doors open at: 10:00PM // Show starts at: 10:00PM",
+    "date": "2018-12-25",
+    "headliner": "How The Moon Stole Christmas",
+    "support": ""
+  },
+  {
+    "website": "http://tallahassee.moonevents.com/events/rita-coolidge",
+    "venue_address": "1105 E Lafayette St",
+    "price": "",
+    "venue": "The Moon",
+    "ticket_link": "https://tickets.moonevents.com/BuyTickets?sid=839",
+    "venue_website": "http://tallahassee.moonevents.com/events",
+    "notes": "Rita Coolidge",
+    "time": "Doors open at: 6:00PM // Show starts at: 7:00PM",
+    "date": "2019-01-10",
+    "headliner": "RITA COOLIDGE",
+    "support": ""
+  },
+  {
     "website": "http://tallahassee.moonevents.com/events/noname",
     "venue_address": "1105 E Lafayette St",
-    "price": [
-      "GA ADV WEB 22.00"
-    ],
+    "price": "GA ADV WEB 22.00",
     "venue": "The Moon",
     "ticket_link": "https://tickets.moonevents.com/GeneralAdmission?sid=829",
     "venue_website": "http://tallahassee.moonevents.com/events",
@@ -209,6 +114,71 @@
     "time": "Doors open at: 7:00PM // Show starts at: 8:00PM",
     "date": "2019-01-19",
     "headliner": "Noname",
+    "support": ""
+  },
+  {
+    "website": "http://tallahassee.moonevents.com/events/neko-case",
+    "venue_address": "1105 E Lafayette St",
+    "price": "GA Web 30.00, LR Reserved Web 40.00, MR Reserved WEB 40.00",
+    "venue": "The Moon",
+    "ticket_link": "https://tickets.moonevents.com/GeneralAdmission?sid=844",
+    "venue_website": "http://tallahassee.moonevents.com/events",
+    "notes": "Neko Case",
+    "time": "Doors open at: 7:00PM // Show starts at: 8:00PM",
+    "date": "2019-02-04",
+    "headliner": "NEKO CASE",
+    "support": ""
+  },
+  {
+    "website": "http://tallahassee.moonevents.com/events/los-lobos",
+    "venue_address": "1105 E Lafayette St",
+    "price": "GA Web 25.00, ML Reserved WEB 35.00",
+    "venue": "The Moon",
+    "ticket_link": "https://tickets.moonevents.com/GeneralAdmission?sid=845",
+    "venue_website": "http://tallahassee.moonevents.com/events",
+    "notes": "Los Lobos",
+    "time": "Doors open at: 6:30PM // Show starts at: 7:30PM",
+    "date": "2019-02-20",
+    "headliner": "LOS LOBOS",
+    "support": ""
+  },
+  {
+    "website": "http://tallahassee.moonevents.com/events/big-gigantic",
+    "venue_address": "1105 E Lafayette St",
+    "price": "GA 2 Web 34.00",
+    "venue": "The Moon",
+    "ticket_link": "https://tickets.moonevents.com/GeneralAdmission?sid=809",
+    "venue_website": "http://tallahassee.moonevents.com/events",
+    "notes": "AEG & SCOTT CARSWELL PRESENT",
+    "time": "Doors open at: 8:00PM // Show starts at: 9:00PM",
+    "date": "2018-11-15",
+    "headliner": "BIG GIGANTIC",
+    "support": ""
+  },
+  {
+    "website": "http://tallahassee.moonevents.com/events/graduation",
+    "venue_address": "1105 E Lafayette St",
+    "price": "Express Entry Web 20.00",
+    "venue": "The Moon",
+    "ticket_link": "https://tickets.moonevents.com/GeneralAdmission?sid=847",
+    "venue_website": "http://tallahassee.moonevents.com/events",
+    "notes": "The Official Graduation Party",
+    "time": "Doors open at: 10:00PM // Show starts at: 10:00PM",
+    "date": "2018-12-15",
+    "headliner": "GRADUATION",
+    "support": ""
+  },
+  {
+    "website": "http://tallahassee.moonevents.com/events/good-vibes-0",
+    "venue_address": "1105 E Lafayette St",
+    "price": "GEN ADM WEB 25.00",
+    "venue": "The Moon",
+    "ticket_link": "https://tickets.moonevents.com/GeneralAdmission?sid=843",
+    "venue_website": "http://tallahassee.moonevents.com/events",
+    "notes": "Concert Featuring",
+    "time": "Doors open at: 6:00PM // Show starts at: 7:00PM",
+    "date": "2018-12-09",
+    "headliner": "Good Vibes",
     "support": ""
   }
 ]
