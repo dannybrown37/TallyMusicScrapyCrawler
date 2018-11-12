@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 import scrapy
 import dateparser
-from scrapy.selector import HtmlXPathSelector
 
 
 class BbcbotSpider(scrapy.Spider):
