@@ -72,6 +72,14 @@ def combine_json_files(dotdot=''):
     except IOError:
         bbc_data = []
 
+
+    # FSU
+    try:
+        with open(dotdot + 'output/fsuoutput.json') as f:
+            fsu_data = json.load(f)
+    except IOError:
+        fsu_data = []
+
 ###############################################################################
 
     # Combine all our data so far
@@ -83,7 +91,8 @@ def combine_json_files(dotdot=''):
         junction_data,
         coca_data,
         blue_data,
-        bbc_data
+        bbc_data,
+        fsu_data
     ]
 
     # Combine each list of dicts into a master list of dicts
