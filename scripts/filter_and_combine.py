@@ -7,14 +7,12 @@ import dateparser
 
 
 def combine_json_files(dotdot=''):
-
     # THE MOON
     try:
         with open(dotdot + 'output/moonoutput.json') as f:
             moon_data = json.load(f)
     except IOError:
         moon_data = []
-
 
     # THE WILBURY
     try:
@@ -23,14 +21,12 @@ def combine_json_files(dotdot=''):
     except IOError:
         wilbury_data = []
 
-
     # FIFTH AND THOMAS
     try:
         with open(dotdot + 'output/fifththomasoutput.json') as f:
             fifththomas_data = json.load(f)
     except IOError:
         fifththomas_data = []
-
 
     # OPENING NIGHTS
     try:
@@ -40,14 +36,12 @@ def combine_json_files(dotdot=''):
     except IOError:
         openingnights_data = []
 
-
     # THE JUNCTION AT MONROE
     try:
         with open(dotdot + 'output/junctionoutput.json') as f:
             junction_data = json.load(f)
     except IOError:
         junction_data = []
-
 
     # COCA
     try:
@@ -56,14 +50,12 @@ def combine_json_files(dotdot=''):
     except IOError:
         coca_data = []
 
-
     # BLUE TAVERN
     try:
         with open(dotdot + 'output/bluetavernoutput.json') as f:
             blue_data = json.load(f)
     except IOError:
         blue_data = []
-
 
     # BRADFORDVILLE BLUES CLUB
     try:
@@ -72,13 +64,19 @@ def combine_json_files(dotdot=''):
     except IOError:
         bbc_data = []
 
-
     # FSU
     try:
         with open(dotdot + 'output/fsuoutput.json') as f:
             fsu_data = json.load(f)
     except IOError:
         fsu_data = []
+
+    # CDU
+    try:
+        with open(dotdot + 'output/cduoutput.json') as f:
+            cdu_data = json.load(f)
+    except IOError:
+        cdu_data = []
 
 ###############################################################################
 
@@ -92,7 +90,8 @@ def combine_json_files(dotdot=''):
         coca_data,
         blue_data,
         bbc_data,
-        fsu_data
+        fsu_data,
+        cdu_data
     ]
 
     # Combine each list of dicts into a master list of dicts

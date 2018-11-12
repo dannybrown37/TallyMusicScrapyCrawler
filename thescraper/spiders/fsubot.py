@@ -65,7 +65,7 @@ class FsubotSpider(scrapy.Spider):
         fsu_venues = [
             {
                 # I lazily didn't want to figure out the weird character in
-                # Dohnányi Recital Hall, lazily handled below instead 
+                # Dohnányi Recital Hall, lazily handled below instead
                 "venue" : "yi Recital Hall",
                 "venue_address" : "122 N Copeland St",
                 "venue_website" : root + "dohnanyi_recital_hall_drh",

@@ -175,6 +175,16 @@
     "price": "FEE:  $2"
   }, 
   {
+    "website": "https://calendar.fsu.edu/event/cdu_presents_ian_sweet_at_the_wilbury?utm_campaign=widget&utm_medium=widget&utm_source=Florida+State+University+Calendar", 
+    "venue_address": "513 W Gaines St, Tallahassee, FL 32301", 
+    "notes": "Monday, November 12th\nClub Downunder presents:\n\nw/ TBA\n\nDoors 8:30//Show 9:30\nFree for FSU Students w/ valid Gold ID\nFree for all\u00a0\n18+\n\n//IAN SWEET//\nNervy indie pop trio Ian Sweet began as the solo vehicle for singer, songwriter, and guitarist Jilian Medford. While still living in Boston, Medford had been recording and performing as a solo artist under the moniker Ian, an old high school nickname bestowed upon her by her skater friends. A last minute cancellation by a touring drummer in 2014 led her to work with Tim Cheney, with whom she quickly forged a creative connection and burgeoning friendship. By the time she recruited bassist Damien Scalise, the project had evolved from a solo endeavor to a trio, and they adopted the new name Ian Sweet. Musically complex, yet undeniably hooky, Medford's songs confronted themes of anxiety and panic with bright-toned guitar pop and references to Nickelodeon's Slime Time Live, Michael Jordan, and skateboarding. After settling in Brooklyn, the group signed with Hardly Art and released their self-titled debut EP in the summer of 2016. It was followed a few months later by Shapeshifter, their full-length debut.", 
+    "venue": "The Wilbury", 
+    "time": "8:30pm", 
+    "date": "2018-11-12", 
+    "headliner": "IAN SWEET", 
+    "slug": "ian-sweet-2018-11-12"
+  }, 
+  {
     "website": "http://www.capitalcitymusictherapy.com/events", 
     "venue_address": "6668 Thomasville Road, Suite 18, Tallahassee, FL 32312", 
     "price": "$8 per family", 
@@ -258,18 +268,6 @@
     "notes": "Unless otherwise noted, all events are free admission and open to the public. Please see\u00a0\n\n\u00a0for information about the College of Music venues."
   }, 
   {
-    "website": "https://calendar.fsu.edu/event/senior_project_recital_-_gabrielle_sanchez_flute_and_shawna_trainor_oboe", 
-    "venue_address": "114 N Copeland St", 
-    "price": "Free and open to the public", 
-    "venue": "Lindsay Recital Hall", 
-    "venue_website": "https://calendar.fsu.edu/lindsay_recital_hall_lrh", 
-    "slug": "senior-project-recital-gabrielle-sanchez-flute-and-shawna-trainor-oboe-2018-11-13", 
-    "time": "7:30pm", 
-    "date": "2018-11-13", 
-    "headliner": "Senior Project Recital - Gabrielle Sanchez, flute and Shawna Trainor, oboe", 
-    "notes": "flute, music, Lindsay, oboe\n\nUnless otherwise noted, all events are free admission and open to the public. Please see http://www.music.fsu.edu/Concerts-and-Events for information about the College of Music venues."
-  }, 
-  {
     "website": "https://calendar.fsu.edu/event/viola_studio_recital_students_of_pam_ryan", 
     "venue_address": "122 N Copeland St", 
     "price": "Free and open to the public", 
@@ -280,6 +278,18 @@
     "date": "2018-11-13", 
     "headliner": "Viola Studio Recital \u2013 Students of Pam Ryan", 
     "notes": "DRH, Dohnanyi, music, Dohn\u00e1nyi, viola\n\nUnless otherwise noted, all events are free admission and open to the public. Please see\u00a0\n\n\u00a0for information about the College of Music venues."
+  }, 
+  {
+    "website": "https://calendar.fsu.edu/event/senior_project_recital_-_gabrielle_sanchez_flute_and_shawna_trainor_oboe", 
+    "venue_address": "114 N Copeland St", 
+    "price": "Free and open to the public", 
+    "venue": "Lindsay Recital Hall", 
+    "venue_website": "https://calendar.fsu.edu/lindsay_recital_hall_lrh", 
+    "slug": "senior-project-recital-gabrielle-sanchez-flute-and-shawna-trainor-oboe-2018-11-13", 
+    "time": "7:30pm", 
+    "date": "2018-11-13", 
+    "headliner": "Senior Project Recital - Gabrielle Sanchez, flute and Shawna Trainor, oboe", 
+    "notes": "flute, music, Lindsay, oboe\n\nUnless otherwise noted, all events are free admission and open to the public. Please see http://www.music.fsu.edu/Concerts-and-Events for information about the College of Music venues."
   }, 
   {
     "website": "https://www.tallahasseearts.org/event/university-wind-orchestra-4/", 
@@ -388,18 +398,6 @@
     "price": "FEE:  $2"
   }, 
   {
-    "website": "https://calendar.fsu.edu/event/university_wind_orchestra_5007", 
-    "venue_address": "222 S Copeland St", 
-    "price": "Free and open to the public", 
-    "venue": "Ruby Diamond Concert Hall", 
-    "venue_website": "https://calendar.fsu.edu/ruby_diamond_rdch", 
-    "slug": "university-wind-orchestra-2018-11-14", 
-    "time": "7:30pm", 
-    "date": "2018-11-14", 
-    "headliner": "University Wind Orchestra", 
-    "notes": "orchestra, free, music, FSU, ruby, wind\n\nUnless otherwise noted, all events are free admission and open to the public. Please see http://www.music.fsu.edu/Concerts-and-Events for information about the College of Music venues."
-  }, 
-  {
     "website": "https://calendar.fsu.edu/event/junior_recital_-_dia_nina_donfrancesco_viola", 
     "venue_address": "126 Convocation Way", 
     "price": null, 
@@ -422,6 +420,28 @@
     "date": "2018-11-14", 
     "headliner": "Doctoral Solo Recital - Nathan Ingrim, oboe", 
     "notes": "DRH, music, Dohnanyi, Dohn\u00e1nyi, oboe\n\nUnless otherwise noted, all events are free admission and open to the public. Please see http://www.music.fsu.edu/Concerts-and-Events for information about the College of Music venues."
+  }, 
+  {
+    "website": "https://calendar.fsu.edu/event/university_wind_orchestra_5007", 
+    "venue_address": "222 S Copeland St", 
+    "price": "Free and open to the public", 
+    "venue": "Ruby Diamond Concert Hall", 
+    "venue_website": "https://calendar.fsu.edu/ruby_diamond_rdch", 
+    "slug": "university-wind-orchestra-2018-11-14", 
+    "time": "7:30pm", 
+    "date": "2018-11-14", 
+    "headliner": "University Wind Orchestra", 
+    "notes": "orchestra, free, music, FSU, ruby, wind\n\nUnless otherwise noted, all events are free admission and open to the public. Please see http://www.music.fsu.edu/Concerts-and-Events for information about the College of Music venues."
+  }, 
+  {
+    "website": "https://calendar.fsu.edu/event/cdu_presents_sports_at_the_wilbury?utm_campaign=widget&utm_medium=widget&utm_source=Florida+State+University+Calendar", 
+    "venue_address": "513 W Gaines St, Tallahassee, FL 32301", 
+    "notes": "Wednesday, November 14th\nClub Downunder presents:\n\nw/\u00a0\n\nDoors 8:30//Show 9:30\nFree for FSU Students w/ valid Gold ID\nFree for all\u00a0\n18+\n\n//SPORTS//\nOklahoma dream pop band Sports began playing together in grade school, cycling through different names until deciding to adopt a cheeky moniker after their self-described lack of athleticism. Bassist Jacob Theriot and guitarist Christian Theriot are brothers, forming the core trio with friend and vocalist Cale Chronister. Their '80s-influenced breezy indie pop sound informed much of their debut LP, Naked All the Time, which was recorded at Blackwatch Studio in Norman, Oklahoma, and released in late 2015. The following year, the band released its sophomore effort, the groove-heavy People Can't Stop Chillin'.", 
+    "venue": "The Wilbury", 
+    "time": "8:30pm", 
+    "date": "2018-11-14", 
+    "headliner": "Sports", 
+    "slug": "sports-2018-11-14"
   }, 
   {
     "website": "http://tallahassee.moonevents.com/events/big-gigantic", 
@@ -521,18 +541,6 @@
     "price": "FEE:  $2"
   }, 
   {
-    "website": "https://calendar.fsu.edu/event/guest_artist_recital_charles_villarrubia_tuba", 
-    "venue_address": "126 Convocation Way", 
-    "price": "Free and open to the public", 
-    "venue": "Longmire Recital Hall", 
-    "venue_website": "https://calendar.fsu.edu/longmire_recital_hall_lon", 
-    "slug": "guest-artist-recital-charles-villarrubia-tuba-2018-11-15", 
-    "time": "7:30pm", 
-    "date": "2018-11-15", 
-    "headliner": "Guest Artist Recital \u2013 Charles Villarrubia, tuba", 
-    "notes": "free, Guest, tuba, music, FSU, Villarrubia\n\nUnless otherwise noted, all events are free admission and open to the public. Please see\u00a0\n\n\u00a0for information about the College of Music venues."
-  }, 
-  {
     "website": "https://calendar.fsu.edu/event/jazz_combo_concert_1265", 
     "venue_address": "122 N Copeland St", 
     "price": "FREE", 
@@ -543,6 +551,18 @@
     "date": "2018-11-15", 
     "headliner": "Jazz Combo Concert", 
     "notes": "jazz, music, FSU, free, combo\n\nUnless otherwise noted, all events are free admission and open to the public. Please see\u00a0\n\n\u00a0for information about the College of Music venues."
+  }, 
+  {
+    "website": "https://calendar.fsu.edu/event/guest_artist_recital_charles_villarrubia_tuba", 
+    "venue_address": "126 Convocation Way", 
+    "price": "Free and open to the public", 
+    "venue": "Longmire Recital Hall", 
+    "venue_website": "https://calendar.fsu.edu/longmire_recital_hall_lon", 
+    "slug": "guest-artist-recital-charles-villarrubia-tuba-2018-11-15", 
+    "time": "7:30pm", 
+    "date": "2018-11-15", 
+    "headliner": "Guest Artist Recital \u2013 Charles Villarrubia, tuba", 
+    "notes": "free, Guest, tuba, music, FSU, Villarrubia\n\nUnless otherwise noted, all events are free admission and open to the public. Please see\u00a0\n\n\u00a0for information about the College of Music venues."
   }, 
   {
     "website": "https://calendar.fsu.edu/event/guest_artist_lecture_-_edward_kottick_harpsichord", 
@@ -710,18 +730,6 @@
     "slug": "the-jeff-jensen-band-2018-11-16"
   }, 
   {
-    "website": "https://calendar.fsu.edu/event/university_philharmonia_4578", 
-    "venue_address": "114 N Copeland St", 
-    "price": "FREE", 
-    "venue": "Opperman Music Hall", 
-    "venue_website": "https://calendar.fsu.edu/opperman_music_hall_omh", 
-    "slug": "university-philharmonia-2018-11-16", 
-    "time": "7:30pm", 
-    "date": "2018-11-16", 
-    "headliner": "University Philharmonia", 
-    "notes": "Philharmonia, music, FSU, free\n\nUnless otherwise noted, all events are free admission and open to the public. Please see\u00a0\n\n\u00a0for information about the College of Music venues."
-  }, 
-  {
     "website": "https://calendar.fsu.edu/event/senior_project_recital_-_kevin_imes_bass_trombone", 
     "venue_address": "126 Convocation Way", 
     "price": null, 
@@ -732,6 +740,18 @@
     "date": "2018-11-16", 
     "headliner": "Senior Project Recital - Kevin Imes, bass trombone", 
     "notes": "concert, longmire, LON, Recital, free, music, trombone\n\nUnless otherwise noted, all events are free admission and open to the public. Please see http://www.music.fsu.edu/Concerts-and-Events for information about the College of Music venues."
+  }, 
+  {
+    "website": "https://calendar.fsu.edu/event/university_philharmonia_4578", 
+    "venue_address": "114 N Copeland St", 
+    "price": "FREE", 
+    "venue": "Opperman Music Hall", 
+    "venue_website": "https://calendar.fsu.edu/opperman_music_hall_omh", 
+    "slug": "university-philharmonia-2018-11-16", 
+    "time": "7:30pm", 
+    "date": "2018-11-16", 
+    "headliner": "University Philharmonia", 
+    "notes": "Philharmonia, music, FSU, free\n\nUnless otherwise noted, all events are free admission and open to the public. Please see\u00a0\n\n\u00a0for information about the College of Music venues."
   }, 
   {
     "website": "https://calendar.fsu.edu/event/guest_artist_lecture_-_edward_kottick_harpsichord_1757", 
@@ -878,6 +898,18 @@
     "notes": "concert, longmire, Recital, free, music, trombone\n\nUnless otherwise noted, all events are free admission and open to the public. Please see http://www.music.fsu.edu/Concerts-and-Events for information about the College of Music venues."
   }, 
   {
+    "website": "https://calendar.fsu.edu/event/senior_project_recital_-_emma_harmon_soprano_and_breanna_hall_soprano", 
+    "venue_address": "2200 N Meridian Rd, Tallahassee, FL", 
+    "price": "Free and open to the public", 
+    "venue": "Faith Presbyterian Church", 
+    "venue_website": null, 
+    "slug": "senior-project-recital-emma-harmon-soprano-and-breanna-hall-soprano-2018-11-17", 
+    "time": "2:00pm", 
+    "date": "2018-11-17", 
+    "headliner": "Senior Project Recital - Emma Harmon, soprano and Breanna Hall, soprano", 
+    "notes": "Soprano, voice, music, FSU, free\n\nUnless otherwise noted, all events are free admission and open to the public. Please see http://www.music.fsu.edu/Concerts-and-Events for information about the College of Music venues."
+  }, 
+  {
     "website": "https://calendar.fsu.edu/event/doctoral_chamber_recital_-_jesse_mcconnell_tuba", 
     "venue_address": "122 N Copeland St", 
     "price": "Free and open to the public", 
@@ -900,18 +932,6 @@
     "date": "2018-11-17", 
     "headliner": "Doctoral Solo Recital - Nina Scheibe, bassoon", 
     "notes": "bassoon, DRH, music, Dohnanyi, Dohn\u00e1nyi\n\nUnless otherwise noted, all events are free admission and open to the public. Please see http://www.music.fsu.edu/Concerts-and-Events for information about the College of Music venues."
-  }, 
-  {
-    "website": "https://calendar.fsu.edu/event/senior_project_recital_-_emma_harmon_soprano_and_breanna_hall_soprano", 
-    "venue_address": "2200 N Meridian Rd, Tallahassee, FL", 
-    "price": "Free and open to the public", 
-    "venue": "Faith Presbyterian Church", 
-    "venue_website": null, 
-    "slug": "senior-project-recital-emma-harmon-soprano-and-breanna-hall-soprano-2018-11-17", 
-    "time": "2:00pm", 
-    "date": "2018-11-17", 
-    "headliner": "Senior Project Recital - Emma Harmon, soprano and Breanna Hall, soprano", 
-    "notes": "Soprano, voice, music, FSU, free\n\nUnless otherwise noted, all events are free admission and open to the public. Please see http://www.music.fsu.edu/Concerts-and-Events for information about the College of Music venues."
   }, 
   {
     "website": "https://www.therecollections.org/events/tommy-cooper-in-concert", 
@@ -972,28 +992,16 @@
     "notes": "You\u2019re invited to spend Sunday afternoon in Downtown Thomasville. Enjoy special Sunday hours, live music throughout the downtown, unique shopping, and delicious dining options. With every $20 you spend, you\u2019ll receive a ticket to win one of five $100 Downtown Dollars gift certificates.\u00a0 Free trolley rides will be available between Downtown Thomasville and the Plantation Wildlife Arts Festival from 1:00-5:00PM."
   }, 
   {
-    "website": "https://calendar.fsu.edu/event/senior_project_recital_-_nicholas_seier_saxophone", 
+    "website": "https://calendar.fsu.edu/event/senior_project_recital_-_samantha_gifford_and_kaleb_switanek_trombones", 
     "venue_address": "126 Convocation Way", 
-    "price": null, 
+    "price": "Free and open to the public", 
     "venue": "Longmire Recital Hall", 
     "venue_website": "https://calendar.fsu.edu/longmire_recital_hall_lon", 
-    "slug": "senior-project-recital-nicholas-seier-saxophone-2018-11-18", 
-    "time": "4:00pm", 
+    "slug": "senior-project-recital-samantha-gifford-and-kaleb-switanek-trombones-2018-11-18", 
+    "time": "2:00pm", 
     "date": "2018-11-18", 
-    "headliner": "Senior Project Recital - Nicholas Seier, saxophone", 
-    "notes": "concert, longmire, LON, Recital, free, saxophone, music\n\nUnless otherwise noted, all events are free admission and open to the public. Please see http://www.music.fsu.edu/Concerts-and-Events for information about the College of Music venues."
-  }, 
-  {
-    "website": "https://calendar.fsu.edu/event/senior_project_recital_-_anthony_atkinson_bassoon", 
-    "venue_address": "114 N Copeland St", 
-    "price": null, 
-    "venue": "Lindsay Recital Hall", 
-    "venue_website": "https://calendar.fsu.edu/lindsay_recital_hall_lrh", 
-    "slug": "senior-project-recital-anthony-atkinson-bassoon-2018-11-18", 
-    "time": "4:00pm", 
-    "date": "2018-11-18", 
-    "headliner": "Senior Project Recital - Anthony Atkinson, bassoon", 
-    "notes": "concert, bassoon, lrh, Recital, free, music, Lindsay\n\nUnless otherwise noted, all events are free admission and open to the public. Please see http://www.music.fsu.edu/Concerts-and-Events for information about the College of Music venues."
+    "headliner": "Senior Project Recital - Samantha Gifford and Kaleb Switanek, trombones", 
+    "notes": "trombone, longmire, music\n\nUnless otherwise noted, all events are free admission and open to the public. Please see http://www.music.fsu.edu/Concerts-and-Events for information about the College of Music venues."
   }, 
   {
     "website": "https://calendar.fsu.edu/event/piano_studio_recital_-_students_of_heidi_louise_williams", 
@@ -1008,16 +1016,16 @@
     "notes": "concert, Recital, free, DRH, music, piano\n\n"
   }, 
   {
-    "website": "https://calendar.fsu.edu/event/university_concert_band_7013", 
+    "website": "https://calendar.fsu.edu/event/senior_project_recital_-_anthony_atkinson_bassoon", 
     "venue_address": "114 N Copeland St", 
-    "price": "FREE", 
-    "venue": "Opperman Music Hall", 
-    "venue_website": "https://calendar.fsu.edu/opperman_music_hall_omh", 
-    "slug": "university-concert-band-2018-11-18", 
-    "time": "7:30pm", 
+    "price": null, 
+    "venue": "Lindsay Recital Hall", 
+    "venue_website": "https://calendar.fsu.edu/lindsay_recital_hall_lrh", 
+    "slug": "senior-project-recital-anthony-atkinson-bassoon-2018-11-18", 
+    "time": "4:00pm", 
     "date": "2018-11-18", 
-    "headliner": "University Concert Band", 
-    "notes": "band, music, FSU, free, concert\n\nUnless otherwise noted, all events are free admission and open to the public. Please see\u00a0\n\n\u00a0for information about the College of Music venues."
+    "headliner": "Senior Project Recital - Anthony Atkinson, bassoon", 
+    "notes": "concert, bassoon, lrh, Recital, free, music, Lindsay\n\nUnless otherwise noted, all events are free admission and open to the public. Please see http://www.music.fsu.edu/Concerts-and-Events for information about the College of Music venues."
   }, 
   {
     "website": "https://calendar.fsu.edu/event/tallahassee_community_chorus_concert_-_outside_ticketed_6785", 
@@ -1032,6 +1040,18 @@
     "notes": "Tickets for this event are provided by an organization outside the College of Music. Please see \n\n for ticketing information."
   }, 
   {
+    "website": "https://calendar.fsu.edu/event/senior_project_recital_-_nicholas_seier_saxophone", 
+    "venue_address": "126 Convocation Way", 
+    "price": null, 
+    "venue": "Longmire Recital Hall", 
+    "venue_website": "https://calendar.fsu.edu/longmire_recital_hall_lon", 
+    "slug": "senior-project-recital-nicholas-seier-saxophone-2018-11-18", 
+    "time": "4:00pm", 
+    "date": "2018-11-18", 
+    "headliner": "Senior Project Recital - Nicholas Seier, saxophone", 
+    "notes": "concert, longmire, LON, Recital, free, saxophone, music\n\nUnless otherwise noted, all events are free admission and open to the public. Please see http://www.music.fsu.edu/Concerts-and-Events for information about the College of Music venues."
+  }, 
+  {
     "website": "https://calendar.fsu.edu/event/senior_recital_-_logan_faulkner_flute", 
     "venue_address": "126 Convocation Way", 
     "price": null, 
@@ -1044,16 +1064,16 @@
     "notes": "flute, concert, longmire, LON, Recital, free, music\n\nUnless otherwise noted, all events are free admission and open to the public. Please see http://www.music.fsu.edu/Concerts-and-Events for information about the College of Music venues."
   }, 
   {
-    "website": "https://calendar.fsu.edu/event/senior_project_recital_-_samantha_gifford_and_kaleb_switanek_trombones", 
-    "venue_address": "126 Convocation Way", 
-    "price": "Free and open to the public", 
-    "venue": "Longmire Recital Hall", 
-    "venue_website": "https://calendar.fsu.edu/longmire_recital_hall_lon", 
-    "slug": "senior-project-recital-samantha-gifford-and-kaleb-switanek-trombones-2018-11-18", 
-    "time": "2:00pm", 
+    "website": "https://calendar.fsu.edu/event/university_concert_band_7013", 
+    "venue_address": "114 N Copeland St", 
+    "price": "FREE", 
+    "venue": "Opperman Music Hall", 
+    "venue_website": "https://calendar.fsu.edu/opperman_music_hall_omh", 
+    "slug": "university-concert-band-2018-11-18", 
+    "time": "7:30pm", 
     "date": "2018-11-18", 
-    "headliner": "Senior Project Recital - Samantha Gifford and Kaleb Switanek, trombones", 
-    "notes": "trombone, longmire, music\n\nUnless otherwise noted, all events are free admission and open to the public. Please see http://www.music.fsu.edu/Concerts-and-Events for information about the College of Music venues."
+    "headliner": "University Concert Band", 
+    "notes": "band, music, FSU, free, concert\n\nUnless otherwise noted, all events are free admission and open to the public. Please see\u00a0\n\n\u00a0for information about the College of Music venues."
   }, 
   {
     "website": "https://www.tallahasseearts.org/event/university-campus-band-and-orchestra/", 
@@ -1080,42 +1100,6 @@
     "price": "FEE:  $2"
   }, 
   {
-    "website": "https://calendar.fsu.edu/event/doctoral_chamber_recital_-_ian_mcintyre_clarinet", 
-    "venue_address": "126 Convocation Way", 
-    "price": "Free and open to the public", 
-    "venue": "Longmire Recital Hall", 
-    "venue_website": "https://calendar.fsu.edu/longmire_recital_hall_lon", 
-    "slug": "doctoral-chamber-recital-ian-mcintyre-clarinet-2018-11-19", 
-    "time": "7:30pm", 
-    "date": "2018-11-19", 
-    "headliner": "Doctoral Chamber Recital - Ian McIntyre, clarinet", 
-    "notes": "Clarinet, longmire, music\n\nUnless otherwise noted, all events are free admission and open to the public. Please see http://www.music.fsu.edu/Concerts-and-Events for information about the College of Music venues."
-  }, 
-  {
-    "website": "https://calendar.fsu.edu/event/doctoral_lecture_recital_-_aleksandra_pereverzeva_cello", 
-    "venue_address": "114 N Copeland St", 
-    "price": "Free and open to the public", 
-    "venue": "Lindsay Recital Hall", 
-    "venue_website": "https://calendar.fsu.edu/lindsay_recital_hall_lrh", 
-    "slug": "doctoral-lecture-recital-aleksandra-pereverzeva-cello-2018-11-19", 
-    "time": "5:00pm", 
-    "date": "2018-11-19", 
-    "headliner": "Doctoral Lecture Recital - Aleksandra Pereverzeva, cello", 
-    "notes": "music, cello, Lindsay\n\nUnless otherwise noted, all events are free admission and open to the public. Please see http://www.music.fsu.edu/Concerts-and-Events for information about the College of Music venues."
-  }, 
-  {
-    "website": "https://calendar.fsu.edu/event/senior_project_recital_-_jonathan_sims_tuba", 
-    "venue_address": "122 N Copeland St", 
-    "price": "Free and open to the public", 
-    "venue": "Dohn\u00e1nyi Recital Hall", 
-    "venue_website": "https://calendar.fsu.edu/dohnanyi_recital_hall_drh", 
-    "slug": "senior-project-recital-jonathan-sims-tuba-2018-11-19", 
-    "time": "7:30pm", 
-    "date": "2018-11-19", 
-    "headliner": "Senior Project Recital - Jonathan Sims, tuba", 
-    "notes": "DRH, Dohnanyi, music, tuba, Dohn\u00e1nyi\n\nUnless otherwise noted, all events are free admission and open to the public. Please see http://www.music.fsu.edu/Concerts-and-Events for information about the College of Music venues."
-  }, 
-  {
     "website": "https://calendar.fsu.edu/event/world_music_recital_-_andean_ensemble", 
     "venue_address": "114 N Copeland St", 
     "price": "Free and open to the public", 
@@ -1140,6 +1124,42 @@
     "notes": "orchestra, free, band, music, FSU, campus\n\nUnless otherwise noted, all events are free admission and open to the public. Please see\u00a0\n\n\u00a0for information about the College of Music venues."
   }, 
   {
+    "website": "https://calendar.fsu.edu/event/senior_project_recital_-_jonathan_sims_tuba", 
+    "venue_address": "122 N Copeland St", 
+    "price": "Free and open to the public", 
+    "venue": "Dohn\u00e1nyi Recital Hall", 
+    "venue_website": "https://calendar.fsu.edu/dohnanyi_recital_hall_drh", 
+    "slug": "senior-project-recital-jonathan-sims-tuba-2018-11-19", 
+    "time": "7:30pm", 
+    "date": "2018-11-19", 
+    "headliner": "Senior Project Recital - Jonathan Sims, tuba", 
+    "notes": "DRH, Dohnanyi, music, tuba, Dohn\u00e1nyi\n\nUnless otherwise noted, all events are free admission and open to the public. Please see http://www.music.fsu.edu/Concerts-and-Events for information about the College of Music venues."
+  }, 
+  {
+    "website": "https://calendar.fsu.edu/event/doctoral_chamber_recital_-_ian_mcintyre_clarinet", 
+    "venue_address": "126 Convocation Way", 
+    "price": "Free and open to the public", 
+    "venue": "Longmire Recital Hall", 
+    "venue_website": "https://calendar.fsu.edu/longmire_recital_hall_lon", 
+    "slug": "doctoral-chamber-recital-ian-mcintyre-clarinet-2018-11-19", 
+    "time": "7:30pm", 
+    "date": "2018-11-19", 
+    "headliner": "Doctoral Chamber Recital - Ian McIntyre, clarinet", 
+    "notes": "Clarinet, longmire, music\n\nUnless otherwise noted, all events are free admission and open to the public. Please see http://www.music.fsu.edu/Concerts-and-Events for information about the College of Music venues."
+  }, 
+  {
+    "website": "https://calendar.fsu.edu/event/doctoral_lecture_recital_-_aleksandra_pereverzeva_cello", 
+    "venue_address": "114 N Copeland St", 
+    "price": "Free and open to the public", 
+    "venue": "Lindsay Recital Hall", 
+    "venue_website": "https://calendar.fsu.edu/lindsay_recital_hall_lrh", 
+    "slug": "doctoral-lecture-recital-aleksandra-pereverzeva-cello-2018-11-19", 
+    "time": "5:00pm", 
+    "date": "2018-11-19", 
+    "headliner": "Doctoral Lecture Recital - Aleksandra Pereverzeva, cello", 
+    "notes": "music, cello, Lindsay\n\nUnless otherwise noted, all events are free admission and open to the public. Please see http://www.music.fsu.edu/Concerts-and-Events for information about the College of Music venues."
+  }, 
+  {
     "website": "http://www.zebrawebworks.com/zebra/bluetavern/day.cfm?&year=2018&month=11&day=20", 
     "venue_address": "1206 N Monroe St", 
     "notes": "https://www.facebook.com/nrubhsawjt", 
@@ -1152,18 +1172,6 @@
     "price": "FEE:  $2"
   }, 
   {
-    "website": "https://calendar.fsu.edu/event/tallahassee_winds_1928", 
-    "venue_address": "114 N Copeland St", 
-    "price": "FREE", 
-    "venue": "Opperman Music Hall", 
-    "venue_website": "https://calendar.fsu.edu/opperman_music_hall_omh", 
-    "slug": "tallahassee-winds-2018-11-20", 
-    "time": "7:30pm", 
-    "date": "2018-11-20", 
-    "headliner": "Tallahassee Winds", 
-    "notes": "winds, Tallahassee, music, FSU, free\n\nUnless otherwise noted, all events are free admission and open to the public. Please see\u00a0\n\n\u00a0for information about the College of Music venues."
-  }, 
-  {
     "website": "https://calendar.fsu.edu/event/wind_chamber_class_recital_ii", 
     "venue_address": "126 Convocation Way", 
     "price": null, 
@@ -1174,6 +1182,18 @@
     "date": "2018-11-20", 
     "headliner": "Wind Chamber Class Recital II", 
     "notes": "concert, longmire, LON, Recital, free, music, winds\n\nUnless otherwise noted, all events are free admission and open to the public. Please see http://www.music.fsu.edu/Concerts-and-Events for information about the College of Music venues."
+  }, 
+  {
+    "website": "https://calendar.fsu.edu/event/tallahassee_winds_1928", 
+    "venue_address": "114 N Copeland St", 
+    "price": "FREE", 
+    "venue": "Opperman Music Hall", 
+    "venue_website": "https://calendar.fsu.edu/opperman_music_hall_omh", 
+    "slug": "tallahassee-winds-2018-11-20", 
+    "time": "7:30pm", 
+    "date": "2018-11-20", 
+    "headliner": "Tallahassee Winds", 
+    "notes": "winds, Tallahassee, music, FSU, free\n\nUnless otherwise noted, all events are free admission and open to the public. Please see\u00a0\n\n\u00a0for information about the College of Music venues."
   }, 
   {
     "website": "https://calendar.fsu.edu/event/doctoral_solo_recital_-_alan_berquist_flute_5042", 
@@ -1999,18 +2019,6 @@
     "notes": "piano, longmire, music\n\nUnless otherwise noted, all events are free admission and open to the public. Please see http://www.music.fsu.edu/Concerts-and-Events for information about the College of Music venues."
   }, 
   {
-    "website": "https://calendar.fsu.edu/event/faculty_recital_-_geoffrey_deibel_saxophone", 
-    "venue_address": "122 N Copeland St", 
-    "price": null, 
-    "venue": "Dohn\u00e1nyi Recital Hall", 
-    "venue_website": "https://calendar.fsu.edu/dohnanyi_recital_hall_drh", 
-    "slug": "faculty-recital-geoffrey-deibel-saxophone-2018-12-02", 
-    "time": "2:00pm", 
-    "date": "2018-12-02", 
-    "headliner": "Faculty Recital - Geoffrey Deibel, saxophone", 
-    "notes": "concert, Recital, free, DRH, saxophone, faculty, music\n\n"
-  }, 
-  {
     "website": "https://calendar.fsu.edu/event/masters_solo_recital_-_stephen_mccluskey_baritone_294", 
     "venue_address": "126 Convocation Way", 
     "price": "Free and open to the public", 
@@ -2021,6 +2029,18 @@
     "date": "2018-12-02", 
     "headliner": "Master's Solo Recital - Stephen McCluskey, baritone", 
     "notes": "Unless otherwise noted, all events are free admission and open to the public. Please see http://www.music.fsu.edu/Concerts-and-Events for information about the College of Music venues."
+  }, 
+  {
+    "website": "https://calendar.fsu.edu/event/faculty_recital_-_geoffrey_deibel_saxophone", 
+    "venue_address": "122 N Copeland St", 
+    "price": null, 
+    "venue": "Dohn\u00e1nyi Recital Hall", 
+    "venue_website": "https://calendar.fsu.edu/dohnanyi_recital_hall_drh", 
+    "slug": "faculty-recital-geoffrey-deibel-saxophone-2018-12-02", 
+    "time": "2:00pm", 
+    "date": "2018-12-02", 
+    "headliner": "Faculty Recital - Geoffrey Deibel, saxophone", 
+    "notes": "concert, Recital, free, DRH, saxophone, faculty, music\n\n"
   }, 
   {
     "website": "http://www.zebrawebworks.com/zebra/bluetavern/day.cfm?&year=2018&month=12&day=3", 
@@ -2035,16 +2055,16 @@
     "price": "FEE:  $0"
   }, 
   {
-    "website": "https://calendar.fsu.edu/event/doctoral_chamber_recital_-_amy_humberd_clarinet", 
-    "venue_address": "122 N Copeland St", 
+    "website": "https://calendar.fsu.edu/event/senior_project_recital_-_rebecca_needham_flute_and_elena_maeurer_mezzo-soprano", 
+    "venue_address": "114 N Copeland St", 
     "price": "Free and open to the public", 
-    "venue": "Dohn\u00e1nyi Recital Hall", 
-    "venue_website": "https://calendar.fsu.edu/dohnanyi_recital_hall_drh", 
-    "slug": "doctoral-chamber-recital-amy-humberd-clarinet-2018-12-03", 
+    "venue": "Lindsay Recital Hall", 
+    "venue_website": "https://calendar.fsu.edu/lindsay_recital_hall_lrh", 
+    "slug": "senior-project-recital-rebecca-needham-flute-and-elena-maeurer-mezzo-soprano-2018-12-03", 
     "time": "7:30pm", 
     "date": "2018-12-03", 
-    "headliner": "Doctoral Chamber Recital - Amy Humberd, clarinet", 
-    "notes": "DRH, Clarinet, music, Dohnanyi, Dohn\u00e1nyi\n\nUnless otherwise noted, all events are free admission and open to the public. Please see http://www.music.fsu.edu/Concerts-and-Events for information about the College of Music venues."
+    "headliner": "Senior Project Recital - Rebecca Needham, flute and Elena Maeurer, mezzo-soprano", 
+    "notes": "voice, music, Recital, flute, Lindsay\n\nUnless otherwise noted, all events are free admission and open to the public. Please see http://www.music.fsu.edu/Concerts-and-Events for information about the College of Music venues."
   }, 
   {
     "website": "https://calendar.fsu.edu/event/eppes_quartet_recital_2421", 
@@ -2059,16 +2079,16 @@
     "notes": "viola, longmire, strings, EPPES, music, cello, violin, Quartet\n\nUnless otherwise noted, all events are free admission and open to the public. Please see http://www.music.fsu.edu/Concerts-and-Events for information about the College of Music venues."
   }, 
   {
-    "website": "https://calendar.fsu.edu/event/senior_project_recital_-_rebecca_needham_flute_and_elena_maeurer_mezzo-soprano", 
-    "venue_address": "114 N Copeland St", 
+    "website": "https://calendar.fsu.edu/event/doctoral_chamber_recital_-_amy_humberd_clarinet", 
+    "venue_address": "122 N Copeland St", 
     "price": "Free and open to the public", 
-    "venue": "Lindsay Recital Hall", 
-    "venue_website": "https://calendar.fsu.edu/lindsay_recital_hall_lrh", 
-    "slug": "senior-project-recital-rebecca-needham-flute-and-elena-maeurer-mezzo-soprano-2018-12-03", 
+    "venue": "Dohn\u00e1nyi Recital Hall", 
+    "venue_website": "https://calendar.fsu.edu/dohnanyi_recital_hall_drh", 
+    "slug": "doctoral-chamber-recital-amy-humberd-clarinet-2018-12-03", 
     "time": "7:30pm", 
     "date": "2018-12-03", 
-    "headliner": "Senior Project Recital - Rebecca Needham, flute and Elena Maeurer, mezzo-soprano", 
-    "notes": "voice, music, Recital, flute, Lindsay\n\nUnless otherwise noted, all events are free admission and open to the public. Please see http://www.music.fsu.edu/Concerts-and-Events for information about the College of Music venues."
+    "headliner": "Doctoral Chamber Recital - Amy Humberd, clarinet", 
+    "notes": "DRH, Clarinet, music, Dohnanyi, Dohn\u00e1nyi\n\nUnless otherwise noted, all events are free admission and open to the public. Please see http://www.music.fsu.edu/Concerts-and-Events for information about the College of Music venues."
   }, 
   {
     "website": "https://www.facebook.com/events/1189104217892118/", 
@@ -2189,18 +2209,6 @@
     "notes": "violin, music, concert, free, Recital\n\nUnless otherwise noted, all events are free admission and open to the public. Please see http://www.music.fsu.edu/Concerts-and-Events for information about the College of Music venues."
   }, 
   {
-    "website": "https://calendar.fsu.edu/event/violin_studio_recital_students_of_corinne_stillwell_7781", 
-    "venue_address": "126 Convocation Way", 
-    "price": null, 
-    "venue": "Longmire Recital Hall", 
-    "venue_website": "https://calendar.fsu.edu/longmire_recital_hall_lon", 
-    "slug": "violin-studio-recital-students-of-corinne-stillwell-2018-12-05", 
-    "time": "7:30pm", 
-    "date": "2018-12-05", 
-    "headliner": "Violin Studio Recital \u2013 Students of Corinne Stillwell", 
-    "notes": "Unless otherwise noted, all events are free admission and open to the public. Please see\u00a0\n\n\u00a0for information about the College of Music venues."
-  }, 
-  {
     "website": "https://calendar.fsu.edu/event/doctoral_chamber_recital_-_jonathan_lacey_trombone", 
     "venue_address": "122 N Copeland St", 
     "price": null, 
@@ -2223,6 +2231,18 @@
     "date": "2018-12-05", 
     "headliner": "Doctoral Lecture Recital - Amy Selkirk, oboe", 
     "notes": "Lindsay, music, oboe\n\nUnless otherwise noted, all events are free admission and open to the public. Please see http://www.music.fsu.edu/Concerts-and-Events for information about the College of Music venues."
+  }, 
+  {
+    "website": "https://calendar.fsu.edu/event/violin_studio_recital_students_of_corinne_stillwell_7781", 
+    "venue_address": "126 Convocation Way", 
+    "price": null, 
+    "venue": "Longmire Recital Hall", 
+    "venue_website": "https://calendar.fsu.edu/longmire_recital_hall_lon", 
+    "slug": "violin-studio-recital-students-of-corinne-stillwell-2018-12-05", 
+    "time": "7:30pm", 
+    "date": "2018-12-05", 
+    "headliner": "Violin Studio Recital \u2013 Students of Corinne Stillwell", 
+    "notes": "Unless otherwise noted, all events are free admission and open to the public. Please see\u00a0\n\n\u00a0for information about the College of Music venues."
   }, 
   {
     "website": "https://openingnights.fsu.edu/events/mandy-harvey/", 
@@ -2273,18 +2293,6 @@
     "price": "FEE:  $10"
   }, 
   {
-    "website": "https://calendar.fsu.edu/event/flute_choir_recital", 
-    "venue_address": "114 N Copeland St", 
-    "price": "Free and open to the public", 
-    "venue": "Lindsay Recital Hall", 
-    "venue_website": "https://calendar.fsu.edu/lindsay_recital_hall_lrh", 
-    "slug": "flute-choir-recital-2018-12-06", 
-    "time": "7:30pm", 
-    "date": "2018-12-06", 
-    "headliner": "Flute Choir Recital", 
-    "notes": "flute, music, Lindsay\n\nUnless otherwise noted, all events are free admission and open to the public. Please see http://www.music.fsu.edu/Concerts-and-Events for information about the College of Music venues."
-  }, 
-  {
     "website": "https://calendar.fsu.edu/event/jazz_combo_concert_216", 
     "venue_address": "122 N Copeland St", 
     "price": "FREE", 
@@ -2295,6 +2303,18 @@
     "date": "2018-12-06", 
     "headliner": "Jazz Combo Concert", 
     "notes": "jazz, music, FSU, free, combo\n\nUnless otherwise noted, all events are free admission and open to the public. Please see\u00a0\n\n\u00a0for information about the College of Music venues."
+  }, 
+  {
+    "website": "https://calendar.fsu.edu/event/flute_choir_recital", 
+    "venue_address": "114 N Copeland St", 
+    "price": "Free and open to the public", 
+    "venue": "Lindsay Recital Hall", 
+    "venue_website": "https://calendar.fsu.edu/lindsay_recital_hall_lrh", 
+    "slug": "flute-choir-recital-2018-12-06", 
+    "time": "7:30pm", 
+    "date": "2018-12-06", 
+    "headliner": "Flute Choir Recital", 
+    "notes": "flute, music, Lindsay\n\nUnless otherwise noted, all events are free admission and open to the public. Please see http://www.music.fsu.edu/Concerts-and-Events for information about the College of Music venues."
   }, 
   {
     "website": "http://www.fifthandthomas.com/event/revival-4/", 
@@ -2514,18 +2534,6 @@
     "notes": "guitar, music, Lindsay\n\nUnless otherwise noted, all events are free admission and open to the public. Please see http://www.music.fsu.edu/Concerts-and-Events for information about the College of Music venues."
   }, 
   {
-    "website": "https://calendar.fsu.edu/event/doctoral_solo_recital_-_anthony_poehailos_clarinet_1793", 
-    "venue_address": "126 Convocation Way", 
-    "price": "Free and open to the public", 
-    "venue": "Longmire Recital Hall", 
-    "venue_website": "https://calendar.fsu.edu/longmire_recital_hall_lon", 
-    "slug": "doctoral-solo-recital-anthony-poehailos-clarinet-2018-12-08", 
-    "time": "2:00pm", 
-    "date": "2018-12-08", 
-    "headliner": "Doctoral Solo Recital - Anthony Poehailos, clarinet", 
-    "notes": "Clarinet, longmire, music\n\nUnless otherwise noted, all events are free admission and open to the public. Please see http://www.music.fsu.edu/Concerts-and-Events for information about the College of Music venues."
-  }, 
-  {
     "website": "https://calendar.fsu.edu/event/masters_solo_recital_-_thomas_coppola_guitar", 
     "venue_address": "114 N Copeland St", 
     "price": null, 
@@ -2572,6 +2580,18 @@
     "date": "2018-12-08", 
     "headliner": "Master's Solo Recital - Emily Salgado, percussion", 
     "notes": "DRH, music, Dohnanyi, Dohn\u00e1nyi, percussion\n\nUnless otherwise noted, all events are free admission and open to the public. Please see http://www.music.fsu.edu/Concerts-and-Events for information about the College of Music venues."
+  }, 
+  {
+    "website": "https://calendar.fsu.edu/event/doctoral_solo_recital_-_anthony_poehailos_clarinet_1793", 
+    "venue_address": "126 Convocation Way", 
+    "price": "Free and open to the public", 
+    "venue": "Longmire Recital Hall", 
+    "venue_website": "https://calendar.fsu.edu/longmire_recital_hall_lon", 
+    "slug": "doctoral-solo-recital-anthony-poehailos-clarinet-2018-12-08", 
+    "time": "2:00pm", 
+    "date": "2018-12-08", 
+    "headliner": "Doctoral Solo Recital - Anthony Poehailos, clarinet", 
+    "notes": "Clarinet, longmire, music\n\nUnless otherwise noted, all events are free admission and open to the public. Please see http://www.music.fsu.edu/Concerts-and-Events for information about the College of Music venues."
   }, 
   {
     "website": "http://tallahassee.moonevents.com/events/good-vibes-0", 
@@ -2636,6 +2656,18 @@
     "notes": "The Tallahassee Youth Orchestras present \u201cImagine the Possibilities,\u201d a holiday concert featuring current members as well as TYO alumni. Tickets are available in advance and at the door and are $10 for Adults, $5 for Children, and free for FSU Students and children under 2 who will not occupy a seat. Check out our Facebook event for the link to purchase tickets in advance!"
   }, 
   {
+    "website": "https://calendar.fsu.edu/event/junior_recital_-_shawn_karson_bassoon", 
+    "venue_address": "122 N Copeland St", 
+    "price": null, 
+    "venue": "Dohn\u00e1nyi Recital Hall", 
+    "venue_website": "https://calendar.fsu.edu/dohnanyi_recital_hall_drh", 
+    "slug": "junior-recital-shawn-karson-bassoon-2018-12-09", 
+    "time": "4:00pm", 
+    "date": "2018-12-09", 
+    "headliner": "Junior Recital - Shawn Karson, bassoon", 
+    "notes": "concert, bassoon, Recital, free, DRH, music\n\nUnless otherwise noted, all events are free admission and open to the public. Please see http://www.music.fsu.edu/Concerts-and-Events for information about the College of Music venues."
+  }, 
+  {
     "website": "https://calendar.fsu.edu/event/junior_recital_-_rachel_humphries_soprano_and_santiago_arbelaez_tenor", 
     "venue_address": "126 Convocation Way", 
     "price": null, 
@@ -2672,18 +2704,6 @@
     "notes": "piano, longmire, music, Recital\n\nUnless otherwise noted, all events are free admission and open to the public. Please see http://www.music.fsu.edu/Concerts-and-Events for information about the College of Music venues."
   }, 
   {
-    "website": "https://calendar.fsu.edu/event/junior_recital_-_shawn_karson_bassoon", 
-    "venue_address": "122 N Copeland St", 
-    "price": null, 
-    "venue": "Dohn\u00e1nyi Recital Hall", 
-    "venue_website": "https://calendar.fsu.edu/dohnanyi_recital_hall_drh", 
-    "slug": "junior-recital-shawn-karson-bassoon-2018-12-09", 
-    "time": "4:00pm", 
-    "date": "2018-12-09", 
-    "headliner": "Junior Recital - Shawn Karson, bassoon", 
-    "notes": "concert, bassoon, Recital, free, DRH, music\n\nUnless otherwise noted, all events are free admission and open to the public. Please see http://www.music.fsu.edu/Concerts-and-Events for information about the College of Music venues."
-  }, 
-  {
     "website": "http://www.zebrawebworks.com/zebra/bluetavern/day.cfm?&year=2018&month=12&day=10", 
     "venue_address": "1206 N Monroe St", 
     "notes": "Lost Mondays with Belmont & Jones  Traditional Blues      Country blues and other delights from the early days of recorded music ... Every Monday at Blue Tavern $2 for musicians; tips appreciated.$2", 
@@ -2694,6 +2714,18 @@
     "date": "2018-12-10", 
     "headliner": "Lost Mondays: Traditional Blues with Belmont & Jones", 
     "price": "FEE:  $0"
+  }, 
+  {
+    "website": "https://calendar.fsu.edu/event/doctoral_lecture_recital_-_yingying_wang_piano_3899", 
+    "venue_address": "126 Convocation Way", 
+    "price": null, 
+    "venue": "Longmire Recital Hall", 
+    "venue_website": "https://calendar.fsu.edu/longmire_recital_hall_lon", 
+    "slug": "doctoral-lecture-recital-yingying-wang-piano-2018-12-10", 
+    "time": "7:30pm", 
+    "date": "2018-12-10", 
+    "headliner": "Doctoral Lecture Recital - Yingying Wang, piano", 
+    "notes": "lecture, piano, music, Recital, free\n\nUnless otherwise noted, all events are free admission and open to the public. Please see http://www.music.fsu.edu/Concerts-and-Events for information about the College of Music venues."
   }, 
   {
     "website": "https://calendar.fsu.edu/event/capital_childerns_choir_performance", 
@@ -2718,18 +2750,6 @@
     "date": "2018-12-10", 
     "headliner": "Doctoral Lecture Recital \u2013 Jacob Kight, percussion", 
     "notes": "Unless otherwise noted, all events are free admission and open to the public. Please see \n\n for information about the College of Music venues."
-  }, 
-  {
-    "website": "https://calendar.fsu.edu/event/doctoral_lecture_recital_-_yingying_wang_piano_3899", 
-    "venue_address": "126 Convocation Way", 
-    "price": null, 
-    "venue": "Longmire Recital Hall", 
-    "venue_website": "https://calendar.fsu.edu/longmire_recital_hall_lon", 
-    "slug": "doctoral-lecture-recital-yingying-wang-piano-2018-12-10", 
-    "time": "7:30pm", 
-    "date": "2018-12-10", 
-    "headliner": "Doctoral Lecture Recital - Yingying Wang, piano", 
-    "notes": "lecture, piano, music, Recital, free\n\nUnless otherwise noted, all events are free admission and open to the public. Please see http://www.music.fsu.edu/Concerts-and-Events for information about the College of Music venues."
   }, 
   {
     "website": "https://openingnights.fsu.edu/events/soweto-gospel-choir/", 
@@ -3275,6 +3295,16 @@
     "notes": "Noname at the Moon"
   }, 
   {
+    "website": "https://calendar.fsu.edu/event/cdu_presents_noname_at_the_moon?utm_campaign=widget&utm_medium=widget&utm_source=Florida+State+University+Calendar", 
+    "venue_address": "1105 E Lafayette St, Tallahassee, FL 32301", 
+    "notes": "Saturday, January 19th\nClub Downunder presents:\u00a0\nw/ TBA\nThe Moon\nDoors: 7:00 pm // Show: 8:00 pm\u00a0\nFree with valid FSU ID\u00a0\n(Students do NOT need to get tickets ahead of time, they will be free at the door)\nGP: $22\u00a0\n18+\n\nLocal Presale Thursday 9/20 at 10AM-10PM\nGeneral Onsale Friday 9/21 at 10AM\n\n//NONAME//\u00a0\nClub Downunder is pleased to announce that Noname will be performing on Saturday, January 19th at The Moon! Doors will open at 7:00pm, with admission free for FSU students with a valid FSU ID. GP is $22. 18+\n\nNoname (born Fatimah Warner) is an American artist from Chicago, Illinois, who blurs the lines of poetry and rap through the music she creates. Noname grew up in Bronzeville, a historic neighborhood on the southside of Chicago that famously attracted accomplished black artists and intellectuals of all types. Noname first discovered her love for words while taking a creative writing class as a sophmore in highschool. On July 31st Noname released her debut project entitled Telefone which was 3 years in the making and highly anticipated by fans and media alike. Instantly the project gained critical acclaim with a rave review by Pitchfork and landing her praise from major outlets like Rolling Stones, Complex and Dazed & Confused. Noname has been hailed by The FADER, Complex, and Rolling Stone as one of the most exciting and important new artists of 2016. Thanks to Telefone\u2019s success, Noname played some shows in support of Ms. Lauryn Hill, who hand-picked Noname to open for her on tour. When first approaching the project, Noname set out to emulate the feeling of talking on the phone with someone for the first time. She describes Telefone as \u201can introductory conversation with someone you\u2019re interested in\u201d. But as Noname continued to work on the tape, it also transitioned a bit into mortality: the idea of life and death and the duality between those two things.", 
+    "venue": "The Moon", 
+    "time": "7:00pm", 
+    "date": "2019-01-19", 
+    "headliner": "Noname", 
+    "slug": "noname-2019-01-19"
+  }, 
+  {
     "website": "http://www.fifthandthomas.com/event/elizabethcook/", 
     "venue_address": "1122 Thomasville Rd", 
     "price": "$18, $22", 
@@ -3629,6 +3659,16 @@
     "date": "2019-02-21", 
     "headliner": "The Julian Bliss Septet", 
     "notes": "The Septet performs shows that combines over 200 years of musical heritage with, and incredible command of, Western classical and jazz. The band will perform the inspirational music of Benny Goodman \u2014 a passion of Julian\u2019s since the age of 7. "
+  }, 
+  {
+    "website": "https://calendar.fsu.edu/event/cdu_presents_car_seat_headrest_at_the_moon?utm_campaign=widget&utm_medium=widget&utm_source=Florida+State+University+Calendar", 
+    "venue_address": "1105 E Lafayette St, Tallahassee, FL 32301", 
+    "notes": "Thursday, February 21st\nClub Downunder presents: Car Seat Headrest\nw/ Naked Giants\nThe Moon\u00a0\nDoors: 7:00 pm // Show: 8:00 pm\u00a0\nFree with valid FSU ID\u00a0\n(Students do NOT need to get tickets ahead of time, they will be free at the door)\nGP: $20\u00a0\n18+\n\nGeneral Tickets On Sale: To Be Announced After Hurricane Michael\u00a0\n\n//CAR SEAT HEADREST//\u00a0\nClub Downunder is pleased to announce that Car Seat Headrest will be performing on Thursday, February 21st, 2019 at The Moon! Doors will open at 7:00pm, with admission free for FSU students with a valid FSU ID. GP is $20. 18+\n\nCar Seat Headrest began as a solo project of Will Toledo, from Leesburg, Virginia. Recording in cars, bedrooms, and other solitary spaces, Toledo self-released 10 Car Seat Headrest records during his college years on the music platform Bandcamp. In 2015, after signing with Matador Records, Car Seat Headrest expanded to include Andrew Katz on drums, Ethan Ives on guitar, and Seth Dalby on bass. The four-piece toured and recorded as a band, releasing the acclaimed Teens of Denial in 2016 and a re-recorded, re-imagined version of their 2011 classic album, Twin Fantasy, in 2018. The lineup has expanded again in 2018, combining with fellow touring act Naked Giants to perform Twin Fantasy as a seven-piece ensemble. The music of Car Seat Headrest traverses various genres under the \"indie\" label, including lo-fi, electronic, and pop rock. With the exception of Teens of Denial, produced by 90s legend Steve Fisk, all Car Seat Headrest records have been produced by Toledo. Toledo's work is notable for its large online cult following, and the group has received attention from publications including Pitchfork, Rolling Stone, The New Yorker, and Paste, amongst others.", 
+    "venue": "the moon", 
+    "time": "7:00pm", 
+    "date": "2019-02-21", 
+    "headliner": "Car Seat Headrest", 
+    "slug": "car-seat-headrest-2019-02-21"
   }, 
   {
     "website": "https://www.tallahasseearts.org/event/tom-rush/", 
