@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 import scrapy
 import dateparser
+from scripts.useful_functions import parse_date_and_time
 
 
 class FifththomasbotSpider(scrapy.Spider):
@@ -51,11 +52,8 @@ class FifththomasbotSpider(scrapy.Spider):
             concert['headliner'] = headliner
 
         # Parse the date and time
-        date_time = concert['date_time'].split(" @ ")
-        concert['date'] = date_time[0]
-        concert['time'] = date_time[1]
-        parsed_date = dateparser.parse(concert['date'])
-        concert['date'] = str(parsed_date.date())
+        when_list = parse_date_and_time(concert['date_time'], " @ ")
+        concert['date'], concert['time'] = when_list[0], when_list[1]
         del concert['date_time']
 
         # Parse the price, age, and start time if available

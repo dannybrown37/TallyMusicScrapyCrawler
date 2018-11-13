@@ -3,6 +3,7 @@ import scrapy
 from scrapy.spiders import CrawlSpider, Rule
 from scrapy.linkextractors import LinkExtractor
 from scrapy_splash import SplashRequest
+from scripts.useful_functions import military_time_to_standard
 
 
 class CdubotSpider(CrawlSpider):
@@ -70,13 +71,7 @@ class CdubotSpider(CrawlSpider):
         concert['notes'] = ''.join(concert['notes'])
 
         # Convert time from military to standard
-        concert['time'] = concert['time'].split(":")
-        if int(concert['time'][0]) > 12:
-            concert['time'][0] = str(int(concert['time'][0]) - 12)
-            concert['time'] = ':'.join(concert['time']) + "pm"
-        elif int(concert['time'][0]) == 12:
-            concert['time'] = ':'.join(concert['time']) + "pm"
-        else:
-            concert['time'] = ':'.join(concert['time']) + "am"
+        concert['time'] = military_time_to_standard(concert['time'])
+
 
         yield concert

@@ -11,7 +11,9 @@ process = CrawlerProcess(setting)
 output_files = [
     "bbcoutput.json",
     "bluetavernoutput.json",
+    "bsharpsoutput.json",
     "cduoutput.json",
+    "civicoutput.json",
     "cocaoutput.json",
     "fifththomasoutput.json",
     "fsuoutput.json",

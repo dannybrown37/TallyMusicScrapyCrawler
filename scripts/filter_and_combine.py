@@ -88,7 +88,7 @@ def combine_json_files(dotdot=''):
 ###############################################################################
 
     # Combine all our data so far
-    data = [
+    data = [ # The order I tackled the sites...
         moon_data,
         wilbury_data,
         fifththomas_data,
@@ -124,19 +124,16 @@ def combine_json_files(dotdot=''):
 ###############################################################################
 
 def slugify(headliner, date=""):
-    try:
-        slugify = headliner.lower().strip()
-        slugify = re.sub(r"&+", "-and-", slugify)
-        slugify = re.sub(r"[\s\W-]+", "-", slugify)
-        slugify = re.sub(r"[\'\"]+", "", slugify)
-        slugify = re.sub(r"^-", "", slugify)
-        slugify = re.sub(r"-$", "", slugify)
-        if date:
-            slugify += "-" + date
-        return slugify
-    except AttributeError:
-        print "Something is wrong with the %s show!" % headliner
-        wait = raw_input("press enter")
+    slugify = headliner.lower().strip()
+    slugify = re.sub(r"&+", "-and-", slugify)
+    slugify = re.sub(r"[\s\W-]+", "-", slugify)
+    slugify = re.sub(r"[\'\"]+", "", slugify)
+    slugify = re.sub(r"^-", "", slugify)
+    slugify = re.sub(r"-$", "", slugify)
+    if date:
+        slugify += "-" + date
+    return slugify
+
 
 
 if __name__ == "__main__":

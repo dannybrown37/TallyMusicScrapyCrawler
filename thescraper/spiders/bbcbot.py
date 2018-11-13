@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 import scrapy
 import dateparser
+from scripts.useful_functions import parse_date_and_time
 
 
 class BbcbotSpider(scrapy.Spider):
@@ -29,7 +30,7 @@ class BbcbotSpider(scrapy.Spider):
 
                 'headliner' : show.xpath(
                     "//div[@data-index='%s']/div/div[@class='textwidget']"
-                    "/p/a/strong/text()" % headliner_index
+                    "/p//text()" % headliner_index
                 ).extract_first(),
 
                 'price' : show.xpath(
@@ -45,27 +46,14 @@ class BbcbotSpider(scrapy.Spider):
                 ),
             }
 
-            # This will grab the headliner when there is no link
-            if concert['date_time'] is not None:
-                if concert['headliner'] is None:
-                    concert['headliner'] = show.xpath(
-                        "//div[@data-index='%s']/div/div[@class='textwidget']"
-                        "/p/strong/text()" % headliner_index
-                    ).extract_first()
-
-            # If we still don't have a headliner, skip to the next row
-            if concert['headliner'] is None:
+            # If we don't have a headliner or date, skip to the next row
+            if concert['headliner'] is None or concert['date_time'] is None:
                 continue
 
             # Parse the date and time
-            date_time = concert['date_time'].split("@")
-            if len(date_time) == 1:
-                date_time.append("")
-            date = date_time[0].strip()
-            parsed_date = dateparser.parse(date)
-            concert['date'] = str(parsed_date.date())
-            concert['time'] = date_time[1].strip()
+            when_list = parse_date_and_time(concert['date_time'], "@")
+            concert['date'], concert['time'] = when_list[0], when_list[1]
             del concert['date_time']
 
-            # Yield it as long as there is a headliner and a date
+            # Yields away!
             yield concert

@@ -1,12 +1,14 @@
 # -*- coding: utf-8 -*-
 import scrapy
 import dateparser
-from scrapy.selector import HtmlXPathSelector
+from scripts.useful_functions import parse_date_and_time
 
 
 class CocabotSpider(scrapy.Spider):
     name = 'cocabot'
-    start_urls = ['https://www.tallahasseearts.org/event/?keyword&start_date&end_date&date_format=m-d-Y&term=400&event_location&save_lst_list&view']
+    start_urls = [('https://www.tallahasseearts.org/event/'
+                   '?keyword&start_date&end_date&date_format'
+                   '=m-d-Y&term=400&event_location&save_lst_list&view')]
     custom_settings = {
         'FEED_URI' : 'output/cocaoutput.json'
     }
@@ -43,7 +45,7 @@ class CocabotSpider(scrapy.Spider):
             'venue_coca_url' : extract_with_css(
                 "span.venue-event a::attr(href)"
             ),
-            'event_url' : HtmlXPathSelector(response).select(
+            'event_url' : response.xpath(
                 "//div[@class='a-block-ct']/p/"
                 "a[contains(text(), 'Official Website')]/@href"
             ).extract_first(),
@@ -56,13 +58,9 @@ class CocabotSpider(scrapy.Spider):
         }
 
         # Parse the date and time
-        date = concert['date_time'].split(" at ")[0]
-        time = concert['date_time'].split(" at ")[1]
-        parsed_date = dateparser.parse(date)
-        concert['date'] = str(parsed_date.date())
-        concert['time'] = time.split(" - ")[0]
-        if concert['time'][0] == "0": # strip leading zeros from time
-            concert['time'] = concert['time'][1:]
+        when_list = parse_date_and_time(concert['date_time'], " at ")
+        concert['date'], concert['time'] = when_list[0], when_list[1]
+        concert['time'] = concert['time'].split("(")[0].strip()
         del concert['date_time']
 
         # Parse event website; select official first, COCA as a fallback
@@ -98,7 +96,7 @@ class CocabotSpider(scrapy.Spider):
 
     def parse_venue(self, response):
         item = response.meta['item']
-        item['venue_website'] = HtmlXPathSelector(response).select(
+        item['venue_website'] = response.xpath(
             "//div[@class='art-social-item']/"
             "a[contains(text(), 'Website')]/@href"
         ).extract_first()

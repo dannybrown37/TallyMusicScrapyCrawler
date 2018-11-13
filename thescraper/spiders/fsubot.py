@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 import scrapy
 import os
+from scripts.useful_functions import military_time_to_standard
 
 
 class FsubotSpider(scrapy.Spider):
@@ -51,14 +52,7 @@ class FsubotSpider(scrapy.Spider):
         del concert['tags']
 
         # Convert time from military to standard
-        concert['time'] = concert['time'].split(":")
-        if int(concert['time'][0]) > 12:
-            concert['time'][0] = str(int(concert['time'][0]) - 12)
-            concert['time'] = ':'.join(concert['time']) + "pm"
-        elif int(concert['time'][0]) == 12:
-            concert['time'] = ':'.join(concert['time']) + "pm"
-        else:
-            concert['time'] = ':'.join(concert['time']) + "am"
+        concert['time'] = military_time_to_standard(concert['time'])
 
         # Now let's pick out the venues from this list
         root = "https://calendar.fsu.edu/"
@@ -113,5 +107,4 @@ class FsubotSpider(scrapy.Spider):
         if not concert['venue_address']:
             return
 
-        # Yee-haw!
         yield concert

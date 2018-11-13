@@ -2,7 +2,6 @@
 import scrapy
 from datetime import date
 from dateutil.relativedelta import relativedelta
-from scrapy.selector import HtmlXPathSelector
 
 
 class BluetavernbotSpider(scrapy.Spider):
