@@ -73,5 +73,4 @@ class CdubotSpider(CrawlSpider):
         # Convert time from military to standard
         concert['time'] = military_time_to_standard(concert['time'])
 
-
         yield concert

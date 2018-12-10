@@ -57,3 +57,7 @@ scripts.filter_and_combine.combine_json_files()
 
 # Email myself the json file
 scripts.email_json.send_email()
+
+# Copy the file to TallyMusic's JSON folder
+# Obviously will need to be rewritten if/when paths change
+scripts.copy_to_tallymusic.copy_json_to_tallymusic()

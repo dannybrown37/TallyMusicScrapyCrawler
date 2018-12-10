@@ -2,6 +2,7 @@
 import sys ; sys.dont_write_bytecode = True
 import re
 import json
+import simplejson
 import datetime
 import dateparser
 
@@ -77,6 +78,8 @@ def combine_json_files(dotdot=''):
             cdu_data = json.load(f)
     except IOError:
         cdu_data = []
+    except ValueError: # might eventually need this for others???
+        cdu_data = []
 
     # Civic Center
     try:
@@ -119,7 +122,7 @@ def combine_json_files(dotdot=''):
     date = str(date.date())
     # Output formatted data into new JSON file
     with open(dotdot + 'parsed_output/concerts-%s.json' % date, 'w') as f:
-        json.dump(master, f, indent=2)
+        simplejson.dump(master, f, indent=2)
 
 ###############################################################################
 

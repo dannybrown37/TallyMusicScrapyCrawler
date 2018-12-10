@@ -77,9 +77,21 @@ class CocabotSpider(scrapy.Spider):
         if not concert['price']:
             del concert['price']
 
-        # Special case fix:
+        # Special case fix
         if concert['venue'] == "Fifth & Thomas":
             concert['venue'] = "Fifth and Thomas"
+
+        # Let's eliminate duplicates from scraped venues now
+        to_skip = [
+            'Blue Tavern',
+            'Bradfordville Blues Club',
+            'Fifth and Thomas',
+            'The Moon',
+            'The Junction at Monroe',
+            'The Wilbury',
+        ]
+        if any(venue in concert['venue'] for venue in to_skip):
+            return
 
         # Get the official venue website rather than coca's
         venue_coca_url = concert['venue_coca_url']
