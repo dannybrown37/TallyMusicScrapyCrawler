@@ -17,9 +17,10 @@ def combine_json_files(dotdot=''):
 
     # THE WILBURY
     try:
-        with open(dotdot + 'wilburyoutput.json') as f:
+        with open(dotdot + 'output/wilburyoutput.json') as f:
             wilbury_data = json.load(f)
     except IOError:
+        print "not wilbury!"
         wilbury_data = []
 
     # FIFTH AND THOMAS
@@ -105,11 +106,15 @@ def combine_json_files(dotdot=''):
         civic_data
     ]
 
+
+    date = datetime.datetime.now()
+    date = str(date.date())
     # Combine each list of dicts into a master list of dicts
     master = []
     for sub_data in data:
         for item in sub_data:
-            master.append(item)
+            if item['date'] >= date:
+                master.append(item)
 
     # Add a slug for every concert
     for concert in master:
@@ -118,8 +123,6 @@ def combine_json_files(dotdot=''):
     # Sort the list of dicts by date
     master.sort(key=lambda item:item['date'], reverse=False)
 
-    date = datetime.datetime.now()
-    date = str(date.date())
     # Output formatted data into new JSON file
     with open(dotdot + 'parsed_output/concerts-%s.json' % date, 'w') as f:
         simplejson.dump(master, f, indent=2)

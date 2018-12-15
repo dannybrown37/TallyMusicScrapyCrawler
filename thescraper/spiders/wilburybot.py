@@ -61,6 +61,8 @@ class WilburybotSpider(scrapy.Spider):
                 else:
                     concert['notes'] = concert['price_etc']
                 del concert['price_etc']
+            else:
+                del concert['price_etc']
 
             # we done, son
             yield concert

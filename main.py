@@ -3,6 +3,7 @@ from scrapy.utils.project import get_project_settings
 from scrapy.crawler import CrawlerProcess
 import scripts.filter_and_combine
 import scripts.email_json
+import scripts.copy_to_tallymusic
 import os
 
 setting = get_project_settings()
@@ -33,7 +34,8 @@ for output_file in output_files:
 # Have each spider in the project crawl its web
 for spider_name in process.spiders.list():
     print ("Running spider %s" % (spider_name))
-    process.crawl(spider_name, query="dvh") #query dvh is custom argument used in your scrapy
+    process.crawl(spider_name, query="dvh") #query dvh is custom argument used
+                                            # in your scrapy
 
 process.start()
 
