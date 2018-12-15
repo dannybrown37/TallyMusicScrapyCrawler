@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 import scrapy
+import subprocess
 from scrapy.spiders import CrawlSpider, Rule
 from scrapy.linkextractors import LinkExtractor
 from scrapy_splash import SplashRequest
@@ -14,6 +15,14 @@ class CdubotSpider(CrawlSpider):
     }
 
     def start_requests(self):
+        """
+        # TODO: Debug this: how to call this command by the script and not
+        #       require me to run the environment in the command line???
+        subprocess.check_call(
+            'docker run -p 8050:8050 -p 5023:5023 scrapinghub/splash',
+            shell = True
+        )
+        """
         for url in self.start_urls:
             yield SplashRequest(
                 url,

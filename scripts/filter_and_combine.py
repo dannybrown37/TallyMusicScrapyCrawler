@@ -106,7 +106,6 @@ def combine_json_files(dotdot=''):
         civic_data
     ]
 
-
     date = datetime.datetime.now()
     date = str(date.date())
     # Combine each list of dicts into a master list of dicts
@@ -139,7 +138,6 @@ def slugify(headliner, date=""):
     if date:
         slugify += "-" + date
     return slugify
-
 
 
 if __name__ == "__main__":
