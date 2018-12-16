@@ -15,19 +15,21 @@ class CdubotSpider(CrawlSpider):
     }
 
     def start_requests(self):
-        """
-        # TODO: Debug this: how to call this command by the script and not
-        #       require me to run the environment in the command line???
-        subprocess.check_call(
-            'docker run -p 8050:8050 -p 5023:5023 scrapinghub/splash',
+        subprocess.Popen(
+            'docker run -p 8050:8050'
+            ' -p 5023:5023 --name dcon scrapinghub/splash',
             shell = True
         )
-        """
         for url in self.start_urls:
             yield SplashRequest(
                 url,
                 self.parse,
             )
+
+    def closed(self, reason):
+        subprocess.check_call(
+            'docker stop dcon && docker rm dcon', shell = True
+        )
 
     def parse(self, response):
         for href in response.xpath(
