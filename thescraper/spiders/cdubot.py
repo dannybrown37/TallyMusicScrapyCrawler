@@ -15,7 +15,7 @@ class CdubotSpider(CrawlSpider):
     }
 
     def start_requests(self):
-        subprocess.Popen(
+        subprocess.Popen( # open a docker container named dcon to use splash
             'docker run -p 8050:8050'
             ' -p 5023:5023 --name dcon scrapinghub/splash',
             shell = True
@@ -26,8 +26,9 @@ class CdubotSpider(CrawlSpider):
                 self.parse,
             )
 
-    def closed(self, reason):
+    def closed(self, reason): # runs after the spider closes
         subprocess.check_call(
+            # close and remove the docker container with the splash instance
             'docker stop dcon && docker rm dcon', shell = True
         )
 
