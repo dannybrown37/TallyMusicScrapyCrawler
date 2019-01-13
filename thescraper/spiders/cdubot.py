@@ -2,7 +2,6 @@
 import scrapy
 import subprocess
 from scrapy.spiders import CrawlSpider, Rule
-from scrapy.linkextractors import LinkExtractor
 from scrapy_splash import SplashRequest
 from scripts.useful_functions import military_time_to_standard
 

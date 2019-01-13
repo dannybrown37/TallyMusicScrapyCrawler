@@ -1,4 +1,3 @@
-1a. Debug CDUbot
 1.  OnbotSpider needs to be able to handle concert links with multiple dates.
 2.  OnbotSpider needs to parse out unneeded portion of address data.
 3.  CocabotSpider needs to handle concerts with multiple dates, like plays!
@@ -6,7 +5,7 @@
 
 VENUE LIST courtesy of Hank Saints
 
-621 Gallery
+# # # 621 Gallery
 926 Bar & Grill
 All Saints Club
 B Sharps Jazz Cafe
