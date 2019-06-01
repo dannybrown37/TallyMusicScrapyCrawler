@@ -1,4 +1,8 @@
 # -*- coding: utf-8 -*-
+
+# This one needs some major debugging with splash and whatnot
+"""
+
 import scrapy
 import subprocess
 from scrapy.spiders import CrawlSpider, Rule
@@ -85,3 +89,5 @@ class CdubotSpider(CrawlSpider):
         concert['time'] = military_time_to_standard(concert['time'])
 
         yield concert
+
+"""

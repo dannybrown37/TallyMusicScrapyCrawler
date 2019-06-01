@@ -24,7 +24,7 @@ def copy_json_to_tallymusic(dotdot=''):
     # Now let's call the Django command that adds the JSON to our models
     subprocess.check_call(
         'cd ' + dotdot + '../../tallymusic' # cd to TM project
-        ' && envtm\\scripts\\activate' # activate virtual environment
+        ' && tmvenv\\scripts\\activate' # activate virtual environment
         ' && cd TallyMusic' # cd to inner project folders
         ' && python manage.py load_concerts ' + file_name, # command and comma
         shell=True # this was needed to make it work

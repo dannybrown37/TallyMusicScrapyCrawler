@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 import scrapy
-from scrapy_splash import SplashRequest
+# from scrapy_splash import SplashRequest
 
 
 
