@@ -1,4 +1,5 @@
 import sys ; sys.dont_write_bytecode = True
+import smtplib
 from scrapy.utils.project import get_project_settings
 from scrapy.crawler import CrawlerProcess
 import scripts.filter_and_combine
@@ -58,7 +59,10 @@ for output_file in output_files:
 scripts.filter_and_combine.combine_json_files()
 
 # Email myself the json file
-scripts.email_json.send_email()
+try:
+    scripts.email_json.send_email()
+except smtplib.SMTPAuthenticationError: # Don't break everythying if that fails
+    print("Email failed to send, moving to write SQL.")
 
 # Copy the file to TallyMusic's JSON folder
 # Obviously will need to be rewritten if/when paths change
